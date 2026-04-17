@@ -6,12 +6,12 @@ lastmod: 2026-04-17
 translationKey: "article-per-vs-assurance-vie"
 author: sophie-martin
 categories:
-  - Taxation
+  - Fiscalite
 tags:
   - PER
   - Life insurance
   - Retirement savings
-  - Taxation
+  - Fiscalite
 image: /images/blog/per-vs-assurance-vie.webp
 imageAlt: "PER vs life insurance comparison in 2026"
 imageCredit: "Photo: Pexels"

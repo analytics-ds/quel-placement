@@ -66,7 +66,7 @@ enableEmoji = false
 # Menu EN
 [[languages.en.menus.main]]
   name = "Taxation"
-  url = "/en/categories/taxation/"
+  url = "/en/categories/fiscalite/"
   weight = 1
 [[languages.en.menus.main]]
   name = "Private Equity"
@@ -74,7 +74,7 @@ enableEmoji = false
   weight = 2
 [[languages.en.menus.main]]
   name = "Savings"
-  url = "/en/categories/savings/"
+  url = "/en/categories/epargne/"
   weight = 3
 [[languages.en.menus.main]]
   name = "Credit"
@@ -82,11 +82,11 @@ enableEmoji = false
   weight = 4
 [[languages.en.menus.main]]
   name = "Bank Account"
-  url = "/en/categories/bank-account/"
+  url = "/en/categories/compte-bancaire/"
   weight = 5
 [[languages.en.menus.main]]
   name = "Insurance"
-  url = "/en/categories/insurance/"
+  url = "/en/categories/assurance/"
   weight = 6
 [[languages.en.menus.main]]
   name = "Glossary"

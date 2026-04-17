@@ -6,7 +6,7 @@ lastmod: 2026-04-17
 translationKey: "article-prevoyance-jeune"
 author: sophie-martin
 categories:
-  - Insurance
+  - Assurance
 tags:
   - Protection insurance
   - Disability

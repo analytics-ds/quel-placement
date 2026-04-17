@@ -6,7 +6,7 @@ lastmod: 2026-04-17
 translationKey: "article-ifi-2026"
 author: sophie-martin
 categories:
-  - Taxation
+  - Fiscalite
 tags:
   - IFI
   - Real estate wealth tax

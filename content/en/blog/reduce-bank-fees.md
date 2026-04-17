@@ -6,12 +6,12 @@ lastmod: 2026-04-17
 translationKey: "article-frais-bancaires"
 author: sophie-martin
 categories:
-  - Bank Account
+  - Compte bancaire
 tags:
   - Bank fees
   - Banking mobility
   - Negotiation
-  - Savings
+  - Epargne
 image: /images/blog/frais-bancaires-reduire.webp
 imageAlt: "Reduce bank fees in 2026"
 imageCredit: "Photo: Pexels"

@@ -6,7 +6,7 @@ lastmod: 2026-04-17
 translationKey: "article-banque-ligne-vs-neobanque"
 author: sophie-martin
 categories:
-  - Bank Account
+  - Compte bancaire
 tags:
   - Online bank
   - Neobank

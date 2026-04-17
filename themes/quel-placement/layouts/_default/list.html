@@ -1,17 +1,26 @@
 {{ define "main" }}
 
+{{ $lang := .Site.Language.Lang }}
+{{ $pages := slice }}
+{{ range .Pages }}
+  {{ $isEn := strings.Contains .RelPermalink "/en/" }}
+  {{ if or (and (eq $lang "en") $isEn) (and (eq $lang "fr") (not $isEn)) }}
+    {{ $pages = $pages | append . }}
+  {{ end }}
+{{ end }}
+
 <section class="list-header">
     <div class="container">
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
-        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
+        <span class="list-count">{{ len $pages }} {{ if gt (len $pages) 1 }}articles{{ else }}article{{ end }}</span>
     </div>
 </section>
 
 <section class="list-content">
     <div class="container">
         <div class="articles-list">
-            {{ range .Pages.ByDate.Reverse }}
+            {{ range (sort $pages "Date" "desc") }}
             <article class="article-card-horizontal">
                 <a href="{{ .RelPermalink }}" class="article-card-horizontal-image-wrapper" aria-label="{{ .Title }}">
                     {{ if .Params.image }}

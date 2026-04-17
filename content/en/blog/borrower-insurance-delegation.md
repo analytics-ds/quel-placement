@@ -6,7 +6,7 @@ lastmod: 2026-04-17
 translationKey: "article-assurance-emprunteur"
 author: sophie-martin
 categories:
-  - Insurance
+  - Assurance
 tags:
   - Borrower insurance
   - Delegation
