@@ -28,6 +28,7 @@
     <div class="container">
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
+        {{ with .Content }}<div class="list-intro">{{ . }}</div>{{ end }}
         <span class="list-count">{{ len $pages }} {{ if gt (len $pages) 1 }}articles{{ else }}article{{ end }}</span>
     </div>
 </section>

@@ -2542,3 +2542,15 @@ img {
 .lang-switcher-mobile .lang-switcher-item:last-child {
     border-bottom: none;
 }
+
+.list-intro {
+    max-width: 780px;
+    color: var(--text-light);
+    font-size: 1rem;
+    line-height: 1.7;
+    margin: var(--space-sm) 0 var(--space-md);
+}
+.list-intro p {
+    margin: 0 0 var(--space-sm);
+}
+.list-intro p:last-child { margin-bottom: 0; }
