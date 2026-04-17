@@ -1,0 +1,29 @@
+---
+title: "A propos de Quel Placement"
+description: "Decouvrez Quel Placement, le blog independant qui decrypte la finance, l'investissement et les placements pour tous les Francais."
+translationKey: "about"
+lastmod: 2026-04-17
+layout: "page"
+---
+
+Quel Placement est un blog independant dedie a la finance personnelle. Notre mission : rendre l'investissement accessible a chacun, sans jargon ni discours commercial.
+
+## Notre ligne editoriale
+
+Nous publions des analyses factuelles sur six grandes thematiques :
+
+- **Fiscalite** : comprendre la loi de finances, l'IR, l'IFI, les dispositifs de defiscalisation
+- **Private Equity** : investir dans le non cote (FCPR, FIP, FCPI)
+- **Epargne** : livret A, LDDS, assurance vie, PEA, PER
+- **Credit** : immobilier, consommation, rachat
+- **Compte bancaire** : comparatifs banques en ligne, neobanques, banques traditionnelles
+- **Assurance** : auto, habitation, prevoyance, sante
+
+## Notre engagement
+
+- Contenus relus par des professionnels du secteur
+- Aucun placement sponsorise sans mention explicite
+- Mise a jour reguliere des articles selon l'actualite fiscale et financiere
+- Sources citees pour chaque donnee chiffree
+
+Pour toute question, rendez-vous sur notre [page contact](/contact/) ou consultez notre [lexique financier](/lexique/).

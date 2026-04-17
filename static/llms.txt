@@ -1,0 +1,39 @@
+# Quel Placement
+
+> Le blog reference pour comprendre la finance, l'investissement et choisir les meilleurs placements en France.
+
+## A propos
+
+Quel Placement est un blog independant dedie a la finance personnelle. Nous publions des analyses factuelles, sans jargon ni discours commercial, pour aider les particuliers a maitriser leur patrimoine : fiscalite, private equity, epargne, credit, comptes bancaires et assurance.
+
+## Contenu principal
+
+- [Fiscalite](https://quel-placement.fr/categories/fiscalite/) : IFI, IR, defiscalisation, dispositifs d'optimisation
+- [Private Equity](https://quel-placement.fr/categories/private-equity/) : FCPR, FIP, FCPI, investissement non cote
+- [Epargne](https://quel-placement.fr/categories/epargne/) : Livret A, LDDS, assurance vie, PEA, PER
+- [Credit](https://quel-placement.fr/categories/credit/) : immobilier, consommation, rachat
+- [Compte bancaire](https://quel-placement.fr/categories/compte-bancaire/) : banques en ligne, neobanques, frais bancaires
+- [Assurance](https://quel-placement.fr/categories/assurance/) : emprunteur, prevoyance, auto, habitation
+
+## Articles recents
+
+- [Comprendre l'IFI en 2026](https://quel-placement.fr/blog/comprendre-ifi-2026/)
+- [PER vs assurance vie](https://quel-placement.fr/blog/per-vs-assurance-vie/)
+- [FCPR : investir dans le non cote](https://quel-placement.fr/blog/fcpr-investir-non-cote/)
+- [Taux immobilier 2026](https://quel-placement.fr/blog/taux-immobilier-2026/)
+- [Banques en ligne vs neobanques](https://quel-placement.fr/blog/banques-en-ligne-vs-neobanques/)
+- [Assurance emprunteur : delegation ou groupe](https://quel-placement.fr/blog/assurance-emprunteur-delegation/)
+
+## Ressources
+
+- [Lexique financier](https://quel-placement.fr/lexique/)
+- [A propos](https://quel-placement.fr/a-propos/)
+- [Contact](https://quel-placement.fr/contact/)
+
+## Informations techniques
+
+- Langue principale : francais (version anglaise disponible sur /en/)
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Sitemap : https://quel-placement.fr/sitemap.xml
+- RSS : https://quel-placement.fr/index.xml

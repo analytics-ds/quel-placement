@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "fr" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+    <!-- Google Search Console verification -->
+    <meta name="google-site-verification" content="vRJQd9U4aY-d2ypVkDLzYqmI6eQjukvPxe200izDv34">
+
+    {{ partial "seo-head.html" . }}
+
+    <!-- Google Fonts (non-blocking) : Plus Jakarta Sans + Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" data-media="all">
+    <script>document.querySelectorAll('link[data-media]').forEach(function(l){l.addEventListener('load',function(){l.media=l.dataset.media})});</script>
+
+    {{ $css := resources.Get "css/main.css" }}
+    {{ if $css }}
+        <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{ end }}
+</head>
+<body>
+    <a href="#main-content" class="skip-to-content">{{ if eq .Site.Language.Lang "en" }}Skip to content{{ else }}Aller au contenu{{ end }}</a>
+
+    {{ partial "header.html" . }}
+
+    <main id="main-content">
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

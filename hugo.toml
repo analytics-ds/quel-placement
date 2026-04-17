@@ -1,0 +1,137 @@
+baseURL = "https://quel-placement.fr/"
+title = "Quel Placement"
+theme = "quel-placement"
+
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+enableEmoji = false
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-FR"
+    languageName = "Francais"
+    weight = 1
+    title = "Quel Placement"
+    [languages.fr.params]
+      description = "Le blog reference pour comprendre la finance, l'investissement et choisir les meilleurs placements."
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    title = "Quel Placement"
+    [languages.en.params]
+      description = "The reference blog to understand finance, investing and choose the best placements."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Menu FR
+[[languages.fr.menus.main]]
+  name = "Fiscalite"
+  url = "/categories/fiscalite/"
+  weight = 1
+[[languages.fr.menus.main]]
+  name = "Private Equity"
+  url = "/categories/private-equity/"
+  weight = 2
+[[languages.fr.menus.main]]
+  name = "Epargne"
+  url = "/categories/epargne/"
+  weight = 3
+[[languages.fr.menus.main]]
+  name = "Credit"
+  url = "/categories/credit/"
+  weight = 4
+[[languages.fr.menus.main]]
+  name = "Compte bancaire"
+  url = "/categories/compte-bancaire/"
+  weight = 5
+[[languages.fr.menus.main]]
+  name = "Assurance"
+  url = "/categories/assurance/"
+  weight = 6
+[[languages.fr.menus.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 97
+[[languages.fr.menus.main]]
+  name = "Lexique"
+  url = "/lexique/"
+  weight = 98
+[[languages.fr.menus.main]]
+  name = "A propos"
+  url = "/a-propos/"
+  weight = 99
+
+# Menu EN
+[[languages.en.menus.main]]
+  name = "Taxation"
+  url = "/en/categories/taxation/"
+  weight = 1
+[[languages.en.menus.main]]
+  name = "Private Equity"
+  url = "/en/categories/private-equity/"
+  weight = 2
+[[languages.en.menus.main]]
+  name = "Savings"
+  url = "/en/categories/savings/"
+  weight = 3
+[[languages.en.menus.main]]
+  name = "Credit"
+  url = "/en/categories/credit/"
+  weight = 4
+[[languages.en.menus.main]]
+  name = "Bank Account"
+  url = "/en/categories/bank-account/"
+  weight = 5
+[[languages.en.menus.main]]
+  name = "Insurance"
+  url = "/en/categories/insurance/"
+  weight = 6
+[[languages.en.menus.main]]
+  name = "Blog"
+  url = "/en/blog/"
+  weight = 97
+[[languages.en.menus.main]]
+  name = "Glossary"
+  url = "/en/glossary/"
+  weight = 98
+[[languages.en.menus.main]]
+  name = "About"
+  url = "/en/about/"
+  weight = 99
+
+[params]
+  default_og_image = "/images/og-default.svg"
+  logo = "/favicon.svg"
+  founding_year = "2026"
+  expertise = ["Finance personnelle", "Investissement", "Fiscalite", "Epargne", "Private Equity", "Credit", "Assurance"]
+  og_locale_alternate = "en_US"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
