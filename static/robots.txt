@@ -1,14 +1,36 @@
+# Quel Placement
+# https://quel-placement.com
+# robots.txt - Derniere mise a jour : 2026-04-17
+
+# ==============================
+# Tous les robots
+# ==============================
 User-agent: *
 Allow: /
+Disallow:
 
-# Agents SEO classiques
+Allow: /blog/
+Allow: /categories/
+Allow: /authors/
+Allow: /lexique/
+Allow: /plan-du-site/
+Allow: /assets/
+
+# ==============================
+# Googlebot
+# ==============================
 User-agent: Googlebot
 Allow: /
 
+# ==============================
+# Bingbot
+# ==============================
 User-agent: Bingbot
 Allow: /
 
-# Agents IA / GEO : autorises (le contenu est public et independant)
+# ==============================
+# Agents IA / LLMs (GEO)
+# ==============================
 User-agent: GPTBot
 Allow: /
 
@@ -42,4 +64,13 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://analytics-ds.github.io/quel-placement/sitemap.xml
+# ==============================
+# Sitemap
+# ==============================
+Sitemap: https://quel-placement.com/sitemap.xml
+# Le sitemap principal (index) reference /fr/sitemap.xml et /en/sitemap.xml
+
+# ==============================
+# llms.txt pour les LLMs
+# ==============================
+# https://quel-placement.com/llms.txt
