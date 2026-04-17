@@ -5,7 +5,7 @@ theme = "quel-placement"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableEmoji = false
 
 [languages]
