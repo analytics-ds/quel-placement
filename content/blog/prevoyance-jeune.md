@@ -8,7 +8,7 @@ author: sophie-martin
 categories:
   - Assurance
 tags:
-  - Prévoyance
+  - Prevoyance
   - Invalidite
   - Deces
   - Protection revenus

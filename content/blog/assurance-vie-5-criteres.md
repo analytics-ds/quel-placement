@@ -6,7 +6,7 @@ lastmod: 2026-04-17
 translationKey: "article-assurance-vie-critères"
 author: sophie-martin
 categories:
-  - Épargne
+  - Epargne
 tags:
   - Assurance vie
   - Fonds euros

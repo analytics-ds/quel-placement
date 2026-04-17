@@ -6,7 +6,7 @@ lastmod: 2026-04-17
 translationKey: "article-livret-a-vs-ldds"
 author: sophie-martin
 categories:
-  - Épargne
+  - Epargne
 tags:
   - Livret A
   - LDDS
