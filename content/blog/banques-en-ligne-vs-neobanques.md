@@ -12,7 +12,7 @@ tags:
   - Neobanque
   - Frais bancaires
   - Compte courant
-image: /images/blog/banques-en-ligne-vs-neobanques.webp
+image: images/blog/banques-en-ligne-vs-neobanques.webp
 imageAlt: "Banques en ligne vs neobanques en 2026"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -84,4 +84,4 @@ Pour une banque principale avec credit et épargne : banque en ligne. Pour un co
 
 ## Liens utiles
 
-[Frais bancaires](/blog/frais-bancaires-reduire/), [Assurance vie](/blog/assurance-vie-5-critères/), [lexique](/lexique/).
+[Frais bancaires](/blog/frais-bancaires-reduire/), [Assurance vie](/blog/assurance-vie-5-criteres/), [lexique](/lexique/).

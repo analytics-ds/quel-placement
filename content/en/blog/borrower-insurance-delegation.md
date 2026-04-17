@@ -12,7 +12,7 @@ tags:
   - Delegation
   - Mortgage
   - Lemoine law
-image: /images/blog/assurance-emprunteur-delegation.webp
+image: images/blog/assurance-emprunteur-delegation.webp
 imageAlt: "Borrower insurance delegation or group"
 imageCredit: "Photo: Pexels"
 draft: false

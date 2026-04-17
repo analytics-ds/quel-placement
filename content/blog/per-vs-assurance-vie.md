@@ -12,7 +12,7 @@ tags:
   - Assurance vie
   - Épargne retraite
   - Fiscalite
-image: /images/blog/per-vs-assurance-vie.webp
+image: images/blog/per-vs-assurance-vie.webp
 imageAlt: "Comparatif PER et assurance vie en 2026"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -64,7 +64,7 @@ Si votre taux marginal d'imposition baisse a la retraite, le gain fiscal est enc
 
 ## Strategies hybrides
 
-Beaucoup de patrimoines combinent les deux enveloppes. Le PER capte la réduction fiscale immediate, l'assurance vie joue le role de poche d'épargne souple. Pour aller plus loin, consultez notre [guide de l'assurance vie](/blog/assurance-vie-5-critères/) et notre article sur les [FCPR](/blog/fcpr-investir-non-coté/) qui peuvent loger dans un PER.
+Beaucoup de patrimoines combinent les deux enveloppes. Le PER capte la réduction fiscale immediate, l'assurance vie joue le role de poche d'épargne souple. Pour aller plus loin, consultez notre [guide de l'assurance vie](/blog/assurance-vie-5-criteres/) et notre article sur les [FCPR](/blog/fcpr-investir-non-cote/) qui peuvent loger dans un PER.
 
 <div class="callout-aretenir">
 Le PER repousse l'impôt plutôt que de le supprimer. Le vrai gain depend de l'écart entre votre TMI pendant la vie active et a la retraite. Pour la transmission, l'assurance vie garde un avantage structurel.

@@ -12,7 +12,7 @@ tags:
   - LDDS
   - Épargne réglementée
   - Épargne de précaution
-image: /images/blog/livret-a-vs-ldds.webp
+image: images/blog/livret-a-vs-ldds.webp
 imageAlt: "Livret A ou LDDS : comparatif 2026"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -74,4 +74,4 @@ Livret A et LDDS ne sont pas concurrents mais complémentaires. Au total, un par
 
 ## Liens utiles
 
-[Assurance vie](/blog/assurance-vie-5-critères/), [PER vs assurance vie](/blog/per-vs-assurance-vie/), [lexique](/lexique/).
+[Assurance vie](/blog/assurance-vie-5-criteres/), [PER vs assurance vie](/blog/per-vs-assurance-vie/), [lexique](/lexique/).

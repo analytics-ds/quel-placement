@@ -12,7 +12,7 @@ tags:
   - FCPI
   - Réduction IR
   - Private Equity
-image: /images/blog/fip-fcpi-réductions-2026.webp
+image: images/blog/fip-fcpi-reductions-2026.webp
 imageAlt: "FIP et FCPI : réduction d'impôt en 2026"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -85,4 +85,4 @@ La réduction d'IR est attractive sur le papier, mais ne doit pas faire oublier 
 
 ## Liens utiles
 
-[FCPR](/blog/fcpr-investir-non-coté/), [IFI 2026](/blog/comprendre-ifi-2026/), [PER vs assurance vie](/blog/per-vs-assurance-vie/), [lexique](/lexique/).
+[FCPR](/blog/fcpr-investir-non-cote/), [IFI 2026](/blog/comprendre-ifi-2026/), [PER vs assurance vie](/blog/per-vs-assurance-vie/), [lexique](/lexique/).

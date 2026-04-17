@@ -12,7 +12,7 @@ tags:
   - Real estate loan
   - Borrowing capacity
   - Real estate purchase
-image: /images/blog/taux-immobilier-2026.webp
+image: images/blog/taux-immobilier-2026.webp
 imageAlt: "Mortgage rates 2026: analysis and strategies"
 imageCredit: "Photo: Pexels"
 draft: false

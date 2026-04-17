@@ -12,7 +12,7 @@ tags:
   - Private Equity
   - Non coté
   - Investissement long terme
-image: /images/blog/fcpr-investir-non-coté.webp
+image: images/blog/fcpr-investir-non-cote.webp
 imageAlt: "Investir en FCPR dans le private equity non coté"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -77,7 +77,7 @@ Le FCPR n'est pas adapté a une épargne de précaution ni a un horizon de place
 
 ## Strategies d'investissement
 
-Pour les investisseurs interesses, plusieurs approches coexistent : diversification geographique, secteur (tech, sante, infrastructure), stade de développement (amorcage, croissance, retournement). Pour combiner fiscalité et diversification, voir nos articles sur les [FIP et FCPI](/blog/fip-fcpi-réductions-2026/) et sur le [PER](/blog/per-vs-assurance-vie/).
+Pour les investisseurs interesses, plusieurs approches coexistent : diversification geographique, secteur (tech, sante, infrastructure), stade de développement (amorcage, croissance, retournement). Pour combiner fiscalité et diversification, voir nos articles sur les [FIP et FCPI](/blog/fip-fcpi-reductions-2026/) et sur le [PER](/blog/per-vs-assurance-vie/).
 
 <div class="callout-aretenir">
 Le FCPR est un outil puissant de diversification patrimoniale, mais réservé a des investisseurs capables de bloquer une fraction de leur épargne 7 a 10 ans sans besoin de liquidité. Bien choisir la société de gestion et sa strategie est decisif.
@@ -85,4 +85,4 @@ Le FCPR est un outil puissant de diversification patrimoniale, mais réservé a 
 
 ## Liens utiles
 
-[Comprendre l'IFI](/blog/comprendre-ifi-2026/), [FIP et FCPI](/blog/fip-fcpi-réductions-2026/), [lexique financier](/lexique/).
+[Comprendre l'IFI](/blog/comprendre-ifi-2026/), [FIP et FCPI](/blog/fip-fcpi-reductions-2026/), [lexique financier](/lexique/).

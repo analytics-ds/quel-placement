@@ -12,7 +12,7 @@ tags:
   - LDDS
   - Regulated savings
   - Precautionary savings
-image: /images/blog/livret-a-vs-ldds.webp
+image: images/blog/livret-a-vs-ldds.webp
 imageAlt: "Livret A vs LDDS: 2026 comparison"
 imageCredit: "Photo: Pexels"
 draft: false

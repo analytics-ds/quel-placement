@@ -12,7 +12,7 @@ tags:
   - Renegotiation
   - Mortgage
   - Epargne
-image: /images/blog/rachat-de-credit.webp
+image: images/blog/rachat-de-credit.webp
 imageAlt: "Credit refinancing: 2026 profitability"
 imageCredit: "Photo: Pexels"
 draft: false

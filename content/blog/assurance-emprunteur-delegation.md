@@ -12,7 +12,7 @@ tags:
   - Delegation
   - Credit immobilier
   - Loi Lemoine
-image: /images/blog/assurance-emprunteur-delegation.webp
+image: images/blog/assurance-emprunteur-delegation.webp
 imageAlt: "Assurance emprunteur delegation ou groupe"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -85,4 +85,4 @@ La loi Lemoine a libere le marché de l'assurance emprunteur. Tous les emprunteu
 
 ## Liens utiles
 
-[Taux immobilier 2026](/blog/taux-immobilier-2026/), [Rachat de credit](/blog/rachat-de-credit/), [Prévoyance](/blog/prévoyance-jeune/), [lexique](/lexique/).
+[Taux immobilier 2026](/blog/taux-immobilier-2026/), [Rachat de credit](/blog/rachat-de-credit/), [Prévoyance](/blog/prevoyance-jeune/), [lexique](/lexique/).

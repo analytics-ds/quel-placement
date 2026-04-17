@@ -12,7 +12,7 @@ tags:
   - Disability
   - Death
   - Income protection
-image: /images/blog/prevoyance-jeune.webp
+image: images/blog/prevoyance-jeune.webp
 imageAlt: "Protection: disability and death insurance"
 imageCredit: "Photo: Pexels"
 draft: false

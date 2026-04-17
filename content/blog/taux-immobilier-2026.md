@@ -12,7 +12,7 @@ tags:
   - Credit immobilier
   - Capacite d'emprunt
   - Achat immobilier
-image: /images/blog/taux-immobilier-2026.webp
+image: images/blog/taux-immobilier-2026.webp
 imageAlt: "Taux immobilier 2026 : analyse et strategies"
 imageCredit: "Photo : Pexels"
 draft: false

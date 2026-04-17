@@ -12,7 +12,7 @@ tags:
   - Banking mobility
   - Negotiation
   - Epargne
-image: /images/blog/frais-bancaires-reduire.webp
+image: images/blog/frais-bancaires-reduire.webp
 imageAlt: "Reduce bank fees in 2026"
 imageCredit: "Photo: Pexels"
 draft: false

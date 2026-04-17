@@ -12,7 +12,7 @@ thomas-durand:
   id: thomas-durand
   name: Thomas Durand
   type: person
-  avatar: /images/authors/thomas-durand.webp
+  avatar: images/authors/thomas-durand.webp
   linkedinUrl: ""
   jobTitle:
     fr: Redacteur en chef & analyste tech
@@ -50,7 +50,7 @@ magalie-ergoz:
   id: magalie-ergoz
   name: Magalie Ergoz
   type: person
-  avatar: /images/authors/magalie-ergoz.webp
+  avatar: images/authors/magalie-ergoz.webp
   linkedinUrl: ""
   jobTitle:
     fr: Blogueuse mode & beaute
@@ -85,7 +85,7 @@ claire-beaumont:
   id: claire-beaumont
   name: Claire Beaumont
   type: person
-  avatar: /images/authors/claire-beaumont.webp
+  avatar: images/authors/claire-beaumont.webp
   linkedinUrl: ""
   jobTitle:
     fr: Architecte d'interieur & blogueuse deco
@@ -123,7 +123,7 @@ laura-verdier:
   id: laura-verdier
   name: Laura Verdier
   type: person
-  avatar: /images/authors/laura-verdier.webp
+  avatar: images/authors/laura-verdier.webp
   linkedinUrl: ""
   jobTitle:
     fr: Journaliste sante & bien-etre
@@ -161,7 +161,7 @@ kevin-moreau:
   id: kevin-moreau
   name: Kevin Moreau
   type: person
-  avatar: /images/authors/kevin-moreau.webp
+  avatar: images/authors/kevin-moreau.webp
   linkedinUrl: ""
   jobTitle:
     fr: Journaliste auto & mobilite
@@ -200,7 +200,7 @@ sophie-martin:
   id: sophie-martin
   name: Sophie Martin
   type: person
-  avatar: /images/authors/sophie-martin.svg
+  avatar: images/authors/sophie-martin.svg
   linkedinUrl: ""
   jobTitle:
     fr: Journaliste finance & patrimoine

@@ -12,7 +12,7 @@ tags:
   - Euro funds
   - Unit-linked
   - Fees
-image: /images/blog/assurance-vie-5-criteres.webp
+image: images/blog/assurance-vie-5-criteres.webp
 imageAlt: "Life insurance: 2026 selection criteria"
 imageCredit: "Photo: Pexels"
 draft: false

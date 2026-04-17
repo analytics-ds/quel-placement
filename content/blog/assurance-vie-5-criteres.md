@@ -12,7 +12,7 @@ tags:
   - Fonds euros
   - Unites de compte
   - Frais
-image: /images/blog/assurance-vie-5-critères.webp
+image: images/blog/assurance-vie-5-criteres.webp
 imageAlt: "Assurance vie : critères de choix 2026"
 imageCredit: "Photo : Pexels"
 draft: false

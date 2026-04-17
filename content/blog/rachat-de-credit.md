@@ -12,7 +12,7 @@ tags:
   - Renegociation
   - Credit immobilier
   - Economie
-image: /images/blog/rachat-de-credit.webp
+image: images/blog/rachat-de-credit.webp
 imageAlt: "Rachat de credit : calcul de rentabilite 2026"
 imageCredit: "Photo : Pexels"
 draft: false

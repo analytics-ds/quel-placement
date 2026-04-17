@@ -12,7 +12,7 @@ tags:
   - Life insurance
   - Retirement savings
   - Fiscalite
-image: /images/blog/per-vs-assurance-vie.webp
+image: images/blog/per-vs-assurance-vie.webp
 imageAlt: "PER vs life insurance comparison in 2026"
 imageCredit: "Photo: Pexels"
 draft: false

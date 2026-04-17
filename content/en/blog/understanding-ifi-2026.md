@@ -12,7 +12,7 @@ tags:
   - Real estate wealth tax
   - Tax planning
   - Wealth
-image: /images/blog/comprendre-ifi-2026.webp
+image: images/blog/comprendre-ifi-2026.webp
 imageAlt: "IFI 2026 illustration: calculator and real estate documents"
 imageCredit: "Photo: Pexels"
 draft: false

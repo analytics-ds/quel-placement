@@ -12,7 +12,7 @@ tags:
   - Impôt fortune immobiliere
   - Défiscalisation
   - Patrimoine
-image: /images/blog/comprendre-ifi-2026.webp
+image: images/blog/comprendre-ifi-2026.webp
 imageAlt: "Illustration IFI 2026 : calculatrice et documents immobiliers"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -68,9 +68,9 @@ Plusieurs leviers permettent de reduire l'IFI :
 - **Investissement en nue-propriete** : reduit la base taxable pendant toute la duree du demembrement
 
 <div class="callout-aretenir">
-L'IFI se declare en meme temps que l'impôt sur le revenu. L'evaluation des biens au 1er janvier engage le contribuable, une sous-estimation peut entrainer un redressement. Pour optimiser, consulter nos articles sur le [PER](/blog/per-vs-assurance-vie/) et les [FCPR](/blog/fcpr-investir-non-coté/) qui sortent du champ de l'IFI.
+L'IFI se declare en meme temps que l'impôt sur le revenu. L'evaluation des biens au 1er janvier engage le contribuable, une sous-estimation peut entrainer un redressement. Pour optimiser, consulter nos articles sur le [PER](/blog/per-vs-assurance-vie/) et les [FCPR](/blog/fcpr-investir-non-cote/) qui sortent du champ de l'IFI.
 </div>
 
 ## Liens utiles
 
-Pour comprendre les autres dispositifs de défiscalisation, consultez notre [lexique financier](/lexique/). Pour aller plus loin sur l'optimisation patrimoniale, voir notre article sur [l'assurance vie](/blog/assurance-vie-5-critères/) et nos analyses dedies aux [FIP et FCPI](/blog/fip-fcpi-réductions-2026/).
+Pour comprendre les autres dispositifs de défiscalisation, consultez notre [lexique financier](/lexique/). Pour aller plus loin sur l'optimisation patrimoniale, voir notre article sur [l'assurance vie](/blog/assurance-vie-5-criteres/) et nos analyses dedies aux [FIP et FCPI](/blog/fip-fcpi-reductions-2026/).

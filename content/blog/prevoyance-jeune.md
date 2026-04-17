@@ -12,7 +12,7 @@ tags:
   - Invalidite
   - Deces
   - Protection revenus
-image: /images/blog/prévoyance-jeune.webp
+image: images/blog/prevoyance-jeune.webp
 imageAlt: "Prévoyance : assurance invalidite et décès"
 imageCredit: "Photo : Pexels"
 draft: false
@@ -92,4 +92,4 @@ La prévoyance est un investissement sur la duree : plus tot on souscrit, plus c
 
 ## Liens utiles
 
-[Assurance emprunteur](/blog/assurance-emprunteur-delegation/), [Assurance vie](/blog/assurance-vie-5-critères/), [PER vs assurance vie](/blog/per-vs-assurance-vie/), [lexique](/lexique/).
+[Assurance emprunteur](/blog/assurance-emprunteur-delegation/), [Assurance vie](/blog/assurance-vie-5-criteres/), [PER vs assurance vie](/blog/per-vs-assurance-vie/), [lexique](/lexique/).
