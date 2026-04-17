@@ -12,9 +12,9 @@ tags:
   - Mobilite bancaire
   - Negociation
   - Economies
-image: /images/blog/placeholder.svg
+image: /images/blog/frais-bancaires-reduire.webp
 imageAlt: "Reduire les frais bancaires en 2026"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Quels sont les frais bancaires les plus courants ?"

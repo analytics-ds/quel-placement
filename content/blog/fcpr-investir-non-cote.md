@@ -12,9 +12,9 @@ tags:
   - Private Equity
   - Non cote
   - Investissement long terme
-image: /images/blog/placeholder.svg
+image: /images/blog/fcpr-investir-non-cote.webp
 imageAlt: "Investir en FCPR dans le private equity non cote"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Qu'est-ce qu'un FCPR ?"

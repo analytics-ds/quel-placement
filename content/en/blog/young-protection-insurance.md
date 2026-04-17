@@ -12,9 +12,9 @@ tags:
   - Disability
   - Death
   - Income protection
-image: /images/blog/placeholder.svg
+image: /images/blog/prevoyance-jeune.webp
 imageAlt: "Protection: disability and death insurance"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What is protection insurance?"

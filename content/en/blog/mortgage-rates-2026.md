@@ -12,9 +12,9 @@ tags:
   - Real estate loan
   - Borrowing capacity
   - Real estate purchase
-image: /images/blog/placeholder.svg
+image: /images/blog/taux-immobilier-2026.webp
 imageAlt: "Mortgage rates 2026: analysis and strategies"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What are the average mortgage rates in 2026?"

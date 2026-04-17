@@ -12,9 +12,9 @@ tags:
   - Private Equity
   - Unlisted
   - Long-term investing
-image: /images/blog/placeholder.svg
+image: /images/blog/fcpr-investir-non-cote.webp
 imageAlt: "Investing in FCPR unlisted private equity"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What is a FCPR?"

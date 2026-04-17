@@ -18,13 +18,11 @@
                 <nav aria-label="Footer navigation">
                     <ul>
                         {{ if eq .Site.Language.Lang "en" }}
-                        <li><a href="{{ "en/blog/" | relURL }}">The Blog</a></li>
                         <li><a href="{{ "en/glossary/" | relURL }}">Glossary</a></li>
                         <li><a href="{{ "en/about/" | relURL }}">About</a></li>
                         <li><a href="{{ "en/contact/" | relURL }}">Contact</a></li>
                         <li><a href="{{ "en/site-map/" | relURL }}">Site Map</a></li>
                         {{ else }}
-                        <li><a href="{{ "blog/" | relURL }}">Le Blog</a></li>
                         <li><a href="{{ "lexique/" | relURL }}">Lexique</a></li>
                         <li><a href="{{ "a-propos/" | relURL }}">A propos</a></li>
                         <li><a href="{{ "contact/" | relURL }}">Contact</a></li>

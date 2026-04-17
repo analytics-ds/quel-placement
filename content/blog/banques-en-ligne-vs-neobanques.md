@@ -12,9 +12,9 @@ tags:
   - Neobanque
   - Frais bancaires
   - Compte courant
-image: /images/blog/placeholder.svg
+image: /images/blog/banques-en-ligne-vs-neobanques.webp
 imageAlt: "Banques en ligne vs neobanques en 2026"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Quelle difference entre banque en ligne et neobanque ?"

@@ -12,9 +12,9 @@ tags:
   - Impot fortune immobiliere
   - Defiscalisation
   - Patrimoine
-image: /images/blog/placeholder.svg
+image: /images/blog/comprendre-ifi-2026.webp
 imageAlt: "Illustration IFI 2026 : calculatrice et documents immobiliers"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Qu'est-ce que l'IFI ?"

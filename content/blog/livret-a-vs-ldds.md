@@ -12,9 +12,9 @@ tags:
   - LDDS
   - Epargne reglementee
   - Epargne de precaution
-image: /images/blog/placeholder.svg
+image: /images/blog/livret-a-vs-ldds.webp
 imageAlt: "Livret A ou LDDS : comparatif 2026"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Quel est le taux du Livret A en 2026 ?"

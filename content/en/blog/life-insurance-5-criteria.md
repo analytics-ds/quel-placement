@@ -12,9 +12,9 @@ tags:
   - Euro funds
   - Unit-linked
   - Fees
-image: /images/blog/placeholder.svg
+image: /images/blog/assurance-vie-5-criteres.webp
 imageAlt: "Life insurance: 2026 selection criteria"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What are the criteria to choose a life insurance?"

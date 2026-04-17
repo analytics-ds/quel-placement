@@ -12,9 +12,9 @@ tags:
   - Banking mobility
   - Negotiation
   - Savings
-image: /images/blog/placeholder.svg
+image: /images/blog/frais-bancaires-reduire.webp
 imageAlt: "Reduce bank fees in 2026"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What are the most common bank fees?"

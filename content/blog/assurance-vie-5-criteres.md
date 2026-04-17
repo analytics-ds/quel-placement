@@ -12,9 +12,9 @@ tags:
   - Fonds euros
   - Unites de compte
   - Frais
-image: /images/blog/placeholder.svg
+image: /images/blog/assurance-vie-5-criteres.webp
 imageAlt: "Assurance vie : criteres de choix 2026"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Quels sont les criteres pour choisir une assurance vie ?"

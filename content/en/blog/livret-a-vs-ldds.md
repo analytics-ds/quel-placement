@@ -12,9 +12,9 @@ tags:
   - LDDS
   - Regulated savings
   - Precautionary savings
-image: /images/blog/placeholder.svg
+image: /images/blog/livret-a-vs-ldds.webp
 imageAlt: "Livret A vs LDDS: 2026 comparison"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What is the Livret A rate in 2026?"

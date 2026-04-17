@@ -12,9 +12,9 @@ tags:
   - Delegation
   - Credit immobilier
   - Loi Lemoine
-image: /images/blog/placeholder.svg
+image: /images/blog/assurance-emprunteur-delegation.webp
 imageAlt: "Assurance emprunteur delegation ou groupe"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Qu'est-ce que la delegation d'assurance emprunteur ?"

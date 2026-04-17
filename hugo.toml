@@ -55,10 +55,6 @@ enableEmoji = false
   url = "/categories/assurance/"
   weight = 6
 [[languages.fr.menus.main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 97
-[[languages.fr.menus.main]]
   name = "Lexique"
   url = "/lexique/"
   weight = 98
@@ -92,10 +88,6 @@ enableEmoji = false
   name = "Insurance"
   url = "/en/categories/insurance/"
   weight = 6
-[[languages.en.menus.main]]
-  name = "Blog"
-  url = "/en/blog/"
-  weight = 97
 [[languages.en.menus.main]]
   name = "Glossary"
   url = "/en/glossary/"

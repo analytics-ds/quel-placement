@@ -12,9 +12,9 @@ tags:
   - Invalidite
   - Deces
   - Protection revenus
-image: /images/blog/placeholder.svg
+image: /images/blog/prevoyance-jeune.webp
 imageAlt: "Prevoyance : assurance invalidite et deces"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Qu'est-ce que la prevoyance ?"

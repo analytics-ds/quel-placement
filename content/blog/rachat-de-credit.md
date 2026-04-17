@@ -12,9 +12,9 @@ tags:
   - Renegociation
   - Credit immobilier
   - Economie
-image: /images/blog/placeholder.svg
+image: /images/blog/rachat-de-credit.webp
 imageAlt: "Rachat de credit : calcul de rentabilite 2026"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "A partir de quel ecart de taux un rachat de credit est-il rentable ?"

@@ -12,9 +12,9 @@ tags:
   - Neobank
   - Bank fees
   - Current account
-image: /images/blog/placeholder.svg
+image: /images/blog/banques-en-ligne-vs-neobanques.webp
 imageAlt: "Online banks vs neobanks in 2026"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What is the difference between an online bank and a neobank?"

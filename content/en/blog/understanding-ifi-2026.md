@@ -12,9 +12,9 @@ tags:
   - Real estate wealth tax
   - Tax planning
   - Wealth
-image: /images/blog/placeholder.svg
+image: /images/blog/comprendre-ifi-2026.webp
 imageAlt: "IFI 2026 illustration: calculator and real estate documents"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What is the French IFI?"

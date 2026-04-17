@@ -12,9 +12,9 @@ tags:
   - Assurance vie
   - Epargne retraite
   - Fiscalite
-image: /images/blog/placeholder.svg
+image: /images/blog/per-vs-assurance-vie.webp
 imageAlt: "Comparatif PER et assurance vie en 2026"
-imageCredit: "Image libre de droits"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Qu'est-ce qu'un PER ?"

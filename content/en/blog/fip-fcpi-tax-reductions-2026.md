@@ -12,9 +12,9 @@ tags:
   - FCPI
   - Tax reduction
   - Private Equity
-image: /images/blog/placeholder.svg
+image: /images/blog/fip-fcpi-reductions-2026.webp
 imageAlt: "FIP and FCPI: tax reduction in 2026"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What is the difference between FIP and FCPI?"

@@ -12,9 +12,9 @@ tags:
   - Renegotiation
   - Mortgage
   - Savings
-image: /images/blog/placeholder.svg
+image: /images/blog/rachat-de-credit.webp
 imageAlt: "Credit refinancing: 2026 profitability"
-imageCredit: "Royalty-free image"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "From what rate gap is refinancing profitable?"
