@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ $lang := .Site.Language.Lang }}
+<section class="authors-list-hero">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="hero-description">{{ . }}</p>{{ end }}
+    </div>
+</section>
+<section class="authors-grid-section">
+    <div class="container">
+        <div class="authors-grid">
+            {{ range $slug, $data := .Site.Data.authors }}
+            {{ $articles := where site.RegularPages "Params.author" $slug }}
+            {{ $articles = where $articles "Section" "blog" }}
+            {{ $count := len $articles }}
+            <a href="{{ (printf "authors/%s/" $slug) | relLangURL }}" class="author-card">
+                {{ with $data.avatar }}<img src="{{ . | relURL }}" alt="{{ $data.name }}" class="author-card-avatar" width="80" height="80" loading="lazy">{{ end }}
+                <div class="author-card-body">
+                    <h3>{{ $data.name }}</h3>
+                    {{ with index $data.role $lang }}<p class="author-card-role">{{ . }}</p>{{ end }}
+                    <span class="author-card-count">{{ $count }} article{{ if gt $count 1 }}s{{ end }}</span>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

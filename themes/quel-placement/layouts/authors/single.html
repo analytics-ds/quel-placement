@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{ $slug := .Slug | default (path.Base .RelPermalink | strings.TrimSuffix "/") }}
+{{ $lang := .Site.Language.Lang }}
+{{ $authorData := index .Site.Data.authors $slug }}
+
+<section class="author-hero">
+    <div class="container">
+        <nav class="breadcrumb" aria-label="{{ i18n "breadcrumb_label" | default "Breadcrumb" }}">
+            <ol class="breadcrumb-list">
+                <li class="breadcrumb-item"><a href="{{ "/" | relLangURL }}">{{ i18n "breadcrumb_home" | default "Accueil" }}</a></li>
+                <li class="breadcrumb-item"><a href="{{ "authors/" | relLangURL }}">{{ i18n "nav_authors" | default "Auteurs" }}</a></li>
+                <li class="breadcrumb-item"><span aria-current="page">{{ .Title }}</span></li>
+            </ol>
+        </nav>
+        <div class="author-hero-inner">
+            {{ with $authorData }}
+            {{ with .avatar }}
+            <img src="{{ . | relURL }}" alt="{{ $authorData.name }}" class="author-hero-avatar" width="120" height="120" loading="eager">
+            {{ end }}
+            <div class="author-hero-content">
+                <span class="author-hero-label">{{ i18n "author_label" | default "Auteur" }}</span>
+                <h1 class="author-hero-name">{{ .name }}</h1>
+                {{ with index .role $lang }}<p class="author-hero-role">{{ . }}</p>{{ end }}
+                {{ with index .bio $lang }}<p class="author-hero-bio">{{ . }}</p>{{ end }}
+                {{ with .expertise }}
+                <div class="author-hero-expertise">
+                    {{ range . }}<span class="author-tag">{{ . }}</span>{{ end }}
+                </div>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<section class="author-articles">
+    <div class="container">
+        <h2 class="section-title">{{ i18n "articles_by" | default "Articles par" }} {{ with $authorData }}{{ .name }}{{ end }}</h2>
+        {{ $articles := where .Site.RegularPages "Params.author" $slug }}
+        {{ $articles = where $articles "Section" "blog" }}
+        {{ if $articles }}
+        <div class="grid-articles">
+            {{ range $articles.ByDate.Reverse }}
+            <article class="article-card">
+                <a href="{{ .RelPermalink }}" class="article-card-image-wrapper" aria-label="{{ .Title }}">
+                    {{ with .Params.categories }}<div class="article-card-badges"><span class="card-badge">{{ index . 0 }}</span></div>{{ end }}
+                    {{ if .Params.image }}
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Params.imageAlt | default .Title }}" class="article-card-image" loading="lazy" width="600" height="400">
+                    {{ else }}
+                    <span class="article-card-image article-card-image-placeholder" aria-hidden="true">{{ slicestr .Title 0 1 }}</span>
+                    {{ end }}
+                </a>
+                <div class="article-card-body">
+                    <div class="article-meta"><time>{{ .Date.Format "2 January 2006" }}</time></div>
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Description }}</p>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+        {{ else }}
+        <p>{{ i18n "no_articles_author" | default "Aucun article encore publie par cet auteur." }}</p>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
