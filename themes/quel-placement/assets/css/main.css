@@ -673,28 +673,74 @@ img {
 
 /* --- List page --- */
 .list-header {
-    background-color: var(--primary);
+    background: radial-gradient(ellipse at top, #1E1B4B 0%, #0F172A 70%, #020617 100%);
     color: var(--white);
-    padding: var(--space-lg) 0;
+    padding: 70px 0 60px;
     text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.list-header::before {
+    content: "";
+    position: absolute; top: -30%; right: -10%;
+    width: 500px; height: 500px;
+    background: radial-gradient(circle, rgba(139, 92, 246, 0.25) 0%, transparent 60%);
+    pointer-events: none;
+}
+
+.list-header > .container {
+    position: relative;
+    z-index: 2;
 }
 
 .list-header h1 {
     font-family: var(--font-heading);
-    font-size: 2.5rem;
-    font-weight: 900;
-    text-transform: uppercase;
+    font-size: clamp(2rem, 4.5vw, 3rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    text-transform: none;
+    color: #F8FAFC;
+    margin-bottom: 14px;
 }
 
 .list-description {
-    opacity: 0.9;
-    margin-top: var(--space-xs);
+    color: #CBD5E1;
+    font-size: 1.05rem;
+    max-width: 680px;
+    margin: 0 auto 18px;
+    line-height: 1.55;
+    opacity: 1;
 }
+
+.list-intro {
+    max-width: 780px;
+    margin: 0 auto var(--space-md);
+    color: #94A3B8;
+    font-size: 0.98rem;
+    line-height: 1.7;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    border-radius: 12px;
+    padding: 20px 24px;
+}
+
+.list-intro p { margin: 0 0 10px; }
+.list-intro p:last-child { margin-bottom: 0; }
 
 .list-count {
     font-family: var(--font-ui);
-    font-size: 0.85rem;
-    opacity: 0.7;
+    font-size: 0.82rem;
+    color: #94A3B8;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 5px 14px;
+    background: rgba(139, 92, 246, 0.12);
+    border: 1px solid rgba(139, 92, 246, 0.3);
+    border-radius: 999px;
+    margin-top: 8px;
 }
 
 .list-content {
@@ -2543,17 +2589,7 @@ img {
     border-bottom: none;
 }
 
-.list-intro {
-    max-width: 780px;
-    color: var(--text-light);
-    font-size: 1rem;
-    line-height: 1.7;
-    margin: var(--space-sm) 0 var(--space-md);
-}
-.list-intro p {
-    margin: 0 0 var(--space-sm);
-}
-.list-intro p:last-child { margin-bottom: 0; }
+/* (list-intro est defini plus haut avec le banner cosmic sombre) */
 
 /* === Flag lang switcher : fix overflow + header constraints === */
 .site-header .header-container {

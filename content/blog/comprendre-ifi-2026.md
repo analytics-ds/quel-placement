@@ -71,6 +71,37 @@ Plusieurs leviers permettent de reduire l'IFI :
 L'IFI se declare en meme temps que l'impôt sur le revenu. L'evaluation des biens au 1er janvier engage le contribuable, une sous-estimation peut entrainer un redressement. Pour optimiser, consulter nos articles sur le [PER](/blog/per-vs-assurance-vie/) et les [FCPR](/blog/fcpr-investir-non-cote/) qui sortent du champ de l'IFI.
 </div>
 
+## Cas pratiques : 3 profils chiffres
+
+**Profil 1** : couple avec residence principale de 1,5 M€, aucun autre bien. Apres abattement de 30 pour cent, valeur taxable : 1,05 M€, sous le seuil. Pas d'IFI du.
+
+**Profil 2** : particulier avec residence principale 1,2 M€ + residence secondaire 800 k€. Apres abattement : 840 k€ + 800 k€ = 1,64 M€. IFI approximatif : 3 380 euros par an.
+
+**Profil 3** : patrimoine mixte 3 M€ avec dettes hypothecaires de 600 k€. Assiette nette : 2,4 M€. IFI : environ 7 860 euros.
+
+## Erreurs d'evaluation a eviter
+
+La sous-evaluation d'un bien est la premiere cause de redressement. L'administration compare avec :
+
+- Prix au metre carre de la commune
+- Dernieres mutations dans le quartier
+- Offres immobilieres publiques
+- Evaluation retenue lors d'une succession recente
+
+Pour securiser la declaration, 5 a 10 pour cent de decote raisonnable sur une residence principale occupee reste accepte. Au-dela, risque de controle.
+
+## Calendrier et erreurs frequentes
+
+La date de reference est le 1er janvier. La declaration se fait avec l'impot sur le revenu en mai-juin. Trois erreurs classiques :
+
+- Oublier les parts de SCPI et SCI immobilieres
+- Omettre les biens detenus a l'etranger
+- Mal gerer les biens demembres (l'usufruitier est redevable en regle generale)
+
+## IFI vs ISF : ce qui a change depuis 2018
+
+L'ISF, supprime en 2017, taxait l'ensemble du patrimoine. L'IFI ne concerne que l'immobilier. Un patrimoine de 2 M€ compose de 800 k€ d'immobilier et 1,2 M€ d'actions n'est plus taxe.
+
 ## Liens utiles
 
 Pour comprendre les autres dispositifs de défiscalisation, consultez notre [lexique financier](/lexique/). Pour aller plus loin sur l'optimisation patrimoniale, voir notre article sur [l'assurance vie](/blog/assurance-vie-5-criteres/) et nos analyses dedies aux [FIP et FCPI](/blog/fip-fcpi-reductions-2026/).
