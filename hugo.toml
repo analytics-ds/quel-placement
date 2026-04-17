@@ -63,31 +63,11 @@ enableEmoji = false
   url = "/a-propos/"
   weight = 99
 
-# Menu EN
+# Menu EN (only essentials since taxonomy pages are FR-only)
 [[languages.en.menus.main]]
-  name = "Taxation"
-  url = "/en/categories/fiscalite/"
+  name = "Blog"
+  url = "/en/blog/"
   weight = 1
-[[languages.en.menus.main]]
-  name = "Private Equity"
-  url = "/en/categories/private-equity/"
-  weight = 2
-[[languages.en.menus.main]]
-  name = "Savings"
-  url = "/en/categories/epargne/"
-  weight = 3
-[[languages.en.menus.main]]
-  name = "Credit"
-  url = "/en/categories/credit/"
-  weight = 4
-[[languages.en.menus.main]]
-  name = "Bank Account"
-  url = "/en/categories/compte-bancaire/"
-  weight = 5
-[[languages.en.menus.main]]
-  name = "Insurance"
-  url = "/en/categories/assurance/"
-  weight = 6
 [[languages.en.menus.main]]
   name = "Glossary"
   url = "/en/glossary/"

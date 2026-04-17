@@ -6,8 +6,19 @@
 
         <nav class="site-nav" role="navigation" aria-label="Navigation principale">
             {{ range .Site.Menus.main }}
-            <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
-                {{ .Name }}
+            <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}{{ if eq .Name "Private Equity" }} nav-link-featured{{ end }}">
+                <span class="nav-link-text">{{ .Name }}</span>
+                {{ if eq .Name "Private Equity" }}
+                <span class="nav-link-badge" aria-hidden="true">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2L13.5 8.5L20 10L13.5 11.5L12 18L10.5 11.5L4 10L10.5 8.5L12 2Z" fill="currentColor"/>
+                        <path d="M19 4L19.75 6.25L22 7L19.75 7.75L19 10L18.25 7.75L16 7L18.25 6.25L19 4Z" fill="currentColor"/>
+                    </svg>
+                </span>
+                {{ end }}
+                <svg class="nav-link-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <polyline points="6 9 12 15 18 9"/>
+                </svg>
             </a>
             {{ end }}
         </nav>

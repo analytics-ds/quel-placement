@@ -1,17 +1,22 @@
 {{ define "main" }}
 
+{{ $lang := "fr" }}
+{{ if strings.Contains .RelPermalink "/en/" }}{{ $lang = "en" }}{{ end }}
+{{ $blogHref := cond (eq $lang "en") "en/blog/" "blog/" }}
+{{ $homeHref := cond (eq $lang "en") "en/" "/" }}
+
 <article class="single-article">
     <div class="container">
 
         <!-- Breadcrumb visuel -->
-        <nav class="breadcrumb" aria-label="Fil d'Ariane">
+        <nav class="breadcrumb" aria-label="{{ if eq $lang "en" }}Breadcrumb{{ else }}Fil d'Ariane{{ end }}">
             <ol class="breadcrumb-list">
                 <li class="breadcrumb-item">
-                    <a href="{{ "/" | relURL }}">Accueil</a>
+                    <a href="{{ $homeHref | relURL }}">{{ if eq $lang "en" }}Home{{ else }}Accueil{{ end }}</a>
                     <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
                 </li>
                 <li class="breadcrumb-item">
-                    <a href="{{ "blog/" | relURL }}">Blog</a>
+                    <a href="{{ $blogHref | relURL }}">Blog</a>
                     <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
                 </li>
                 {{ with .Params.categories }}

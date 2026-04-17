@@ -1,11 +1,26 @@
 {{ define "main" }}
 
-{{ $lang := .Site.Language.Lang }}
+{{ $lang := .Language.Lang }}
+{{ if strings.Contains .RelPermalink "/en/" }}{{ $lang = "en" }}{{ end }}
 {{ $pages := slice }}
-{{ range .Pages }}
+{{ $isBlogList := strings.Contains .RelPermalink "/blog/" }}
+{{ if eq .Kind "taxonomy" }}{{ $isBlogList = false }}{{ end }}
+{{ if eq .Kind "term" }}{{ $isBlogList = false }}{{ end }}
+{{ $sourcePages := .Pages }}
+{{ if $isBlogList }}
+  {{ $sourcePages = where .Site.AllPages "Kind" "page" }}
+{{ end }}
+{{ range $sourcePages }}
   {{ $isEn := strings.Contains .RelPermalink "/en/" }}
-  {{ if or (and (eq $lang "en") $isEn) (and (eq $lang "fr") (not $isEn)) }}
-    {{ $pages = $pages | append . }}
+  {{ $isBlog := strings.Contains .RelPermalink "/blog/" }}
+  {{ if $isBlogList }}
+    {{ if and $isBlog (or (and (eq $lang "en") $isEn) (and (eq $lang "fr") (not $isEn))) }}
+      {{ $pages = $pages | append . }}
+    {{ end }}
+  {{ else }}
+    {{ if or (and (eq $lang "en") $isEn) (and (eq $lang "fr") (not $isEn)) }}
+      {{ $pages = $pages | append . }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
