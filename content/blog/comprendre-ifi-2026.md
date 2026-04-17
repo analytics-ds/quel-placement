@@ -1,16 +1,16 @@
 ---
 title: "Comprendre l'IFI en 2026 : seuils, biens concernes et strategies"
-description: "Tout savoir sur l'Impot sur la Fortune Immobiliere en 2026 : seuil de declenchement, biens taxables, abattements et leviers de reduction legaux."
+description: "Tout savoir sur l'Impôt sur la Fortune Immobiliere en 2026 : seuil de declenchement, biens taxables, abattements et leviers de réduction legaux."
 date: 2026-04-14
 lastmod: 2026-04-17
 translationKey: "article-ifi-2026"
 author: sophie-martin
 categories:
-  - Fiscalite
+  - Fiscalité
 tags:
   - IFI
-  - Impot fortune immobiliere
-  - Defiscalisation
+  - Impôt fortune immobiliere
+  - Défiscalisation
   - Patrimoine
 image: /images/blog/comprendre-ifi-2026.webp
 imageAlt: "Illustration IFI 2026 : calculatrice et documents immobiliers"
@@ -18,10 +18,10 @@ imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Qu'est-ce que l'IFI ?"
-    answer: "L'IFI, Impot sur la Fortune Immobiliere, est un impot annuel qui concerne les patrimoines immobiliers nets superieurs a 1,3 million d'euros au 1er janvier."
+    answer: "L'IFI, Impôt sur la Fortune Immobiliere, est un impôt annuel qui concerne les patrimoines immobiliers nets supérieurs a 1,3 million d'euros au 1er janvier."
   - question: "Quel est le seuil d'imposition a l'IFI en 2026 ?"
     answer: "Le seuil reste fixe a 1,3 million d'euros de patrimoine immobilier net taxable."
-  - question: "Quels biens sont exoneres d'IFI ?"
+  - question: "Quels biens sont exonérés d'IFI ?"
     answer: "Les biens affectes a une activite professionnelle, la residence principale (avec abattement de 30 pour cent) et les bois et forets sous conditions."
 ---
 
@@ -30,16 +30,16 @@ faq:
 <ol>
 <li>Seuil de declenchement : 1,3 million d'euros de patrimoine immobilier net au 1er janvier 2026</li>
 <li>Abattement de 30 pour cent sur la residence principale</li>
-<li>Bareme progressif de 0,5 pour cent a 1,5 pour cent</li>
-<li>Dons aux organismes d'interet general : reduction de 75 pour cent dans la limite de 50 000 euros</li>
+<li>Barème progressif de 0,5 pour cent a 1,5 pour cent</li>
+<li>Dons aux organismes d'intérêt général : réduction de 75 pour cent dans la limite de 50 000 euros</li>
 </ol>
 </div>
 
-L'Impot sur la Fortune Immobiliere (IFI) a remplace l'ISF en 2018. Il concerne uniquement le patrimoine immobilier, laissant les actifs financiers et professionnels en dehors de son perimetre. Voici les regles applicables en 2026.
+L'Impôt sur la Fortune Immobiliere (IFI) a remplace l'ISF en 2018. Il concerne uniquement le patrimoine immobilier, laissant les actifs financiers et professionnels en dehors de son perimetre. Voici les règles applicables en 2026.
 
-## Seuil d'imposition et bareme 2026
+## Seuil d'imposition et barème 2026
 
-Le seuil de declenchement reste fixe a 1,3 million d'euros de patrimoine immobilier net. Une fois depasse, le bareme s'applique des 800 000 euros.
+Le seuil de declenchement reste fixe a 1,3 million d'euros de patrimoine immobilier net. Une fois depasse, le barème s'applique des 800 000 euros.
 
 | Tranche de patrimoine | Taux applicable |
 |---|---|
@@ -52,25 +52,25 @@ Le seuil de declenchement reste fixe a 1,3 million d'euros de patrimoine immobil
 
 ## Biens taxables et exonerations
 
-Sont inclus dans l'assiette : residence principale, residences secondaires, biens locatifs, parts de SCPI et de SCI, certaines parts de societes detenant de l'immobilier.
+Sont inclus dans l'assiette : residence principale, residences secondaires, biens locatifs, parts de SCPI et de SCI, certaines parts de sociétés detenant de l'immobilier.
 
 <div class="callout-asavoir">
-La residence principale beneficie d'un abattement automatique de 30 pour cent sur sa valeur venale. Les biens affectes a l'activite professionnelle de l'assujetti sont totalement exoneres.
+La residence principale bénéficie d'un abattement automatique de 30 pour cent sur sa valeur venale. Les biens affectes a l'activite professionnelle de l'assujetti sont totalement exonérés.
 </div>
 
-## Strategies de reduction legales
+## Strategies de réduction legales
 
 Plusieurs leviers permettent de reduire l'IFI :
 
-- **Dons aux organismes d'interet general** : reduction de 75 pour cent du montant verse, plafonnee a 50 000 euros de reduction par an
+- **Dons aux organismes d'intérêt général** : réduction de 75 pour cent du montant verse, plafonnée a 50 000 euros de réduction par an
 - **Dettes deductibles** : emprunts immobiliers en cours, taxe fonciere due
-- **Demembrement de propriete** : l'usufruitier seul est redevable en regle generale
+- **Demembrement de propriete** : l'usufruitier seul est redevable en règle générale
 - **Investissement en nue-propriete** : reduit la base taxable pendant toute la duree du demembrement
 
 <div class="callout-aretenir">
-L'IFI se declare en meme temps que l'impot sur le revenu. L'evaluation des biens au 1er janvier engage le contribuable, une sous-estimation peut entrainer un redressement. Pour optimiser, consulter nos articles sur le [PER](/blog/per-vs-assurance-vie/) et les [FCPR](/blog/fcpr-investir-non-cote/) qui sortent du champ de l'IFI.
+L'IFI se declare en meme temps que l'impôt sur le revenu. L'evaluation des biens au 1er janvier engage le contribuable, une sous-estimation peut entrainer un redressement. Pour optimiser, consulter nos articles sur le [PER](/blog/per-vs-assurance-vie/) et les [FCPR](/blog/fcpr-investir-non-coté/) qui sortent du champ de l'IFI.
 </div>
 
 ## Liens utiles
 
-Pour comprendre les autres dispositifs de defiscalisation, consultez notre [lexique financier](/lexique/). Pour aller plus loin sur l'optimisation patrimoniale, voir notre article sur [l'assurance vie](/blog/assurance-vie-5-criteres/) et nos analyses dedies aux [FIP et FCPI](/blog/fip-fcpi-reductions-2026/).
+Pour comprendre les autres dispositifs de défiscalisation, consultez notre [lexique financier](/lexique/). Pour aller plus loin sur l'optimisation patrimoniale, voir notre article sur [l'assurance vie](/blog/assurance-vie-5-critères/) et nos analyses dedies aux [FIP et FCPI](/blog/fip-fcpi-réductions-2026/).

@@ -20,34 +20,34 @@ faq:
   - question: "Quels sont les taux immobiliers moyens en 2026 ?"
     answer: "Les taux moyens pour un emprunt sur 20 ans se situent dans une fourchette qui depend de la politique monetaire de la BCE. Les meilleurs profils obtiennent les conditions les plus favorables."
   - question: "Faut-il attendre une baisse des taux pour acheter ?"
-    answer: "Attendre comporte un risque : la baisse peut ne pas avoir lieu, et les prix peuvent remonter. L'achat se decide d'abord sur la situation personnelle."
+    answer: "Attendre comporte un risque : la baisse peut ne pas avoir lieu, et les prix peuvent remonter. L'achat se décidé d'abord sur la situation personnelle."
   - question: "Comment obtenir le meilleur taux ?"
-    answer: "Apport eleve, revenus stables, taux d'endettement maitrise et mise en concurrence des banques via un courtier."
+    answer: "Apport élevé, revenus stables, taux d'endettement maitrise et mise en concurrence des banques via un courtier."
 ---
 
 <div class="callout-enbref">
 <div class="callout-enbref-title">En bref</div>
 <ol>
 <li>Les taux dependent de la politique BCE et du profil emprunteur</li>
-<li>Le TAEG est l'indicateur de reference, pas le taux nominal</li>
+<li>Le TAEG est l'indicateur de référence, pas le taux nominal</li>
 <li>Apport minimum conseille : 10 pour cent du bien hors frais</li>
 <li>Taux d'endettement maximal : 35 pour cent assurance incluse</li>
 </ol>
 </div>
 
-Le marche du credit immobilier en 2026 reste sensible aux decisions de la BCE. Pour un acquereur, la question n'est pas tant de trouver le plus bas taux que de securiser un financement adapte a son projet.
+Le marché du credit immobilier en 2026 reste sensible aux décisions de la BCE. Pour un acquereur, la question n'est pas tant de trouver le plus bas taux que de securiser un financement adapté a son projet.
 
 ## Comprendre le TAEG
 
-Le TAEG (Taux Annuel Effectif Global) integre tous les couts d'un credit : interets, assurance emprunteur, frais de dossier, garanties. C'est le seul indicateur fiable pour comparer deux offres.
+Le TAEG (Taux Annuel Effectif Global) integre tous les couts d'un credit : intérêts, assurance emprunteur, frais de dossier, garanties. C'est le seul indicateur fiable pour comparer deux offres.
 
 <div class="callout-asavoir">
-Un taux nominal bas avec une assurance chere peut couter plus qu'un taux nominal plus eleve avec assurance competitive. Toujours raisonner TAEG.
+Un taux nominal bas avec une assurance chere peut couter plus qu'un taux nominal plus élevé avec assurance competitive. Toujours raisonner TAEG.
 </div>
 
 ## Capacite d'emprunt en 2026
 
-Le taux d'endettement maximal reste plafonne a 35 pour cent, assurance incluse. Sur 20 ans, la mensualite determine directement le capital empruntable.
+Le taux d'endettement maximal reste plafonné a 35 pour cent, assurance incluse. Sur 20 ans, la mensualite déterminé directement le capital empruntable.
 
 | Revenu mensuel | Mensualite max (35 pour cent) | Capacite d'emprunt approx. sur 20 ans |
 |---|---|---|
@@ -58,18 +58,18 @@ Le taux d'endettement maximal reste plafonne a 35 pour cent, assurance incluse. 
 ## Strategies pour optimiser son taux
 
 - **Apport substantiel** : 10 pour cent minimum, idealement 20 pour cent
-- **Reduction des charges** : solder credits conso avant de demander le pret immobilier
+- **Réduction des charges** : solder credits conso avant de demander le prêt immobilier
 - **Delegation d'assurance** : economiser 30 a 50 pour cent sur le cout total de l'assurance
 - **Courtier** : mise en concurrence de plusieurs banques
 - **Duree ajustee** : reduire d'annees pour obtenir un meilleur taux nominal
 
 <div class="callout-attention">
-Les simulations en ligne sont indicatives. Seule l'edition d'une offre de pret formelle par la banque engage sur un taux. Les conditions peuvent varier entre la simulation et la signature.
+Les simulations en ligne sont indicatives. Seule l'edition d'une offre de prêt formelle par la banque engage sur un taux. Les conditions peuvent varier entre la simulation et la signature.
 </div>
 
 ## Faut-il attendre une baisse ?
 
-Le marche est imprevisible. Une decision d'achat doit d'abord reposer sur :
+Le marché est imprevisible. Une décision d'achat doit d'abord reposer sur :
 
 - Stabilite professionnelle de l'emprunteur
 - Projet de vie aligne avec la duree d'emprunt

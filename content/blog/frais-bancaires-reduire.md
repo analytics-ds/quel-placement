@@ -18,11 +18,11 @@ imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Quels sont les frais bancaires les plus courants ?"
-    answer: "Tenue de compte, carte bancaire, commissions d'intervention, frais de decouvert, frais de rejet, commissions sur operations a l'etranger."
+    answer: "Tenue de compte, carte bancaire, commissions d'intervention, frais de decouvert, frais de rejet, commissions sur opérations a l'etranger."
   - question: "Comment changer de banque facilement ?"
-    answer: "Le service de mobilite bancaire, gratuit et obligatoire depuis 2017, transfere automatiquement les prelevements et virements recurrents vers le nouveau compte."
+    answer: "Le service de mobilite bancaire, gratuit et obligatoire depuis 2017, transfere automatiquement les prélèvements et virements recurrents vers le nouveau compte."
   - question: "Peut-on negocier les frais bancaires ?"
-    answer: "Oui, la negociation est possible, surtout pour les clients de longue date avec une domiciliation complete. Les banques preferent reduire les frais plutot que perdre un client."
+    answer: "Oui, la negociation est possible, surtout pour les clients de longue date avec une domiciliation complète. Les banques preferent reduire les frais plutôt que perdre un client."
 ---
 
 <div class="callout-enbref">
@@ -31,7 +31,7 @@ faq:
 <li>Cout moyen d'un compte bancaire : 200 a 250 euros par an en France</li>
 <li>Mobilite bancaire : gratuite et automatisee en 22 jours</li>
 <li>Decouvert : principal poste de frais pour les foyers fragiles</li>
-<li>Banques en ligne : reduction de 50 a 80 pour cent sur la plupart des frais</li>
+<li>Banques en ligne : réduction de 50 a 80 pour cent sur la plupart des frais</li>
 </ol>
 </div>
 
@@ -43,10 +43,10 @@ Les frais bancaires representent en moyenne 200 a 250 euros par an en France. Id
 |---|---|
 | Tenue de compte | 0 a 50 euros par an |
 | Carte bancaire | 40 a 130 euros par an |
-| Commission d'intervention | 8 euros par operation |
+| Commission d'intervention | 8 euros par opération |
 | Frais de decouvert | 10 a 20 pour cent TAEG |
 | Commission change a l'etranger | 2 a 3 pour cent + frais fixes |
-| Rejet de prelevement | 20 euros par rejet |
+| Rejet de prélèvement | 20 euros par rejet |
 
 ## Leviers pour reduire les frais
 
@@ -56,27 +56,27 @@ Tous les etablissements bancaires francais publient leurs tarifs sur une plaquet
 
 - **Negociation annuelle** : demander une remise sur la carte et les frais de tenue
 - **Suppression des services inutiles** : assurance moyens de paiement premium si non necessaire
-- **Gestion des decouverts** : activer une reserve d'argent a taux plus bas
+- **Gestion des decouverts** : activer une réservé d'argent a taux plus bas
 - **Carte sans frais a l'etranger** : indispensable pour voyageurs frequents
 - **Mobilite bancaire** : changer pour une banque moins chere
 
-## La mobilite bancaire, comment ca marche ?
+## La mobilite bancaire, comment ca marché ?
 
 Depuis 2017, le service de mobilite bancaire est gratuit et obligatoire. La nouvelle banque s'occupe de tout :
 
 1. Signature d'un mandat de mobilite
-2. Transfert des coordonnees bancaires aux emetteurs de prelevements et virements
+2. Transfert des coordonnees bancaires aux emetteurs de prélèvements et virements
 3. Fermeture de l'ancien compte sous 22 jours ouvres
 
 <div class="callout-attention">
-Verifier que le solde de l'ancien compte est crediteur avant la cloture. Les frais de cloture sont interdits, mais un solde debiteur peut generer des frais de regularisation.
+Verifier que le solde de l'ancien compte est crediteur avant la cloture. Les frais de cloture sont interdits, mais un solde debiteur peut générer des frais de regularisation.
 </div>
 
 ## Quand changer de banque ?
 
 Le changement est pertinent si :
 
-- L'ecart annuel de frais depasse 100 euros
+- L'écart annuel de frais depasse 100 euros
 - La banque actuelle refuse toute negociation
 - Les services proposes ne correspondent plus aux besoins
 - Une prime de bienvenue attractive est disponible

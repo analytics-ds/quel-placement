@@ -1,26 +1,227 @@
 {{ define "main" }}
 
-<!-- Hero Section -->
-<section class="hero">
-    <div class="hero-content">
-        <span class="hero-badge">{{ if eq .Site.Language.Lang "en" }}Finance made simple{{ else }}La finance enfin claire{{ end }}</span>
-        <h1>{{ if eq .Site.Language.Lang "en" }}Choose your next investment with confidence{{ else }}Choisissez votre prochain placement en toute confiance{{ end }}</h1>
-        <p class="hero-description">{{ .Site.Params.description }}</p>
-        <a href="{{ if eq .Site.Language.Lang "en" }}{{ "en/blog/" | relURL }}{{ else }}{{ "blog/" | relURL }}{{ end }}" class="btn-primary">{{ if eq .Site.Language.Lang "en" }}Explore the blog{{ else }}Explorez le blog{{ end }}</a>
+{{ $lang := "fr" }}
+{{ if strings.Contains .RelPermalink "/en/" }}{{ $lang = "en" }}{{ end }}
+
+<!-- ============ HERO cosmic dark ============ -->
+<section class="hero-dark">
+    <div class="hero-dark-stars" aria-hidden="true"></div>
+    <div class="hero-dark-glow" aria-hidden="true"></div>
+    <div class="hero-dark-container">
+        <div class="hero-dark-text">
+            <span class="hero-badge-dark">{{ if eq $lang "en" }}Finance made simple{{ else }}La finance enfin claire{{ end }}</span>
+            <h1 class="hero-dark-title">
+                {{ if eq $lang "en" }}
+                Choose your next <span class="text-gradient-cosmic">investment</span> with confidence
+                {{ else }}
+                Choisissez votre prochain <span class="text-gradient-cosmic">placement</span> en toute confiance
+                {{ end }}
+            </h1>
+            <p class="hero-dark-description">
+                {{ if eq $lang "en" }}
+                Factual analyses, clear comparisons and no jargon to decode taxation, savings, real estate and private equity.
+                {{ else }}
+                Analyses factuelles, comparatifs clairs et zero jargon pour décoder fiscalité, épargne, immobilier et private equity.
+                {{ end }}
+            </p>
+            <div class="hero-dark-cta">
+                <a href="{{ if eq $lang "en" }}{{ "en/blog/" | relURL }}{{ else }}{{ "blog/" | relURL }}{{ end }}" class="btn-cta-dark">
+                    {{ if eq $lang "en" }}Explore the blog{{ else }}Explorez le blog{{ end }}
+                </a>
+                <a href="{{ if eq $lang "en" }}{{ "en/glossary/" | relURL }}{{ else }}{{ "lexique/" | relURL }}{{ end }}" class="btn-ghost-dark">
+                    {{ if eq $lang "en" }}See the glossary{{ else }}Voir le lexique{{ end }}
+                </a>
+            </div>
+        </div>
+        <div class="hero-dark-visual" aria-hidden="true">
+            <div class="hero-card-float hero-card-1">
+                <div class="mini-card-header">
+                    <span class="mini-card-tag">Fiscalité</span>
+                </div>
+                <div class="mini-card-title">IFI 2026 : seuils et strategies</div>
+                <div class="mini-bars">
+                    <div class="mini-bar" style="height:30%"></div>
+                    <div class="mini-bar" style="height:55%"></div>
+                    <div class="mini-bar" style="height:80%"></div>
+                </div>
+            </div>
+            <div class="hero-card-float hero-card-2">
+                <div class="mini-metric">
+                    <span class="mini-metric-label">Rendement net</span>
+                    <span class="mini-metric-value">+4,2<small>%</small></span>
+                    <span class="mini-metric-change">+0,3 pt vs 2025</span>
+                </div>
+            </div>
+            <div class="hero-card-float hero-card-3">
+                <div class="mini-card-title small">Assurance vie</div>
+                <div class="mini-progress"><span style="width:72%"></span></div>
+                <div class="mini-metric-label">72% des portefeuilles</div>
+            </div>
+        </div>
     </div>
 </section>
 
-<!-- Categories Section -->
+<!-- ============ STATS section ============ -->
+<section class="stats-cosmic">
+    <div class="stats-cosmic-stars" aria-hidden="true"></div>
+    <div class="container stats-cosmic-inner">
+        <div class="stats-big">
+            <span class="stats-bignum">147</span>
+            <span class="stats-biglabel">
+                {{ if eq $lang "en" }}investment vehicles decoded, explained, compared{{ else }}placements décodés, expliques, comparés{{ end }}
+            </span>
+        </div>
+        <div class="stats-small-grid">
+            <div class="stats-small-item">
+                <span class="stats-small-num">6</span>
+                <span class="stats-small-label">{{ if eq $lang "en" }}Finance topics covered{{ else }}Thematiques couvertes{{ end }}</span>
+            </div>
+            <div class="stats-small-item">
+                <span class="stats-small-num">100%</span>
+                <span class="stats-small-label">{{ if eq $lang "en" }}Independent analyses, no sponsored content{{ else }}Analyses independantes, zero sponsoring{{ end }}</span>
+            </div>
+            <div class="stats-small-item">
+                <span class="stats-small-num">48h</span>
+                <span class="stats-small-label">{{ if eq $lang "en" }}Response time to reader questions{{ else }}Reponse aux questions lecteurs{{ end }}</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ Goodbye complexity ============ -->
+<section class="section-intro">
+    <div class="container container-narrow">
+        <h2 class="section-title-big">
+            {{ if eq $lang "en" }}
+            Goodbye jargon, <span class="text-gradient-accent">hello Quel Placement</span>
+            {{ else }}
+            Adieu jargon, <span class="text-gradient-accent">bonjour Quel Placement</span>
+            {{ end }}
+        </h2>
+        <p class="section-intro-desc">
+            {{ if eq $lang "en" }}
+            One topic, one article, one clear answer. No marketing talk, only facts, methods and verified numbers.
+            {{ else }}
+            Un sujet, un article, une réponse claire. Pas de discours marketing, que des faits, des methodes et des chiffres vérifiés.
+            {{ end }}
+        </p>
+    </div>
+</section>
+
+<!-- ============ Feature blocks (alternating) ============ -->
+<section class="feature-blocks">
+    <div class="container">
+
+        <!-- Block 1: text left, visual right -->
+        <div class="feature-block">
+            <div class="feature-block-text">
+                <h3 class="feature-block-title">{{ if eq $lang "en" }}Decode all tax wrappers in one read{{ else }}Decoder toutes les enveloppes fiscales en une lecture{{ end }}</h3>
+                <p class="feature-block-desc">{{ if eq $lang "en" }}PEA, PER, life insurance, FCPR: every vehicle compared feature by feature, with the real pros and cons.{{ else }}PEA, PER, assurance vie, FCPR : chaque enveloppe comparée critère par critère, avec les vrais avantages et limités.{{ end }}</p>
+                <ul class="feature-block-list">
+                    <li>{{ if eq $lang "en" }}Simple comparison tables{{ else }}Tableaux comparatifs simples{{ end }}</li>
+                    <li>{{ if eq $lang "en" }}Taxation explained without jargon{{ else }}Fiscalité expliquee sans jargon{{ end }}</li>
+                    <li>{{ if eq $lang "en" }}Decision checklists per profile{{ else }}Checklists de décision par profil{{ end }}</li>
+                </ul>
+            </div>
+            <div class="feature-block-visual" aria-hidden="true">
+                <div class="visual-card">
+                    <div class="visual-card-head"><span class="visual-tag purple">{{ if eq $lang "en" }}Comparison{{ else }}Comparatif{{ end }}</span></div>
+                    <div class="visual-row"><span>PEA</span><div class="visual-bar"><i style="width:92%"></i></div><b>5 ans</b></div>
+                    <div class="visual-row"><span>Assurance vie</span><div class="visual-bar"><i style="width:78%"></i></div><b>8 ans</b></div>
+                    <div class="visual-row"><span>PER</span><div class="visual-bar"><i style="width:65%"></i></div><b>Retraite</b></div>
+                    <div class="visual-row"><span>FCPR</span><div class="visual-bar"><i style="width:54%"></i></div><b>7-10 ans</b></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Block 2: visual left, text right -->
+        <div class="feature-block reverse">
+            <div class="feature-block-text">
+                <h3 class="feature-block-title">{{ if eq $lang "en" }}Compare real market offers, not brochures{{ else }}Comparez les vraies offres du marché, pas des brochures{{ end }}</h3>
+                <p class="feature-block-desc">{{ if eq $lang "en" }}Fees, returns, flexibility: we dig into the fine print so you dont have to.{{ else }}Frais, rendements, souplesse : on epluche les petites lignes pour vous.{{ end }}</p>
+                <ul class="feature-block-list">
+                    <li>{{ if eq $lang "en" }}Fee breakdown up to the hidden line{{ else }}Frais détaillés jusqu'a la ligne cachee{{ end }}</li>
+                    <li>{{ if eq $lang "en" }}Real performance vs promises{{ else }}Performances reelles vs promesses{{ end }}</li>
+                    <li>{{ if eq $lang "en" }}Alerts on loss-making products{{ else }}Alertes sur les produits perdants{{ end }}</li>
+                </ul>
+            </div>
+            <div class="feature-block-visual" aria-hidden="true">
+                <div class="visual-card">
+                    <div class="visual-card-head"><span class="visual-tag amber">{{ if eq $lang "en" }}Real rates{{ else }}Taux reels{{ end }}</span></div>
+                    <div class="visual-metric-row"><span>{{ if eq $lang "en" }}Best online bank{{ else }}Meilleure banque en ligne{{ end }}</span><b class="up">-82%</b></div>
+                    <div class="visual-metric-row"><span>{{ if eq $lang "en" }}Classic bank fees{{ else }}Frais banque classique{{ end }}</span><b class="down">+212 €/an</b></div>
+                    <div class="visual-metric-row"><span>{{ if eq $lang "en" }}Euro fund 2026{{ else }}Fonds euros 2026{{ end }}</span><b class="up">+2,8%</b></div>
+                    <div class="visual-sparkline">
+                        <svg viewBox="0 0 200 60" preserveAspectRatio="none"><polyline points="0,50 30,45 60,40 90,30 120,28 150,15 180,12 200,5" fill="none" stroke="#8B5CF6" stroke-width="3" stroke-linecap="round"/></svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Block 3: text left, visual right -->
+        <div class="feature-block">
+            <div class="feature-block-text">
+                <h3 class="feature-block-title">{{ if eq $lang "en" }}Stay on top of finance news that actually matters{{ else }}Restez au courant de l'actu finance qui compte{{ end }}</h3>
+                <p class="feature-block-desc">{{ if eq $lang "en" }}Finance law, ECB rates, new schemes: we filter, summarize and explain the impact on your portfolio.{{ else }}Loi de finances, taux BCE, nouveaux dispositifs : on filtre, resume et explique l'impact sur votre patrimoine.{{ end }}</p>
+                <ul class="feature-block-list">
+                    <li>{{ if eq $lang "en" }}Tax updates every quarter{{ else }}Mises a jour fiscales chaque trimestre{{ end }}</li>
+                    <li>{{ if eq $lang "en" }}Laws decoded in under 3 min{{ else }}Lois decryptees en moins de 3 min{{ end }}</li>
+                    <li>{{ if eq $lang "en" }}Concrete action recommendations{{ else }}Recommandations d'action concretes{{ end }}</li>
+                </ul>
+            </div>
+            <div class="feature-block-visual" aria-hidden="true">
+                <div class="visual-card news-card">
+                    <div class="news-item"><span class="news-dot purple"></span><div><b>{{ if eq $lang "en" }}IFI 2026 scale unchanged{{ else }}IFI 2026 : barème inchange{{ end }}</b><small>{{ if eq $lang "en" }}2 days ago{{ else }}il y a 2 jours{{ end }}</small></div></div>
+                    <div class="news-item"><span class="news-dot amber"></span><div><b>{{ if eq $lang "en" }}ECB holds rates{{ else }}La BCE maintient ses taux{{ end }}</b><small>{{ if eq $lang "en" }}5 days ago{{ else }}il y a 5 jours{{ end }}</small></div></div>
+                    <div class="news-item"><span class="news-dot green"></span><div><b>{{ if eq $lang "en" }}Livret A: new rate{{ else }}Livret A : nouveau taux{{ end }}</b><small>{{ if eq $lang "en" }}1 week ago{{ else }}il y a 1 semaine{{ end }}</small></div></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- ============ 3 steps ============ -->
+<section class="steps-section">
+    <div class="container container-narrow">
+        <h2 class="section-title-big">{{ if eq $lang "en" }}3 simple steps to invest right{{ else }}3 étapes simples pour bien investir{{ end }}</h2>
+        <div class="steps-list">
+            <div class="step-item active">
+                <div class="step-num">1</div>
+                <div class="step-body">
+                    <h3>{{ if eq $lang "en" }}Assess your situation{{ else }}Faites le bilan de votre situation{{ end }}</h3>
+                    <p>{{ if eq $lang "en" }}Income, savings, tax bracket, horizon: a clear x-ray of your starting point.{{ else }}Revenus, épargne, tranche d'imposition, horizon : une radiographie claire de votre point de depart.{{ end }}</p>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-num">2</div>
+                <div class="step-body">
+                    <h3>{{ if eq $lang "en" }}Identify your goals{{ else }}Identifiez vos objectifs{{ end }}</h3>
+                    <p>{{ if eq $lang "en" }}Retirement, transmission, real estate, precautionary savings: each goal has its vehicle.{{ else }}Retraite, transmission, immobilier, épargne de précaution : chaque objectif a son enveloppe.{{ end }}</p>
+                </div>
+            </div>
+            <div class="step-item">
+                <div class="step-num">3</div>
+                <div class="step-body">
+                    <h3>{{ if eq $lang "en" }}Pick the right wrappers{{ else }}Choisissez les bonnes enveloppes{{ end }}</h3>
+                    <p>{{ if eq $lang "en" }}PEA, life insurance, PER, FCPR... our articles guide you with concrete examples.{{ else }}PEA, assurance vie, PER, FCPR... nos articles vous guident avec des exemples concrets.{{ end }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ Categories ============ -->
 <section class="categories-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Our topics{{ else }}Nos thematiques{{ end }}</h2>
+        <h2 class="section-title">{{ if eq $lang "en" }}Our topics{{ else }}Nos thematiques{{ end }}</h2>
         <div class="grid-categories">
-            {{ $lang := .Site.Language.Lang }}
+            {{ $catLang := $lang }}
             {{ range .Site.Taxonomies.categories }}
                 {{ $count := 0 }}
                 {{ range .Pages }}
                     {{ $isEn := strings.Contains .RelPermalink "/en/" }}
-                    {{ if or (and (eq $lang "en") $isEn) (and (eq $lang "fr") (not $isEn)) }}{{ $count = add $count 1 }}{{ end }}
+                    {{ if or (and (eq $catLang "en") $isEn) (and (eq $catLang "fr") (not $isEn)) }}{{ $count = add $count 1 }}{{ end }}
                 {{ end }}
                 {{ if gt $count 0 }}
             <a href="{{ .Page.RelPermalink }}" class="category-card">
@@ -33,12 +234,12 @@
     </div>
 </section>
 
-<!-- Latest Articles Section -->
+<!-- ============ Latest articles ============ -->
 <section class="latest-section">
     <div class="container">
-        <h2 class="section-title">{{ if eq .Site.Language.Lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+        <h2 class="section-title">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
         <div class="grid-articles">
-            {{ $latestLang := .Site.Language.Lang }}
+            {{ $latestLang := $lang }}
             {{ $latest := slice }}
             {{ range where .Site.AllPages "Kind" "page" }}
               {{ $isEn := strings.Contains .RelPermalink "/en/" }}
@@ -63,10 +264,47 @@
                     </div>
                     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <p>{{ .Description }}</p>
-                    <a href="{{ .RelPermalink }}" class="read-more">{{ if eq .Site.Language.Lang "en" }}Read more{{ else }}Lire la suite{{ end }}</a>
+                    <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $lang "en" }}Read more{{ else }}Lire la suite{{ end }}</a>
                 </div>
             </article>
             {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- ============ CTA final ============ -->
+<section class="cta-final">
+    <div class="cta-final-inner container container-narrow">
+        <h2>{{ if eq $lang "en" }}Start your next <span class="text-gradient-accent">investment</span> today{{ else }}Lancez votre prochain <span class="text-gradient-accent">placement</span> des aujourd'hui{{ end }}</h2>
+        <a href="{{ if eq $lang "en" }}{{ "en/blog/" | relURL }}{{ else }}{{ "blog/" | relURL }}{{ end }}" class="btn-primary">{{ if eq $lang "en" }}Start reading{{ else }}Commencer a lire{{ end }}</a>
+    </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="faq-home">
+    <div class="container container-narrow">
+        <h2 class="section-title-big">{{ if eq $lang "en" }}Frequently asked questions{{ else }}Questions fréquentes{{ end }}</h2>
+        <div class="faq-list">
+            <details class="faq-item">
+                <summary>{{ if eq $lang "en" }}Where should I start to invest?{{ else }}Par ou commencer pour investir ?{{ end }}</summary>
+                <p>{{ if eq $lang "en" }}Start with precautionary savings on Livret A + LDDS, then open a life insurance for medium-term projects.{{ else }}Commencez par l'épargne de précaution sur Livret A + LDDS, puis ouvrez une assurance vie pour les projets moyen terme.{{ end }}</p>
+            </details>
+            <details class="faq-item">
+                <summary>{{ if eq $lang "en" }}Is life insurance still interesting in 2026?{{ else }}L'assurance vie est-elle encore intéressante en 2026 ?{{ end }}</summary>
+                <p>{{ if eq $lang "en" }}Yes, especially after 8 years for its reduced taxation and its advantage for transmission (152,500 euros exempt per beneficiary).{{ else }}Oui, surtout après 8 ans pour sa fiscalité allégée et son avantage de transmission (152 500 euros exonérés par bénéficiaire).{{ end }}</p>
+            </details>
+            <details class="faq-item">
+                <summary>{{ if eq $lang "en" }}Is the PER worth subscribing to?{{ else }}Le PER vaut-il le coup d'etre souscrit ?{{ end }}</summary>
+                <p>{{ if eq $lang "en" }}Yes if your tax bracket is 30 percent or more: the deduction is substantial. Not very interesting below.{{ else }}Oui si votre TMI est a 30 pour cent ou plus : la deduction est substantielle. Peu intéressant en-dessous.{{ end }}</p>
+            </details>
+            <details class="faq-item">
+                <summary>{{ if eq $lang "en" }}Can I invest without risk?{{ else }}Peut-on investir sans risque ?{{ end }}</summary>
+                <p>{{ if eq $lang "en" }}Livret A, LDDS and euro funds offer capital protection. Returns are limited but guaranteed.{{ else }}Livret A, LDDS et fonds euros offrent la protection du capital. Les rendements sont limités mais garantis.{{ end }}</p>
+            </details>
+            <details class="faq-item">
+                <summary>{{ if eq $lang "en" }}Is Quel Placement really independent?{{ else }}Quel Placement est-il vraiment indépendant ?{{ end }}</summary>
+                <p>{{ if eq $lang "en" }}Yes. No sponsored placement without clear mention, and no advisor commission on products.{{ else }}Oui. Pas de placement sponsorise sans mention claire, pas de commission conseiller sur les produits.{{ end }}</p>
+            </details>
         </div>
     </div>
 </section>

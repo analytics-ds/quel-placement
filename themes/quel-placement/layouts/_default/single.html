@@ -31,7 +31,7 @@
             </ol>
         </nav>
 
-        <!-- Hero article (titre + image cote a cote) -->
+        <!-- Hero article (titre + image coté a coté) -->
         <div class="article-hero">
             <div class="article-hero-text">
                 <div class="article-meta">
@@ -81,11 +81,6 @@
                     {{ end }}
                 </div>
 
-                <div class="article-tags">
-                    {{ range .Params.tags }}
-                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                    {{ end }}
-                </div>
             </div>
 
             {{ with .Params.image }}
@@ -120,14 +115,7 @@
                     {{ .Content }}
                 </div>
 
-                <!-- Tags en bas d'article -->
-                <div class="article-tags-bottom">
-                    {{ range .Params.tags }}
-                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                    {{ end }}
-                </div>
-
-                <!-- Bloc auteur (bio complete en fin d'article) -->
+                <!-- Bloc auteur (bio complète en fin d'article) -->
                 {{ with $authorData }}
                 <aside class="author-box" aria-label="{{ if eq $lang "en" }}About the author{{ else }}A propos de l'auteur{{ end }}">
                     {{ with .avatar }}

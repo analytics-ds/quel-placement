@@ -56,11 +56,10 @@
                     </div>
                     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                     <p>{{ .Description }}</p>
-                    <div class="article-tags">
-                        {{ range .Params.tags }}
-                        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                        {{ end }}
-                    </div>
+                    <span class="article-reading-time-sm">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                        {{ .ReadingTime }} min
+                    </span>
                 </div>
             </article>
             {{ end }}
