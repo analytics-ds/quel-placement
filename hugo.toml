@@ -13,6 +13,7 @@ enableEmoji = false
     languageCode = "fr-FR"
     languageName = "Francais"
     weight = 1
+    contentDir = "content"
     title = "Quel Placement"
     [languages.fr.params]
       description = "Le blog reference pour comprendre la finance, l'investissement et choisir les meilleurs placements."
@@ -21,6 +22,7 @@ enableEmoji = false
     languageCode = "en-US"
     languageName = "English"
     weight = 2
+    contentDir = "content/en"
     title = "Quel Placement"
     [languages.en.params]
       description = "The reference blog to understand finance, investing and choose the best placements."
