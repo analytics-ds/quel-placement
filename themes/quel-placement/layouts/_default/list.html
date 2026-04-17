@@ -56,10 +56,20 @@
                     </div>
                     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                     <p>{{ .Description }}</p>
-                    <span class="article-reading-time-sm">
-                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                        {{ .ReadingTime }} min
-                    </span>
+                    <div class="article-card-footer">
+                        {{ $cardAuthor := dict }}
+                        {{ with .Params.author }}{{ $cardAuthor = index $.Site.Data.authors . }}{{ end }}
+                        {{ with $cardAuthor }}
+                        <span class="article-card-author">
+                            {{ with .avatar }}<img src="{{ . | relURL }}" alt="{{ $cardAuthor.name }}" width="28" height="28" loading="lazy">{{ end }}
+                            <span class="article-card-author-name">{{ .name }}</span>
+                        </span>
+                        {{ end }}
+                        <span class="article-reading-time-sm">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                            {{ .ReadingTime }} min
+                        </span>
+                    </div>
                 </div>
             </article>
             {{ end }}

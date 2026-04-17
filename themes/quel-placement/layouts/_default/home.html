@@ -264,7 +264,17 @@
                     </div>
                     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <p>{{ .Description }}</p>
-                    <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $lang "en" }}Read more{{ else }}Lire la suite{{ end }}</a>
+                    <div class="article-card-footer">
+                        {{ $cardAuthor := dict }}
+                        {{ with .Params.author }}{{ $cardAuthor = index $.Site.Data.authors . }}{{ end }}
+                        {{ with $cardAuthor }}
+                        <span class="article-card-author">
+                            {{ with .avatar }}<img src="{{ . | relURL }}" alt="{{ $cardAuthor.name }}" width="28" height="28" loading="lazy">{{ end }}
+                            <span class="article-card-author-name">{{ .name }}</span>
+                        </span>
+                        {{ end }}
+                        <a href="{{ .RelPermalink }}" class="read-more">{{ if eq $lang "en" }}Read more{{ else }}Lire la suite{{ end }}</a>
+                    </div>
                 </div>
             </article>
             {{ end }}
