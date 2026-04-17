@@ -3,7 +3,7 @@ title: "About Quel Placement"
 description: "Discover Quel Placement, the independent blog that decodes finance, investing and placements for everyone."
 translationKey: "about"
 lastmod: 2026-04-17
-layout: "page"
+layout: "static-page"
 ---
 
 Quel Placement is an independent blog dedicated to personal finance. Our mission: make investing accessible to everyone, without jargon or sales pitch.

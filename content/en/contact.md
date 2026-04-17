@@ -3,7 +3,7 @@ title: "Contact"
 description: "Contact the Quel Placement team for any question, suggestion or editorial partnership."
 translationKey: "contact"
 lastmod: 2026-04-17
-layout: "page"
+layout: "static-page"
 ---
 
 A question about an article, a topic suggestion, a correction to make? The Quel Placement team is reachable below.

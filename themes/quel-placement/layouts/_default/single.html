@@ -5,6 +5,11 @@
 {{ $blogHref := cond (eq $lang "en") "en/blog/" "blog/" }}
 {{ $homeHref := cond (eq $lang "en") "en/" "/" }}
 
+{{ $authorData := dict }}
+{{ with .Params.author }}
+    {{ $authorData = index $.Site.Data.authors . }}
+{{ end }}
+
 <article class="single-article">
     <div class="container">
 
@@ -52,11 +57,6 @@
                 <p class="article-description">{{ . }}</p>
                 {{ end }}
 
-                {{ $lang := .Site.Language.Lang }}
-                {{ $authorData := dict }}
-                {{ with .Params.author }}
-                    {{ $authorData = index $.Site.Data.authors . }}
-                {{ end }}
                 <div class="article-author-bar">
                     {{ with $authorData }}
                     <div class="author-info">
@@ -142,11 +142,20 @@
                 </aside>
                 {{ end }}
 
-                <!-- Articles similaires -->
-                {{ $related := .Site.RegularPages.Related . | first 3 }}
+                <!-- Articles similaires (meme langue) -->
+                {{ $currentUrl := .RelPermalink }}
+                {{ $relatedRaw := .Site.RegularPages.Related . }}
+                {{ $relatedFiltered := slice }}
+                {{ range $relatedRaw }}
+                  {{ $rIsEn := strings.Contains .RelPermalink "/en/" }}
+                  {{ if or (and (eq $lang "en") $rIsEn) (and (eq $lang "fr") (not $rIsEn)) }}
+                    {{ $relatedFiltered = $relatedFiltered | append . }}
+                  {{ end }}
+                {{ end }}
+                {{ $related := first 3 $relatedFiltered }}
                 {{ if $related }}
                 <aside class="related-articles">
-                    <h2 class="related-title">Articles similaires</h2>
+                    <h2 class="related-title">{{ if eq $lang "en" }}Related articles{{ else }}Articles similaires{{ end }}</h2>
                     <div class="related-grid">
                         {{ range $related }}
                         <a href="{{ .RelPermalink }}" class="related-card">
@@ -161,18 +170,51 @@
                 </aside>
                 {{ end }}
 
+                <!-- Derniers articles du blog -->
+                {{ $latestBlog := slice }}
+                {{ range where .Site.AllPages "Kind" "page" }}
+                  {{ $isEn := strings.Contains .RelPermalink "/en/" }}
+                  {{ $isBlog := strings.Contains .RelPermalink "/blog/" }}
+                  {{ $notCurrent := ne .RelPermalink $currentUrl }}
+                  {{ if and $isBlog $notCurrent (or (and (eq $lang "en") $isEn) (and (eq $lang "fr") (not $isEn))) }}
+                    {{ $latestBlog = $latestBlog | append . }}
+                  {{ end }}
+                {{ end }}
+                {{ $latestBlog = first 3 (sort $latestBlog "Date" "desc") }}
+                {{ if $latestBlog }}
+                <aside class="latest-articles-bottom">
+                    <h2 class="related-title">{{ if eq $lang "en" }}Latest articles{{ else }}Derniers articles{{ end }}</h2>
+                    <div class="related-grid">
+                        {{ range $latestBlog }}
+                        <a href="{{ .RelPermalink }}" class="related-card related-card-image">
+                            {{ with .Params.image }}
+                            <div class="related-card-img"><img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy" width="300" height="180"></div>
+                            {{ end }}
+                            <div class="related-card-body">
+                                {{ with .Params.categories }}
+                                <span class="related-category">{{ index . 0 }}</span>
+                                {{ end }}
+                                <h3>{{ .Title }}</h3>
+                                <time class="related-date">{{ .Date.Format "2 January 2006" }}</time>
+                            </div>
+                        </a>
+                        {{ end }}
+                    </div>
+                </aside>
+                {{ end }}
+
                 <!-- Navigation prev/next -->
                 <nav class="article-footer" aria-label="Navigation articles">
                     <div class="article-nav">
                         {{ with .PrevInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-prev">
-                            <span class="nav-label">Article precedent</span>
+                            <span class="nav-label">{{ if eq $lang "en" }}Previous article{{ else }}Article precedent{{ end }}</span>
                             <span class="nav-title">{{ .Title }}</span>
                         </a>
                         {{ end }}
                         {{ with .NextInSection }}
                         <a href="{{ .RelPermalink }}" class="nav-next">
-                            <span class="nav-label">Article suivant</span>
+                            <span class="nav-label">{{ if eq $lang "en" }}Next article{{ else }}Article suivant{{ end }}</span>
                             <span class="nav-title">{{ .Title }}</span>
                         </a>
                         {{ end }}

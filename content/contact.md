@@ -3,7 +3,7 @@ title: "Contact"
 description: "Contactez l'equipe de Quel Placement pour toute question, suggestion ou partenariat editorial."
 translationKey: "contact"
 lastmod: 2026-04-17
-layout: "page"
+layout: "static-page"
 ---
 
 Une question sur un article, une suggestion de sujet, une correction a apporter ? L'equipe de Quel Placement est joignable ci-dessous.

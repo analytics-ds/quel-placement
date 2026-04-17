@@ -47,13 +47,19 @@ Un glossaire clair et concis des principaux termes de la finance personnelle. Re
 <div class="lexique-term"><dt>Barème de l'impôt</dt><dd>Grille progressive fixant le taux d'imposition applicable par tranche de revenu.</dd></div>
 <div class="lexique-term"><dt>Bien immobilier</dt><dd>Bien physique consistant en un terrain ou une construction, par opposition aux biens mobiliers.</dd></div>
 <div class="lexique-term"><dt>Bulle spéculative</dt><dd>Hausse excessive et déraisonnable des prix d'un actif, suivie d'une correction parfois brutale.</dd></div>
+<div class="lexique-term"><dt>Buyout (LBO)</dt><dd>Rachat d'une societe avec effet de levier, souvent en private equity, finance principalement par emprunt pour maximiser le rendement des fonds propres.</dd></div>
+<div class="lexique-term"><dt>Business angel</dt><dd>Investisseur individuel qui finance sur ses fonds propres une jeune entreprise, souvent en echange d'une prise de participation minoritaire.</dd></div>
 </dl>
 </section>
 
 <section class="lexique-letter" id="c">
 <h2>C</h2>
 <dl>
+<div class="lexique-term"><dt>Capital-investissement</dt><dd>Terme francais pour private equity. Prise de participation dans une entreprise non cotee, avec objectif de plus-value a la revente.</dd></div>
+<div class="lexique-term"><dt>Capital-risque (Venture capital)</dt><dd>Branche du private equity qui finance les jeunes entreprises innovantes en phase de demarrage ou de croissance.</dd></div>
 <div class="lexique-term"><dt>Capitalisation</dt><dd>Mécanisme par lequel les intérêts générés par un placement sont réinvestis pour produire à leur tour des intérêts.</dd></div>
+<div class="lexique-term"><dt>Carried interest</dt><dd>Part de la plus-value generee par un fonds de private equity qui revient aux gerants du fonds, generalement 20 pour cent au-dessus d'un seuil de rendement.</dd></div>
+<div class="lexique-term"><dt>Club deal</dt><dd>Operation de co-investissement en private equity regroupant plusieurs investisseurs sur une meme cible.</dd></div>
 <div class="lexique-term"><dt>CEL</dt><dd>Compte Épargne Logement. Livret réglementé permettant d'obtenir un prêt immobilier à taux avantageux après 18 mois de détention.</dd></div>
 <div class="lexique-term"><dt>Crédit-bail</dt><dd>Opération de location avec option d'achat, utilisée principalement par les entreprises pour financer un bien mobilier ou immobilier.</dd></div>
 <div class="lexique-term"><dt>CSG</dt><dd>Contribution Sociale Généralisée. Prélèvement obligatoire finançant la protection sociale, applicable aux revenus d'activité et du patrimoine.</dd></div>
@@ -66,7 +72,10 @@ Un glossaire clair et concis des principaux termes de la finance personnelle. Re
 <div class="lexique-term"><dt>Défiscalisation</dt><dd>Ensemble des dispositifs légaux permettant de réduire le montant de l'impôt sur le revenu ou de l'impôt sur la fortune immobilière.</dd></div>
 <div class="lexique-term"><dt>Délégation d'assurance</dt><dd>Possibilité de choisir une assurance emprunteur externe à la banque prêteuse, permettant souvent des économies importantes.</dd></div>
 <div class="lexique-term"><dt>Démembrement</dt><dd>Division du droit de propriété entre l'usufruit (droit d'usage et de percevoir les revenus) et la nue-propriété (droit de disposer du bien).</dd></div>
+<div class="lexique-term"><dt>Due diligence</dt><dd>Phase d'audit approfondie menee avant une operation de private equity pour verifier la situation financiere, juridique et operationnelle de la societe cible.</dd></div>
 <div class="lexique-term"><dt>Diversification</dt><dd>Répartition d'un patrimoine sur plusieurs classes d'actifs, secteurs ou zones géographiques pour limiter le risque global.</dd></div>
+<div class="lexique-term"><dt>Drawdown</dt><dd>En private equity, appel de fonds adresse aux investisseurs par le gerant du fonds pour financer une acquisition ou un nouvel investissement.</dd></div>
+<div class="lexique-term"><dt>Dry powder</dt><dd>Capitaux deja leves par un fonds de private equity mais non encore investis. Indicateur de la capacite d'investissement disponible sur le marche.</dd></div>
 </dl>
 </section>
 
@@ -158,7 +167,8 @@ Un glossaire clair et concis des principaux termes de la finance personnelle. Re
 <div class="lexique-term"><dt>PER</dt><dd>Plan d'Épargne Retraite. Produit d'épargne long terme déductible de l'impôt sur le revenu à l'entrée, taxé à la sortie.</dd></div>
 <div class="lexique-term"><dt>Plus-value</dt><dd>Gain réalisé lors de la revente d'un actif à un prix supérieur à son prix d'achat.</dd></div>
 <div class="lexique-term"><dt>Prélèvement forfaitaire unique (PFU)</dt><dd>Flat tax de 30 pour cent (12,8 pour cent IR + 17,2 pour cent prélèvements sociaux) applicable aux revenus du capital depuis 2018.</dd></div>
-<div class="lexique-term"><dt>Private Equity</dt><dd>Investissement dans le capital de sociétés non cotées, souvent avec un horizon de détention supérieur à 5 ans.</dd></div>
+<div class="lexique-term"><dt>Pre-money / Post-money</dt><dd>En private equity, valeur d'une societe AVANT (pre-money) ou APRES (post-money) une levee de fonds.</dd></div>
+<div class="lexique-term"><dt>Private Equity</dt><dd>Investissement dans le capital de sociétés non cotées, souvent avec un horizon de détention supérieur à 5 ans. Englobe venture capital, growth, buyout et turnaround.</dd></div>
 </dl>
 </section>
 

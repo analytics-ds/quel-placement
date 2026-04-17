@@ -3,7 +3,7 @@ title: "A propos de Quel Placement"
 description: "Decouvrez Quel Placement, le blog indépendant qui decrypte la finance, l'investissement et les placements pour tous les Francais."
 translationKey: "about"
 lastmod: 2026-04-17
-layout: "page"
+layout: "static-page"
 ---
 
 Quel Placement est un blog indépendant dedie a la finance personnelle. Notre mission : rendre l'investissement accessible a chacun, sans jargon ni discours commercial.
