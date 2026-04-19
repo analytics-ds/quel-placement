@@ -12,9 +12,9 @@ tags:
   - Plan Epargne Retraite
   - Deduction fiscale
   - Retraite
-image: /images/blog/placeholder.svg
-imageAlt: "Guide complet du Plan d'Epargne Retraite en 2026"
-imageCredit: "Image libre de droits"
+image: /images/blog/per-plan-epargne-retraite-guide.webp
+imageAlt: "Tirelire rose sur des billets en euros symbolisant l'epargne retraite"
+imageCredit: "Photo : Pexels"
 draft: false
 faq:
   - question: "Qu'est-ce que le PER ?"

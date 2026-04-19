@@ -12,9 +12,9 @@ tags:
   - Retirement Savings Plan
   - Tax deduction
   - Retirement
-image: /images/blog/placeholder.svg
-imageAlt: "Complete guide to the French PER retirement plan in 2026"
-imageCredit: "Royalty-free image"
+image: /images/blog/per-plan-epargne-retraite-guide.webp
+imageAlt: "Pink piggy bank on euro banknotes symbolising retirement savings"
+imageCredit: "Photo: Pexels"
 draft: false
 faq:
   - question: "What is the PER?"
