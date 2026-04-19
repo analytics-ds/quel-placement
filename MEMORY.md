@@ -7,6 +7,7 @@ Limite : 4 articles par semaine max.
 
 - Comprendre l'IFI en 2026 (Fiscalite) — 2026-04-14
 - PER vs assurance vie (Fiscalite) — 2026-04-10 (semaine precedente, ici pour reference)
+- PER : le guide complet 2026 (Epargne) — 2026-04-19 (FR + EN)
 
 ## Articles de seeding (placeholder, week of 2026-04-17)
 
