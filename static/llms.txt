@@ -8,25 +8,25 @@ Quel Placement est un media editorial independant. Tous les articles sont redige
 
 ## Articles de reference (FR)
 
-- Assurance emprunteur : delegation ou contrat groupe ?: https://analytics-ds.github.io/quel-placement/blog/assurance-emprunteur-delegation/
-- Assurance vie : les 5 critères pour bien la choisir en 2026: https://analytics-ds.github.io/quel-placement/blog/assurance-vie-5-criteres/
-- Banques en ligne vs neobanques : le comparatif 2026: https://analytics-ds.github.io/quel-placement/blog/banques-en-ligne-vs-neobanques/
-- Comprendre l: https://analytics-ds.github.io/quel-placement/blog/comprendre-ifi-2026/
-- FCPR : comment investir dans le non coté en 2026 ?: https://analytics-ds.github.io/quel-placement/blog/fcpr-investir-non-cote/
-- FIP et FCPI : quelles réductions d: https://analytics-ds.github.io/quel-placement/blog/fip-fcpi-reductions-2026/
-- Frais bancaires : comment les reduire en 2026 ?: https://analytics-ds.github.io/quel-placement/blog/frais-bancaires-reduire/
-- PER vs assurance vie : quelle enveloppe privilegier en 2026 ?: https://analytics-ds.github.io/quel-placement/blog/per-vs-assurance-vie/
-- Prévoyance : pourquoi s: https://analytics-ds.github.io/quel-placement/blog/prevoyance-jeune/
-- Rachat de credit : quand est-ce rentable en 2026 ?: https://analytics-ds.github.io/quel-placement/blog/rachat-de-credit/
-- Taux immobilier 2026 : faut-il acheter maintenant ?: https://analytics-ds.github.io/quel-placement/blog/taux-immobilier-2026/
+- Assurance emprunteur : delegation ou contrat groupe ?: https://quel-placement.com/blog/assurance-emprunteur-delegation/
+- Assurance vie : les 5 critères pour bien la choisir en 2026: https://quel-placement.com/blog/assurance-vie-5-criteres/
+- Banques en ligne vs neobanques : le comparatif 2026: https://quel-placement.com/blog/banques-en-ligne-vs-neobanques/
+- Comprendre l: https://quel-placement.com/blog/comprendre-ifi-2026/
+- FCPR : comment investir dans le non coté en 2026 ?: https://quel-placement.com/blog/fcpr-investir-non-cote/
+- FIP et FCPI : quelles réductions d: https://quel-placement.com/blog/fip-fcpi-reductions-2026/
+- Frais bancaires : comment les reduire en 2026 ?: https://quel-placement.com/blog/frais-bancaires-reduire/
+- PER vs assurance vie : quelle enveloppe privilegier en 2026 ?: https://quel-placement.com/blog/per-vs-assurance-vie/
+- Prévoyance : pourquoi s: https://quel-placement.com/blog/prevoyance-jeune/
+- Rachat de credit : quand est-ce rentable en 2026 ?: https://quel-placement.com/blog/rachat-de-credit/
+- Taux immobilier 2026 : faut-il acheter maintenant ?: https://quel-placement.com/blog/taux-immobilier-2026/
 
 ## Informations techniques
 
 - Generateur : Hugo (site statique)
-- Sitemap : https://analytics-ds.github.io/quel-placement/sitemap.xml
-- RSS : https://analytics-ds.github.io/quel-placement/index.xml
+- Sitemap : https://quel-placement.com/sitemap.xml
+- RSS : https://quel-placement.com/index.xml
 - Schema.org : Organization, Article, BreadcrumbList, FAQPage, WebSite, CollectionPage
 
 ## Contact
 
-- URL : https://analytics-ds.github.io/quel-placement/
+- URL : https://quel-placement.com/

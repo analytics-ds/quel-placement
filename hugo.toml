@@ -1,4 +1,4 @@
-baseURL = "https://analytics-ds.github.io/quel-placement/"
+baseURL = "https://quel-placement.com/"
 title = "Quel Placement"
 theme = "quel-placement"
 
@@ -7,6 +7,7 @@ defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = false
 enableEmoji = false
+buildFuture = true
 
 [languages]
   [languages.fr]

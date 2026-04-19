@@ -211,6 +211,49 @@
     </div>
 </section>
 
+<!-- ============ Simulator CTA ============ -->
+<section class="home-simulator">
+    <div class="container">
+        <div class="home-simulator-inner">
+            <div class="home-simulator-content">
+                <span class="home-simulator-badge">
+                    {{ if eq $lang "en" }}New simulator{{ else }}Nouveau simulateur{{ end }}
+                </span>
+                <h2>
+                    {{ if eq $lang "en" }}Calculate your borrowing capacity in 30 seconds{{ else }}Calculez votre capacite d'emprunt en 30 secondes{{ end }}
+                </h2>
+                <p>
+                    {{ if eq $lang "en" }}Max monthly payment, borrowable capital and real APR against the Q2 2026 usury rate. Free, no sign-up.{{ else }}Mensualite max, capital empruntable et TAEG reel face au taux d'usure 2e trimestre 2026. Gratuit, sans inscription.{{ end }}
+                </p>
+                <a href="{{ if eq $lang "en" }}{{ "en/simulators/borrowing-capacity/" | relURL }}{{ else }}{{ "simulateurs/capacite-emprunt/" | relURL }}{{ end }}" class="home-simulator-cta">
+                    {{ if eq $lang "en" }}Launch the simulator{{ else }}Lancer le simulateur{{ end }}
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="6 4 10 8 6 12" /></svg>
+                </a>
+            </div>
+            <div class="home-simulator-visual">
+                <div class="home-simulator-chips">
+                    <div class="home-simulator-chip">
+                        <span class="home-simulator-chip-value">240 K€</span>
+                        <span class="home-simulator-chip-label">{{ if eq $lang "en" }}Example capital{{ else }}Capital exemple{{ end }}</span>
+                    </div>
+                    <div class="home-simulator-chip">
+                        <span class="home-simulator-chip-value">1 225 €</span>
+                        <span class="home-simulator-chip-label">{{ if eq $lang "en" }}Monthly max{{ else }}Mensualite max{{ end }}</span>
+                    </div>
+                    <div class="home-simulator-chip">
+                        <span class="home-simulator-chip-value">4,15 %</span>
+                        <span class="home-simulator-chip-label">{{ if eq $lang "en" }}Simulated APR{{ else }}TAEG simule{{ end }}</span>
+                    </div>
+                    <div class="home-simulator-chip">
+                        <span class="home-simulator-chip-value">5,19 %</span>
+                        <span class="home-simulator-chip-label">{{ if eq $lang "en" }}Usury cap{{ else }}Plafond usure{{ end }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- ============ Categories ============ -->
 <section class="categories-section">
     <div class="container">

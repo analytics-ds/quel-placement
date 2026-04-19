@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<section class="simulator-page">
+    <div class="container container-narrow">
+        <nav class="breadcrumb" aria-label="{{ if eq .Site.Language.Lang "en" }}Breadcrumb{{ else }}Fil d'Ariane{{ end }}">
+            <ol class="breadcrumb-list">
+                <li class="breadcrumb-item">
+                    <a href="{{ "/" | relURL }}">{{ if eq .Site.Language.Lang "en" }}Home{{ else }}Accueil{{ end }}</a>
+                    <svg class="breadcrumb-sep" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 4 10 8 6 12" /></svg>
+                </li>
+                <li class="breadcrumb-item">
+                    <span aria-current="page">{{ .Title }}</span>
+                </li>
+            </ol>
+        </nav>
+
+        <header class="simulator-header">
+            <span class="simulator-kicker">{{ if eq .Site.Language.Lang "en" }}Simulator{{ else }}Simulateur{{ end }}</span>
+            <h1>{{ .Title }}</h1>
+            {{ with .Description }}<p class="simulator-intro-text">{{ . }}</p>{{ end }}
+        </header>
+
+        <div class="simulator-content">
+            {{ .Content }}
+        </div>
+    </div>
+</section>
+
+{{ end }}
