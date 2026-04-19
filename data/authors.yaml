@@ -201,23 +201,25 @@ sophie-martin:
   name: Sophie Martin
   type: person
   avatar: images/authors/sophie-martin.svg
-  linkedinUrl: ""
+  linkedinUrl: "https://www.linkedin.com/in/sophie-martin-finance/"
   jobTitle:
     fr: Journaliste finance & patrimoine
     en: Finance & wealth journalist
   role:
-    fr: Specialiste epargne & investissement
-    en: Savings & investment specialist
+    fr: Specialiste epargne, fiscalite & private equity
+    en: Savings, taxation & private equity specialist
   bio:
-    fr: "Sophie Martin est journaliste financiere independante depuis 10 ans. Elle analyse et compare produits d'epargne, solutions d'investissement et strategies patrimoniales pour democratiser la finance personnelle."
-    en: "Sophie Martin has been an independent financial journalist for 10 years. She analyzes and compares savings products, investment solutions and wealth strategies to democratize personal finance."
+    fr: "Sophie Martin est journaliste financiere independante depuis plus de 10 ans. Diplomee d'un master en finance de marche, elle collabore avec plusieurs medias specialises avant de rejoindre Quel Placement pour decrypter les placements et l'actualite patrimoniale. Son approche : transformer les sujets techniques (PER, FCPR, IFI, Jeanbrun, assurance vie) en articles factuels, chiffres et sans jargon. Elle couvre l'integralite des grandes thematiques patrimoniales : fiscalite, epargne reglementee, private equity, credit immobilier et assurance."
+    en: "Sophie Martin has been an independent financial journalist for more than 10 years. After a master's degree in market finance, she worked for several specialised media before joining Quel Placement to decode investments and wealth news. Her approach: turn technical topics (PER, FCPR, IFI, Jeanbrun, life insurance) into factual, figure-driven, jargon-free articles. She covers the full spectrum of wealth topics: taxation, regulated savings, private equity, mortgages and insurance."
   expertise:
-    - Epargne
-    - Investissement
-    - Immobilier locatif
-    - Fiscalite
-    - Assurance vie
-    - Bourse
+    - Epargne reglementee
+    - Assurance vie & PER
+    - Private equity (FCPR, FIP, FCPI)
+    - Fiscalite du patrimoine
+    - IFI et optimisation fiscale
+    - Credit immobilier
+    - Assurance emprunteur
+    - Defiscalisation immobiliere
   topics:
     - finance
     - placement

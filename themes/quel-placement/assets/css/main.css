@@ -2669,6 +2669,11 @@ img {
 .author-hero-bio { font-size: 1rem; line-height: 1.6; margin-bottom: 1rem; }
 .author-hero-expertise { display: flex; flex-wrap: wrap; gap: 6px; }
 .author-tag { padding: 4px 10px; border-radius: 999px; font-size: 0.78rem; background: rgba(120,120,140,0.1); border: 1px solid rgba(120,120,140,0.2); }
+.author-hero-social { margin-top: 1rem; }
+.author-linkedin { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border-radius: 8px; background: #0A66C2; color: #FFFFFF; text-decoration: none; font-size: 0.9rem; font-weight: 600; transition: background 200ms ease; }
+.author-linkedin:hover { background: #084c91; }
+.author-editorial { padding: 2rem 0; background: var(--bg-alt, #F8FAFC); }
+.author-editorial .prose h2 { margin-top: 2rem; font-size: 1.5rem; }
 .author-articles { padding: 2rem 0 4rem; }
 .authors-list-hero { padding: 4rem 0 1rem; text-align: center; }
 .authors-grid-section { padding: 2rem 0 4rem; }
