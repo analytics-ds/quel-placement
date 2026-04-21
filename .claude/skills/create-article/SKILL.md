@@ -16,9 +16,21 @@ Les deux versions partagent un `translationKey` identique dans le frontmatter, c
 
 Ne JAMAIS demander au consultant s'il veut la version anglaise. C'est systematique.
 
-## Etape 0 — Verification du quota hebdomadaire
+## Etape 0 — Pull du repo (sync obligatoire)
 
-Avant toute chose, lire le fichier `MEMORY.md` a la racine du projet. Ce fichier contient l'historique des articles publies, classe par semaine.
+**Standard reseau PBN GEO datashake** : plusieurs consultants travaillent sur le meme repo. Avant toute modif, toujours synchroniser le local avec GitHub pour recuperer les changements des collegues.
+
+```bash
+git pull
+```
+
+Si le pull echoue (conflit de merge, divergence, etc.) : **STOP**. Ne pas tenter de resoudre automatiquement. Avertir l'utilisateur du probleme et lui demander de resoudre a la main avant de relancer `/create-article`.
+
+Si le repo n'a pas de remote configure (site encore en local, pas encore passe par `/github-setup`), passer cette etape et continuer.
+
+## Etape 0.5 — Verification du quota hebdomadaire
+
+Apres le pull, lire le fichier `MEMORY.md` a la racine du projet. Ce fichier contient l'historique des articles publies, classe par semaine.
 
 Compter le nombre d'articles publies dans la **semaine en cours** (lundi a dimanche). Si **4 articles ou plus** sont deja enregistres cette semaine :
 - Avertir l'utilisateur : "4 articles ont deja ete publies cette semaine. Pour une strategie de cocon semantique efficace, il est recommande d'etaler la publication. Tu veux quand meme continuer ?"
@@ -339,15 +351,19 @@ Regles :
 - Une ligne par article : date | titre (FR+EN) | categorie
 - **1 article = 1 ligne, meme si 2 versions linguistiques** (les 2 versions comptent comme 1 article pour le quota de 4/semaine)
 
-## Etape 7 — Push sur GitHub
+## Etape 7 — Push sur GitHub (direct sur main)
 
-Si un remote git est configure (le site a ete mis en ligne via `/github-setup`), commit et push automatiquement :
+Si un remote git est configure (le site a ete mis en ligne via `/github-setup`), commit et push automatiquement sur `main` :
 
 ```bash
 git add -A
 git commit -m "Ajout article : [titre de l'article]"
-git push
+git push origin main
 ```
+
+**Standard reseau PBN GEO datashake** : on push toujours direct sur `main`, jamais sur une branche annexe. GitHub Actions deploie automatiquement.
+
+Si le push est rejete (quelqu'un a push entre-temps) : faire un `git pull --rebase` puis retenter le push. Si conflit : **STOP** et avertir l'utilisateur.
 
 Informer l'utilisateur que l'article sera en ligne dans 1-2 minutes (deploiement automatique via GitHub Actions).
 
