@@ -3,6 +3,11 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-04-20 au 2026-04-26
+
+- Declaration d'impots 2026 pour les jeunes (Fiscalite) — 2026-04-20 (FR + EN)
+- Quelles plateformes me permettent d'investir dans le domaine de l'IA ? (Private Equity) — 2026-04-22 (FR + EN)
+
 ## Semaine du 2026-04-13 au 2026-04-19
 
 - Comprendre l'IFI en 2026 (Fiscalite) — 2026-04-14
@@ -11,7 +16,6 @@ Limite : 4 articles par semaine max.
 - Dispositif Jeanbrun : statut du bailleur prive (Fiscalite) — 2026-04-19 (FR + EN)
 - Taux d'usure 2e trimestre 2026 (Credit) — 2026-04-19 (FR + EN)
 - Bareme de l'impot sur le revenu 2026 (Fiscalite) — 2026-04-19 (FR + EN)
-- Declaration d'impots 2026 pour les jeunes (Fiscalite) — 2026-04-20 (FR + EN) (depassement quota semaine, demande explicite)
 
 ## Articles de seeding (placeholder, week of 2026-04-17)
 
