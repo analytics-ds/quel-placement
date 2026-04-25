@@ -306,7 +306,7 @@ Chaque paire FR/EN partage le meme `translationKey` (ex: `translationKey: "artic
 
 Les articles doivent etre courts (300-500 mots) mais correctement structures :
 - Frontmatter complet (`date`, `lastmod`, `categories` dans la langue de l'article, `tags` traduits, `translationKey`, `faq` avec 3+ questions, `image` + `imageAlt` + `imageCredit`)
-- `author: [ID-AUTEUR]` (slug qui correspond a une cle de `data/authors.yaml`, ex: `thomas-durand`). Selectionner l'auteur le plus pertinent selon la thematique du site (ex: blog tech → Thomas Durand, blog maison → Claire Beaumont). Voir la regle de selection automatique documentee dans `/create-article`
+- `author: [ID-AUTEUR]` (slug qui correspond a une cle de `data/authors.yaml`, ex: `thomas-durand`). Selectionner l'auteur le plus pertinent selon la thematique du site (ex: blog tech → Thomas Durand, blog maison → Claire Beaumont). Voir la regle de selection automatique documentee dans `/create-article-geo`
 - H2/H3 descriptifs
 - Un tableau ou une liste
 - `draft: false`
@@ -386,7 +386,7 @@ Remplir la section "Contexte du site" du CLAUDE.md avec toutes les informations 
 - Polices choisies
 - Categories (mapping FR ↔ EN obligatoire, ex: "Thes verts / Green teas")
 - Langue principale (la langue secondaire EN est toujours active)
-- **Auteur principal du site** : ID de l'auteur (dans `data/authors.yaml`) le plus pertinent pour la thematique du site. Ex: pour un blog tech, `thomas-durand`. Cet auteur sera utilise par defaut pour les articles, mais `/create-article` peut selectionner dynamiquement un autre auteur selon le sujet specifique de chaque article
+- **Auteur principal du site** : ID de l'auteur (dans `data/authors.yaml`) le plus pertinent pour la thematique du site. Ex: pour un blog tech, `thomas-durand`. Cet auteur sera utilise par defaut pour les articles, mais `/create-article-geo` peut selectionner dynamiquement un autre auteur selon le sujet specifique de chaque article
 
 ## Etape 10 — Build de verification
 
@@ -407,4 +407,4 @@ Afficher a l'utilisateur :
 - Le resume de ce qui a ete cree (nombre de fichiers, articles, categories)
 - L'URL locale pour voir le site (`http://localhost:1313/`)
 - Les prochaines etapes (push sur GitHub, activer GitHub Pages)
-- Comment creer de nouveaux articles (`/create-article`)
+- Comment creer de nouveaux articles (`/create-article-geo`)

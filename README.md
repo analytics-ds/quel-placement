@@ -11,7 +11,7 @@ Ce dossier ne contient pas de site. Il contient les instructions et templates po
 3. Taper `/create-site` et repondre aux questions
 4. Claude genere tout le site Hugo (theme, CSS, layouts, articles placeholder, fichiers SEO)
 5. Taper `/github-setup` pour mettre le site en ligne sur GitHub Pages
-6. Creer des articles avec `/create-article`
+6. Creer des articles avec `/create-article-geo`
 
 ## Stack technique
 
@@ -32,7 +32,7 @@ Ce dossier ne contient pas de site. Il contient les instructions et templates po
 
 | Commande | Description |
 |---|---|
-| `/create-article` | Cree un nouvel article de blog. Demande le mot-cle, la categorie (obligatoire) et le type d'article. Verifie le quota hebdo (max 4 articles/semaine via MEMORY.md), analyse les contenus existants pour le maillage interne (min 3 liens), redige l'article, build Hugo et push automatiquement sur GitHub si le repo est configure. |
+| `/create-article-geo` | Cree un nouvel article de blog. Demande le mot-cle, la categorie (obligatoire) et le type d'article. Verifie le quota hebdo (max 4 articles/semaine via MEMORY.md), analyse les contenus existants pour le maillage interne (min 3 liens), redige l'article, build Hugo et push automatiquement sur GitHub si le repo est configure. |
 
 Types d'articles disponibles (extensibles) :
 - **Article standard** : article informatif SEO + GEO (type par defaut)
@@ -68,7 +68,7 @@ Le fichier `MEMORY.md` a la racine trace tous les articles publies, classes par 
 .claude/
 ├── skills/
 │   ├── create-site/         ← Workflow creation de site complet
-│   ├── create-article/      ← Workflow creation d'article (multi-types)
+│   ├── create-article-geo/      ← Workflow creation d'article (multi-types)
 │   ├── seo-setup/           ← Workflow fichiers SEO techniques
 │   ├── seo/                 ← Mode interactif SEO
 │   ├── serve/               ← Serveur Hugo local
@@ -86,7 +86,7 @@ Le fichier `MEMORY.md` a la racine trace tous les articles publies, classes par 
 
 ## Ajouter un type d'article
 
-Creer un fichier `.md` dans `.claude/templates/articles/`. Il sera automatiquement propose par `/create-article`. Inclure des commentaires `<!-- NOTES POUR CLAUDE -->` en bas du fichier pour specifier les regles de redaction (nombre de mots, blocs obligatoires, ton).
+Creer un fichier `.md` dans `.claude/templates/articles/`. Il sera automatiquement propose par `/create-article-geo`. Inclure des commentaires `<!-- NOTES POUR CLAUDE -->` en bas du fichier pour specifier les regles de redaction (nombre de mots, blocs obligatoires, ton).
 
 ## Ajouter un schema JSON-LD
 
