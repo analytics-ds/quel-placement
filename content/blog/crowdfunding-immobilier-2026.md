@@ -3,7 +3,7 @@ title: "Faut-il investir en crowdfunding immobilier en 2026 ?"
 translationKey: "crowdfunding-immobilier-2026"
 date: 2026-04-25
 lastmod: 2026-04-25
-description: "Crowdfunding immobilier 2026 : rendements, risques, fiscalite et plateformes. Faut-il encore investir apres la vague de retards de 2024 et 2025 ?"
+description: "Crowdfunding immobilier 2026 : rendements, risques, fiscalite et reglementation. Faut-il encore investir apres la vague de retards de 2024 et 2025 ?"
 categories:
   - Private Equity
 tags:
@@ -18,11 +18,11 @@ imageAlt: "Investissement en crowdfunding immobilier 2026, financement participa
 imageCredit: "Photo par investmentzen via Flickr (CC BY 2.0)"
 faq:
   - question: "Faut-il investir en crowdfunding immobilier en 2026 ?"
-    answer: "Le crowdfunding immobilier reste une classe d'actifs accessible des 1 000 euros avec un rendement cible moyen de 9 a 10 pour cent bruts en 2026. Toutefois, le taux de retard de remboursement superieur a 6 mois a atteint pres de 25 pour cent fin 2024 selon Hellocrowdfunding. Investir oui, mais en diversifiant sur au moins 10 projets et sans depasser 5 a 10 pour cent du patrimoine total."
+    answer: "Le crowdfunding immobilier reste une classe d'actifs accessible des 1 000 euros avec un rendement cible moyen de 9 a 10 pour cent bruts en 2026. Toutefois, le taux de retard de remboursement superieur a 6 mois a atteint pres de 25 pour cent fin 2024 selon les rapports sectoriels. Investir oui, mais en diversifiant sur au moins 10 projets et sans depasser 5 a 10 pour cent du patrimoine total."
   - question: "Quel est le rendement moyen du crowdfunding immobilier en 2026 ?"
-    answer: "Le rendement annuel brut moyen affiche par les plateformes francaises se situe entre 9 et 10 pour cent en 2026. Apres prelevement forfaitaire unique de 30 pour cent, le rendement net descend autour de 6,5 a 7 pour cent. Les retards et defauts peuvent diminuer le rendement reel observe."
-  - question: "Quelles sont les meilleures plateformes de crowdfunding immobilier en 2026 ?"
-    answer: "Les principales plateformes francaises agreees PSFP en 2026 sont Anaxago, Homunity, ClubFunding, Wiseed et La Premiere Brique. Anaxago et Homunity dominent en volume collecte. La Premiere Brique se distingue par un ticket d'entree de 1 euro symbolique. Toutes sont enregistrees aupres de l'AMF et de l'ESMA."
+    answer: "Le rendement annuel brut moyen affiche se situe entre 9 et 10 pour cent en 2026. Apres prelevement forfaitaire unique de 30 pour cent, le rendement net descend autour de 6,5 a 7 pour cent. Les retards et defauts peuvent diminuer le rendement reel observe."
+  - question: "Comment choisir une plateforme de crowdfunding immobilier en 2026 ?"
+    answer: "Le choix doit se baser sur l'agrement PSFP delivre par l'AMF, l'anciennete (au moins 5 ans d'historique), la transparence des statistiques de defaut publiees, le ticket d'entree adapte au budget, et la diversite des projets proposes. Le statut PSFP est obligatoire en France depuis novembre 2023 et controle par l'ESMA au niveau europeen."
   - question: "Quels sont les risques du crowdfunding immobilier ?"
     answer: "Le risque principal est la perte partielle ou totale du capital investi en cas de defaillance du promoteur. Le second risque est l'allongement de la duree de blocage : pres d'un projet sur quatre a accuse un retard de plus de 6 mois en 2024. Le capital est non garanti, non liquide et l'horizon reel peut depasser 36 mois."
   - question: "Comment est fiscalise le crowdfunding immobilier ?"
@@ -31,7 +31,7 @@ readingTime: true
 ---
 
 > **En bref :**
-> 1. Le marche francais du crowdfunding immobilier a collecte 1,16 milliard d'euros en 2023 puis recule a environ 815 millions en 2024 selon Hellocrowdfunding, signe d'une consolidation forte.
+> 1. Le marche francais du crowdfunding immobilier a collecte 1,16 milliard d'euros en 2023 puis recule a environ 815 millions en 2024 selon les rapports sectoriels, signe d'une consolidation forte.
 > 2. Le rendement annuel brut moyen affiche reste eleve, entre 9 et 10 pour cent, mais le taux de projets en retard de plus de 6 mois a atteint 25 pour cent fin 2024.
 > 3. Les plateformes francaises sont desormais soumises au statut europeen PSFP, encadrees par l'AMF et l'ESMA, avec un plafond d'investissement par projet de 1 000 euros pour les non-avertis.
 > 4. Investir en crowdfunding immobilier en 2026 reste pertinent en diversifiant sur au moins 10 projets et en limitant l'allocation a 5 a 10 pour cent du patrimoine.
@@ -40,7 +40,7 @@ readingTime: true
 
 Le **crowdfunding immobilier** est un mode de financement participatif qui permet a des particuliers de preter de l'argent a des promoteurs ou marchands de biens via une plateforme en ligne. En contrepartie, l'investisseur percoit des interets fixes sur une duree generalement comprise entre 12 et 36 mois. Le ticket d'entree demarre a 1 000 euros sur la plupart des plateformes, parfois moins.
 
-En 2026, ce produit s'est impose comme une classe d'actifs alternative populaire en France, avec plus de 1,8 milliard d'euros cumules collectes depuis 2015 selon Mazars et Hellocrowdfunding. Le secteur traverse toutefois une periode de turbulences liee a la crise du marche de la promotion immobiliere.
+En 2026, ce produit s'est impose comme une classe d'actifs alternative populaire en France, avec plus de 1,8 milliard d'euros cumules collectes depuis 2015 selon les rapports sectoriels annuels. Le secteur traverse toutefois une periode de turbulences liee a la crise du marche de la promotion immobiliere.
 
 ### Un marche en consolidation apres le pic de 2022
 
@@ -60,7 +60,7 @@ Le **rendement crowdfunding immobilier** affiche en 2026 se situe en moyenne ent
 
 | Indicateur | Valeur 2026 | Detail |
 |---|---|---|
-| Rendement brut moyen affiche | 9 a 10 pour cent | Selon Hellocrowdfunding et Mazars |
+| Rendement brut moyen affiche | 9 a 10 pour cent | Selon les rapports sectoriels |
 | Rendement net apres PFU 30 pour cent | 6,3 a 7 pour cent | Hors retards et defauts |
 | Duree moyenne d'un projet | 18 a 24 mois | Hors prolongations |
 | Taux de retard >6 mois (2024) | 25 pour cent | En forte hausse depuis 2022 |
@@ -68,7 +68,7 @@ Le **rendement crowdfunding immobilier** affiche en 2026 se situe en moyenne ent
 
 ### L'impact des retards et defauts sur le rendement reel
 
-Le rendement affiche n'est pas le rendement realise. La hausse spectaculaire des retards en 2023 et 2024 a degrade la performance moyenne du portefeuille des investisseurs particuliers. Selon Hellocrowdfunding, le taux de defaillance definitif (perte totale ou partielle) reste contenu autour de 1 a 2 pour cent fin 2024, mais les **retards superieurs a 6 mois** concernent pres d'un projet sur quatre.
+Le rendement affiche n'est pas le rendement realise. La hausse spectaculaire des retards en 2023 et 2024 a degrade la performance moyenne du portefeuille des investisseurs particuliers. Selon les rapports sectoriels annuels, le taux de defaillance definitif (perte totale ou partielle) reste contenu autour de 1 a 2 pour cent fin 2024, mais les **retards superieurs a 6 mois** concernent pres d'un projet sur quatre.
 
 Le rendement reel observe sur un portefeuille diversifie de 20 projets souscrits en 2022-2023 ressort plutot autour de 6 a 7 pour cent bruts en 2026, contre les 9 a 10 pour cent affiches a la souscription.
 
@@ -107,17 +107,18 @@ Avant d'investir sur un projet de **crowdfunding immobilier**, l'analyse doit po
 
 Comme detaille dans notre guide sur les **[FCPR pour investir dans le non cote](/blog/fcpr-investir-non-cote/)**, la diversification reste la regle d'or de l'investissement non liquide.
 
-### Selection de plateformes francaises agreees PSFP en 2026
+### Criteres de choix d'une plateforme PSFP en 2026
 
-| Plateforme | Ticket d'entree | Specialite |
+| Critere | Detail | Seuil recommande |
 |---|---|---|
-| Anaxago | 1 000 euros | Immobilier residentiel et tertiaire |
-| Homunity | 1 000 euros | Promotion residentielle |
-| ClubFunding | 1 000 euros | Marchands de biens et promotion |
-| Wiseed | 100 euros | Multi-classes (immo, startups, EnR) |
-| La Premiere Brique | 1 euro | Marchands de biens |
+| Agrement PSFP | Verification sur le registre AMF | Obligatoire |
+| Anciennete | Annees d'activite | Plus de 5 ans |
+| Volume cumule | Total collecte depuis l'origine | Plus de 100 millions d'euros |
+| Transparence | Publication des statistiques de defaut et de retard | Annuelle |
+| Ticket d'entree | Compatible avec le budget de diversification | 100 a 1 000 euros |
+| Diversite des projets | Nombre de projets ouverts par mois | Plus de 5 |
 
-Cette liste n'est pas exhaustive. Le choix doit privilegier les plateformes ayant un historique de plus de 5 ans et publiant leurs statistiques de defaut.
+Le choix doit privilegier les plateformes ayant un historique long, publiant leurs statistiques de defaut et permettant un ticket d'entree compatible avec une strategie de diversification sur plusieurs dizaines de projets.
 
 ## Combien investir et place dans le patrimoine
 
@@ -149,21 +150,21 @@ Pour les investisseurs souhaitant aussi se positionner sur des thematiques plus 
 <details>
 <summary>Faut-il investir en crowdfunding immobilier en 2026 ?</summary>
 
-Le crowdfunding immobilier reste une classe d'actifs accessible des 1 000 euros avec un rendement cible moyen de 9 a 10 pour cent bruts en 2026. Toutefois, le taux de retard de remboursement superieur a 6 mois a atteint pres de 25 pour cent fin 2024 selon Hellocrowdfunding. Investir oui, mais en diversifiant sur au moins 10 projets et sans depasser 5 a 10 pour cent du patrimoine total.
+Le crowdfunding immobilier reste une classe d'actifs accessible des 1 000 euros avec un rendement cible moyen de 9 a 10 pour cent bruts en 2026. Toutefois, le taux de retard de remboursement superieur a 6 mois a atteint pres de 25 pour cent fin 2024 selon les rapports sectoriels. Investir oui, mais en diversifiant sur au moins 10 projets et sans depasser 5 a 10 pour cent du patrimoine total.
 
 </details>
 
 <details>
 <summary>Quel est le rendement moyen du crowdfunding immobilier en 2026 ?</summary>
 
-Le rendement annuel brut moyen affiche par les plateformes francaises se situe entre 9 et 10 pour cent en 2026. Apres prelevement forfaitaire unique de 30 pour cent, le rendement net descend autour de 6,5 a 7 pour cent. Les retards et defauts peuvent diminuer le rendement reel observe.
+Le rendement annuel brut moyen affiche se situe entre 9 et 10 pour cent en 2026. Apres prelevement forfaitaire unique de 30 pour cent, le rendement net descend autour de 6,5 a 7 pour cent. Les retards et defauts peuvent diminuer le rendement reel observe.
 
 </details>
 
 <details>
-<summary>Quelles sont les meilleures plateformes de crowdfunding immobilier en 2026 ?</summary>
+<summary>Comment choisir une plateforme de crowdfunding immobilier en 2026 ?</summary>
 
-Les principales plateformes francaises agreees PSFP en 2026 sont Anaxago, Homunity, ClubFunding, Wiseed et La Premiere Brique. Anaxago et Homunity dominent en volume collecte. La Premiere Brique se distingue par un ticket d'entree de 1 euro symbolique. Toutes sont enregistrees aupres de l'AMF et de l'ESMA.
+Le choix doit se baser sur l'agrement PSFP delivre par l'AMF, l'anciennete (au moins 5 ans d'historique), la transparence des statistiques de defaut publiees, le ticket d'entree adapte au budget, et la diversite des projets proposes. Le statut PSFP est obligatoire en France depuis novembre 2023 et controle par l'ESMA au niveau europeen.
 
 </details>
 

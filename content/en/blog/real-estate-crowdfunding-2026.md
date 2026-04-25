@@ -3,7 +3,7 @@ title: "Should you invest in real estate crowdfunding in 2026?"
 translationKey: "crowdfunding-immobilier-2026"
 date: 2026-04-25
 lastmod: 2026-04-25
-description: "Real estate crowdfunding 2026: yields, risks, taxation and platforms. Is it still worth investing after the wave of delays in 2024 and 2025?"
+description: "Real estate crowdfunding 2026: yields, risks, taxation and regulation. Is it still worth investing after the wave of delays in 2024 and 2025?"
 categories:
   - Private Equity
 tags:
@@ -18,11 +18,11 @@ imageAlt: "Investing in real estate crowdfunding 2026, participatory financing o
 imageCredit: "Photo by investmentzen via Flickr (CC BY 2.0)"
 faq:
   - question: "Should you invest in real estate crowdfunding in 2026?"
-    answer: "Real estate crowdfunding remains an asset class accessible from 1,000 euros with an average target yield of 9 to 10 percent gross in 2026. However, the rate of repayment delays exceeding 6 months reached nearly 25 percent at the end of 2024 according to Hellocrowdfunding. Investing yes, but by diversifying across at least 10 projects and never exceeding 5 to 10 percent of total wealth."
+    answer: "Real estate crowdfunding remains an asset class accessible from 1,000 euros with an average target yield of 9 to 10 percent gross in 2026. However, the rate of repayment delays exceeding 6 months reached nearly 25 percent at the end of 2024 according to industry reports. Investing yes, but by diversifying across at least 10 projects and never exceeding 5 to 10 percent of total wealth."
   - question: "What is the average yield of real estate crowdfunding in 2026?"
-    answer: "The average gross annual yield displayed by French platforms stands between 9 and 10 percent in 2026. After the 30 percent flat tax, the net yield drops to around 6.5 to 7 percent. Delays and defaults can further reduce the actual observed yield."
-  - question: "What are the best real estate crowdfunding platforms in 2026?"
-    answer: "The main French platforms approved as PSFP in 2026 are Anaxago, Homunity, ClubFunding, Wiseed and La Premiere Brique. Anaxago and Homunity dominate in collected volume. La Premiere Brique stands out with a symbolic 1 euro entry ticket. All are registered with the AMF and ESMA."
+    answer: "The average gross annual yield displayed stands between 9 and 10 percent in 2026. After the 30 percent flat tax, the net yield drops to around 6.5 to 7 percent. Delays and defaults can further reduce the actual observed yield."
+  - question: "How to choose a real estate crowdfunding platform in 2026?"
+    answer: "The choice should be based on the PSFP authorization granted by the AMF, seniority (at least 5 years of history), transparency on published default statistics, an entry ticket suited to the budget, and the diversity of projects offered. PSFP status has been mandatory in France since November 2023 and is supervised by the ESMA at European level."
   - question: "What are the risks of real estate crowdfunding?"
     answer: "The main risk is partial or total loss of invested capital in case of developer default. The second risk is extended lock-up periods: nearly one in four projects experienced delays of more than 6 months in 2024. Capital is not guaranteed, not liquid, and the real horizon can exceed 36 months."
   - question: "How is real estate crowdfunding taxed in France?"
@@ -31,7 +31,7 @@ readingTime: true
 ---
 
 > **In short:**
-> 1. The French real estate crowdfunding market collected 1.16 billion euros in 2023 then dropped to about 815 million in 2024 according to Hellocrowdfunding, a sign of strong consolidation.
+> 1. The French real estate crowdfunding market collected 1.16 billion euros in 2023 then dropped to about 815 million in 2024 according to industry reports, a sign of strong consolidation.
 > 2. The average gross annual yield displayed remains high, between 9 and 10 percent, but the rate of projects delayed by more than 6 months reached 25 percent at the end of 2024.
 > 3. French platforms are now subject to the European PSFP status, supervised by the AMF and ESMA, with an investment cap of 1,000 euros per project for non-experienced investors.
 > 4. Investing in real estate crowdfunding in 2026 remains relevant when diversifying across at least 10 projects and limiting allocation to 5 to 10 percent of total wealth.
@@ -40,7 +40,7 @@ readingTime: true
 
 **Real estate crowdfunding** is a participatory financing model that allows individuals to lend money to property developers or property traders through an online platform. In return, the investor receives fixed interest over a duration generally between 12 and 36 months. The minimum entry ticket starts at 1,000 euros on most platforms, sometimes less.
 
-In 2026, this product has established itself as a popular alternative asset class in France, with more than 1.8 billion euros cumulatively collected since 2015 according to Mazars and Hellocrowdfunding. The sector is however going through a turbulent period linked to the property development crisis.
+In 2026, this product has established itself as a popular alternative asset class in France, with more than 1.8 billion euros cumulatively collected since 2015 according to annual industry reports. The sector is however going through a turbulent period linked to the property development crisis.
 
 ### A consolidating market after the 2022 peak
 
@@ -60,7 +60,7 @@ The **real estate crowdfunding yield** displayed in 2026 averages between 9 and 
 
 | Indicator | 2026 value | Detail |
 |---|---|---|
-| Average gross yield displayed | 9 to 10 percent | According to Hellocrowdfunding and Mazars |
+| Average gross yield displayed | 9 to 10 percent | According to industry reports |
 | Net yield after 30 percent flat tax | 6.3 to 7 percent | Excluding delays and defaults |
 | Average project duration | 18 to 24 months | Excluding extensions |
 | Delay rate over 6 months (2024) | 25 percent | Sharply rising since 2022 |
@@ -68,7 +68,7 @@ The **real estate crowdfunding yield** displayed in 2026 averages between 9 and 
 
 ### The impact of delays and defaults on actual yield
 
-The displayed yield is not the realized yield. The dramatic rise in delays in 2023 and 2024 has degraded the average performance of retail investor portfolios. According to Hellocrowdfunding, the definitive default rate (total or partial loss) remains contained around 1 to 2 percent at the end of 2024, but **delays exceeding 6 months** affect nearly one project in four.
+The displayed yield is not the realized yield. The dramatic rise in delays in 2023 and 2024 has degraded the average performance of retail investor portfolios. According to annual industry reports, the definitive default rate (total or partial loss) remains contained around 1 to 2 percent at the end of 2024, but **delays exceeding 6 months** affect nearly one project in four.
 
 The actual yield observed on a diversified portfolio of 20 projects subscribed in 2022-2023 stands closer to 6 to 7 percent gross in 2026, compared to the 9 to 10 percent displayed at subscription.
 
@@ -107,17 +107,18 @@ Before investing in a **real estate crowdfunding** project, the analysis must fo
 
 As detailed in our guide on **[FCPR for investing in unlisted assets](/en/blog/fcpr-investing-unlisted/)**, diversification remains the golden rule of illiquid investing.
 
-### Selection of French PSFP-approved platforms in 2026
+### Criteria for selecting a PSFP platform in 2026
 
-| Platform | Entry ticket | Specialty |
+| Criterion | Detail | Recommended threshold |
 |---|---|---|
-| Anaxago | 1,000 euros | Residential and tertiary real estate |
-| Homunity | 1,000 euros | Residential development |
-| ClubFunding | 1,000 euros | Property traders and development |
-| Wiseed | 100 euros | Multi-asset (real estate, startups, renewables) |
-| La Premiere Brique | 1 euro | Property traders |
+| PSFP authorization | Verification on the AMF register | Mandatory |
+| Seniority | Years of activity | More than 5 years |
+| Cumulative volume | Total collected since inception | More than 100 million euros |
+| Transparency | Publication of default and delay statistics | Annual |
+| Entry ticket | Compatible with diversification budget | 100 to 1,000 euros |
+| Project diversity | Number of projects open per month | More than 5 |
 
-This list is not exhaustive. The choice should favor platforms with a history of more than 5 years and which publish their default statistics.
+The choice should favor platforms with a long history, that publish their default statistics, and that allow an entry ticket compatible with a diversification strategy across dozens of projects.
 
 ## How much to invest and place in wealth allocation
 
@@ -149,21 +150,21 @@ For investors also wishing to position on broader themes, the analysis of **[pla
 <details>
 <summary>Should you invest in real estate crowdfunding in 2026?</summary>
 
-Real estate crowdfunding remains an asset class accessible from 1,000 euros with an average target yield of 9 to 10 percent gross in 2026. However, the rate of repayment delays exceeding 6 months reached nearly 25 percent at the end of 2024 according to Hellocrowdfunding. Investing yes, but by diversifying across at least 10 projects and never exceeding 5 to 10 percent of total wealth.
+Real estate crowdfunding remains an asset class accessible from 1,000 euros with an average target yield of 9 to 10 percent gross in 2026. However, the rate of repayment delays exceeding 6 months reached nearly 25 percent at the end of 2024 according to industry reports. Investing yes, but by diversifying across at least 10 projects and never exceeding 5 to 10 percent of total wealth.
 
 </details>
 
 <details>
 <summary>What is the average yield of real estate crowdfunding in 2026?</summary>
 
-The average gross annual yield displayed by French platforms stands between 9 and 10 percent in 2026. After the 30 percent flat tax, the net yield drops to around 6.5 to 7 percent. Delays and defaults can further reduce the actual observed yield.
+The average gross annual yield displayed stands between 9 and 10 percent in 2026. After the 30 percent flat tax, the net yield drops to around 6.5 to 7 percent. Delays and defaults can further reduce the actual observed yield.
 
 </details>
 
 <details>
-<summary>What are the best real estate crowdfunding platforms in 2026?</summary>
+<summary>How to choose a real estate crowdfunding platform in 2026?</summary>
 
-The main French platforms approved as PSFP in 2026 are Anaxago, Homunity, ClubFunding, Wiseed and La Premiere Brique. Anaxago and Homunity dominate in collected volume. La Premiere Brique stands out with a symbolic 1 euro entry ticket. All are registered with the AMF and ESMA.
+The choice should be based on the PSFP authorization granted by the AMF, seniority (at least 5 years of history), transparency on published default statistics, an entry ticket suited to the budget, and the diversity of projects offered. PSFP status has been mandatory in France since November 2023 and is supervised by the ESMA at European level.
 
 </details>
 
