@@ -7,6 +7,7 @@ Limite : 4 articles par semaine max.
 
 - Declaration d'impots 2026 pour les jeunes (Fiscalite) — 2026-04-20 (FR + EN)
 - Quelles plateformes me permettent d'investir dans le domaine de l'IA ? (Private Equity) — 2026-04-22 (FR + EN)
+- Faut-il investir en crowdfunding immobilier en 2026 ? (Private Equity) — 2026-04-25 (FR + EN)
 
 ## Semaine du 2026-04-13 au 2026-04-19
 
