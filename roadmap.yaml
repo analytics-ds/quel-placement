@@ -77,12 +77,78 @@
 #   longue traine).
 
 articles:
-  # ----- exemple (a supprimer ou remplacer) -----
-  - kw: "exemple de mot cle"
-    category: "Exemple de categorie"
-    volume: 1200
-    kd: 35
+
+  - kw: "meilleur livret d epargne 2026"
+    category: "Epargne"
+    volume: null
+    kd: null
     scheduled_date: "2026-04-28"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment defiscaliser ses revenus"
+    category: "Fiscalite"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure assurance vie 2026"
+    category: "Assurance"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment ouvrir un compte bancaire en ligne"
+    category: "Compte bancaire"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "taux credit immobilier 2026"
+    category: "Credit"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "qu est ce que le private equity"
+    category: "Private Equity"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "PEA ou assurance vie"
+    category: "Epargne"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-19"
     status: todo
     published_date: null
     published_url_fr: null
