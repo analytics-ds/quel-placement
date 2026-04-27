@@ -3,6 +3,13 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-04-27 au 2026-05-03
+
+- Frais de dossier pret immobilier (Credit) — 2026-04-27 (FR + EN)
+- Droit au compte bancaire (Compte bancaire) — 2026-04-27 (FR + EN)
+- Desolidarisation compte joint (Compte bancaire) — 2026-04-27 (FR + EN)
+- Assurance auto au km (Assurance) — 2026-04-27 (FR + EN)
+
 ## Semaine du 2026-04-20 au 2026-04-26
 
 - Declaration d'impots 2026 pour les jeunes (Fiscalite) — 2026-04-20 (FR + EN)
