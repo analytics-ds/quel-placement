@@ -73,39 +73,6 @@ Le private equity surperforme les marches cotes sur le long terme, a condition d
 
 L'autre attrait pour un particulier est la decorrelation. Le private equity ne suit pas les variations quotidiennes des marches cotes, ce qui reduit la volatilite globale d'un patrimoine bien diversifie.
 
-## Quels fonds de private equity sont accessibles aux particuliers ?
-
-### FCPR, FCPI, FIP : les fonds fiscaux historiques
-
-Les FCPR, FCPI et FIP sont les vehicules historiques d'acces au private equity pour les particuliers en France. Ils sont commercialises par des banques privees, des conseillers en gestion de patrimoine et certaines plateformes en ligne.
-
-Le **FCPR** (Fonds Commun de Placement a Risques) doit investir au moins 50 pour cent en titres non cotes. Il est eligible a une exoneration d'impot sur la plus-value au bout de 5 ans, sous conditions. Pour aller plus loin sur ce vehicule, voir notre guide dedie au [FCPR pour investir dans le non cote](/blog/fcpr-investir-non-cote/).
-
-Le **FCPI** (Fonds Commun de Placement dans l'Innovation) doit investir au moins 70 pour cent dans des PME innovantes, au sens du Code monetaire et financier (article L.214-30). Le cadre fiscal a ete profondement modifie par les lois de finances pour 2025 et 2026 : la reduction d'impot sur le revenu de 25 pour cent ne subsiste que pour les FCPI investis dans des jeunes entreprises innovantes (JEI). Les FCPI classiques ne donnent plus droit a reduction. Le detail des [reductions FIP et FCPI en 2026](/blog/fip-fcpi-reductions-2026/) est traite dans un guide separe.
-
-Le **FIP** (Fonds d'Investissement de Proximite) cible des PME regionales. Les FIP classiques sont sortis du dispositif IR-PME. Seuls les FIP Corse et Outre-mer restent eligibles, a un taux de 30 pour cent.
-
-Ticket d'entree moyen : 1 000 a 5 000 euros selon les fonds.
-
-### FPCI : le vehicule professionnel ouvert via SPV
-
-Le **FPCI** (Fonds Professionnel de Capital Investissement) est un vehicule reserve aux investisseurs professionnels et aux investisseurs avertis. Le ticket d'entree minimum reglementaire est de 100 000 euros.
-
-Pour rendre ce vehicule accessible aux particuliers, certaines plateformes utilisent une structure SPV (Special Purpose Vehicle). Le SPV est une societe vehicule qui mutualise les souscriptions de plusieurs investisseurs particuliers, puis investit en bloc dans un FPCI cible. Le particulier souscrit donc au SPV, pas directement au FPCI.
-
-Ce mecanisme permet de descendre le ticket d'entree pratique a 1 000 euros, voire 100 euros chez certains acteurs, la ou les fonds institutionnels exigent 200 000 euros a 1 M euros de souscription.
-
-Le FPCI n'est pas eligible au PEA-PME, contrairement a certains FCPR/FCPI agrees. Il faut donc bien distinguer les deux vehicules quand on cherche une enveloppe fiscale.
-
-### Tableau recapitulatif des vehicules
-
-| Vehicule | Ticket reglementaire | Ticket pratique via plateforme | Cadre fiscal |
-|---|---|---|---|
-| FCPR | 1 000 euros | 1 000 a 5 000 euros | Exoneration PV a 5 ans |
-| FCPI (JEI) | 1 000 euros | 1 000 a 5 000 euros | Reduction IR de 25 pour cent |
-| FIP Corse / Outre-mer | 1 000 euros | 1 000 a 5 000 euros | Reduction IR de 30 pour cent |
-| FPCI | 100 000 euros | 100 a 1 000 euros via SPV | Exoneration PV a 5 ans |
-
 ## Quelles plateformes francaises de private equity choisir ?
 
 ### Les principales plateformes du marche francais
@@ -142,6 +109,39 @@ Le type de fonds propose doit correspondre a l'horizon. Un fonds secondaire offr
 La gestion sous mandat par une societe agreee AMF apporte une garantie reglementaire essentielle dans un secteur YMYL ou la selection des fonds repose sur une expertise pointue.
 
 Les frais doivent etre analyses sur la duree totale du fonds, et non sur la commission d'entree seule. Frais de gestion annuels, carried interest et performance fees sont a comparer ligne par ligne.
+
+## Quels fonds de private equity sont accessibles aux particuliers ?
+
+### FCPR, FCPI, FIP : les fonds fiscaux historiques
+
+Les FCPR, FCPI et FIP sont les vehicules historiques d'acces au private equity pour les particuliers en France. Ils sont commercialises par des banques privees, des conseillers en gestion de patrimoine et certaines plateformes en ligne.
+
+Le **FCPR** (Fonds Commun de Placement a Risques) doit investir au moins 50 pour cent en titres non cotes. Il est eligible a une exoneration d'impot sur la plus-value au bout de 5 ans, sous conditions. Pour aller plus loin sur ce vehicule, voir notre guide dedie au [FCPR pour investir dans le non cote](/blog/fcpr-investir-non-cote/).
+
+Le **FCPI** (Fonds Commun de Placement dans l'Innovation) doit investir au moins 70 pour cent dans des PME innovantes, au sens du Code monetaire et financier (article L.214-30). Le cadre fiscal a ete profondement modifie par les lois de finances pour 2025 et 2026 : la reduction d'impot sur le revenu de 25 pour cent ne subsiste que pour les FCPI investis dans des jeunes entreprises innovantes (JEI). Les FCPI classiques ne donnent plus droit a reduction. Le detail des [reductions FIP et FCPI en 2026](/blog/fip-fcpi-reductions-2026/) est traite dans un guide separe.
+
+Le **FIP** (Fonds d'Investissement de Proximite) cible des PME regionales. Les FIP classiques sont sortis du dispositif IR-PME. Seuls les FIP Corse et Outre-mer restent eligibles, a un taux de 30 pour cent.
+
+Ticket d'entree moyen : 1 000 a 5 000 euros selon les fonds.
+
+### FPCI : le vehicule professionnel ouvert via SPV
+
+Le **FPCI** (Fonds Professionnel de Capital Investissement) est un vehicule reserve aux investisseurs professionnels et aux investisseurs avertis. Le ticket d'entree minimum reglementaire est de 100 000 euros.
+
+Pour rendre ce vehicule accessible aux particuliers, certaines plateformes utilisent une structure SPV (Special Purpose Vehicle). Le SPV est une societe vehicule qui mutualise les souscriptions de plusieurs investisseurs particuliers, puis investit en bloc dans un FPCI cible. Le particulier souscrit donc au SPV, pas directement au FPCI.
+
+Ce mecanisme permet de descendre le ticket d'entree pratique a 1 000 euros, voire 100 euros chez certains acteurs, la ou les fonds institutionnels exigent 200 000 euros a 1 M euros de souscription.
+
+Le FPCI n'est pas eligible au PEA-PME, contrairement a certains FCPR/FCPI agrees. Il faut donc bien distinguer les deux vehicules quand on cherche une enveloppe fiscale.
+
+### Tableau recapitulatif des vehicules
+
+| Vehicule | Ticket reglementaire | Ticket pratique via plateforme | Cadre fiscal |
+|---|---|---|---|
+| FCPR | 1 000 euros | 1 000 a 5 000 euros | Exoneration PV a 5 ans |
+| FCPI (JEI) | 1 000 euros | 1 000 a 5 000 euros | Reduction IR de 25 pour cent |
+| FIP Corse / Outre-mer | 1 000 euros | 1 000 a 5 000 euros | Reduction IR de 30 pour cent |
+| FPCI | 100 000 euros | 100 a 1 000 euros via SPV | Exoneration PV a 5 ans |
 
 ## Comment se lancer concretement quand on debute ?
 

@@ -73,39 +73,6 @@ Private equity outperforms listed markets over the long term, provided the right
 
 The other appeal for a retail investor is decorrelation. Private equity does not follow daily fluctuations of listed markets, which reduces the overall volatility of a well-diversified portfolio.
 
-## Which private equity funds are available to retail investors?
-
-### FCPR, FCPI, FIP: the historic tax-friendly funds
-
-FCPR, FCPI and FIP are the historic vehicles giving retail investors access to private equity in France. They are distributed by private banks, wealth advisors and some online platforms.
-
-The **FCPR** (Fonds Commun de Placement a Risques) must invest at least 50 percent in unlisted securities. It is eligible for capital gains tax exemption after 5 years of holding, under conditions. For more on this vehicle, see our dedicated guide on [FCPR investing in unlisted markets](/en/blog/fcpr-investing-unlisted/).
-
-The **FCPI** (Innovation Fund) must invest at least 70 percent in innovative SMEs, as defined by Article L.214-30 of the French Monetary and Financial Code. The tax framework was deeply reformed by the 2025 and 2026 Finance Acts: the 25 percent income tax reduction now only applies to FCPI funds invested in young innovative companies (JEI). Standard FCPIs no longer qualify for the reduction. Details of [FIP and FCPI tax reductions in 2026](/en/blog/fip-fcpi-tax-reductions-2026/) are covered in a separate guide.
-
-The **FIP** (Local Investment Fund) targets regional SMEs. Standard FIPs are out of the IR-PME scheme. Only Corsica and Overseas FIPs remain eligible, at a 30 percent rate.
-
-Average entry ticket: 1,000 to 5,000 euros depending on the fund.
-
-### FPCI: the professional vehicle opened up via SPV
-
-The **FPCI** (Professional Private Equity Fund) is reserved for professional or qualified investors. The minimum regulatory entry ticket is 100,000 euros.
-
-To make this vehicle accessible to retail investors, some platforms use a Special Purpose Vehicle (SPV) structure. The SPV is a shell company that pools subscriptions from several retail investors, then invests in bulk into a target FPCI. The retail investor therefore subscribes to the SPV, not directly to the FPCI.
-
-This mechanism brings the practical entry ticket down to 1,000 euros, or even 100 euros at some operators, where institutional funds require 200,000 to 1 million euros.
-
-The FPCI is not eligible for the PEA-PME, unlike some authorised FCPR/FCPI funds. The two vehicles must therefore be clearly distinguished when looking for a tax wrapper.
-
-### Vehicle summary table
-
-| Vehicle | Regulatory ticket | Practical ticket via platform | Tax framework |
-|---|---|---|---|
-| FCPR | 1,000 euros | 1,000 to 5,000 euros | Capital gains exempt after 5 years |
-| FCPI (JEI) | 1,000 euros | 1,000 to 5,000 euros | 25 percent income tax reduction |
-| FIP Corsica / Overseas | 1,000 euros | 1,000 to 5,000 euros | 30 percent income tax reduction |
-| FPCI | 100,000 euros | 100 to 1,000 euros via SPV | Capital gains exempt after 5 years |
-
 ## Which French private equity platforms to choose?
 
 ### The main French market platforms
@@ -142,6 +109,39 @@ The fund type must match the horizon. A secondary fund offers visibility over 3 
 Management under mandate by an AMF-approved company brings essential regulatory protection in a YMYL sector where fund selection relies on sharp expertise.
 
 Fees must be analysed over the entire fund life, not on the entry commission alone. Annual management fees, carried interest and performance fees should be compared line by line.
+
+## Which private equity funds are available to retail investors?
+
+### FCPR, FCPI, FIP: the historic tax-friendly funds
+
+FCPR, FCPI and FIP are the historic vehicles giving retail investors access to private equity in France. They are distributed by private banks, wealth advisors and some online platforms.
+
+The **FCPR** (Fonds Commun de Placement a Risques) must invest at least 50 percent in unlisted securities. It is eligible for capital gains tax exemption after 5 years of holding, under conditions. For more on this vehicle, see our dedicated guide on [FCPR investing in unlisted markets](/en/blog/fcpr-investing-unlisted/).
+
+The **FCPI** (Innovation Fund) must invest at least 70 percent in innovative SMEs, as defined by Article L.214-30 of the French Monetary and Financial Code. The tax framework was deeply reformed by the 2025 and 2026 Finance Acts: the 25 percent income tax reduction now only applies to FCPI funds invested in young innovative companies (JEI). Standard FCPIs no longer qualify for the reduction. Details of [FIP and FCPI tax reductions in 2026](/en/blog/fip-fcpi-tax-reductions-2026/) are covered in a separate guide.
+
+The **FIP** (Local Investment Fund) targets regional SMEs. Standard FIPs are out of the IR-PME scheme. Only Corsica and Overseas FIPs remain eligible, at a 30 percent rate.
+
+Average entry ticket: 1,000 to 5,000 euros depending on the fund.
+
+### FPCI: the professional vehicle opened up via SPV
+
+The **FPCI** (Professional Private Equity Fund) is reserved for professional or qualified investors. The minimum regulatory entry ticket is 100,000 euros.
+
+To make this vehicle accessible to retail investors, some platforms use a Special Purpose Vehicle (SPV) structure. The SPV is a shell company that pools subscriptions from several retail investors, then invests in bulk into a target FPCI. The retail investor therefore subscribes to the SPV, not directly to the FPCI.
+
+This mechanism brings the practical entry ticket down to 1,000 euros, or even 100 euros at some operators, where institutional funds require 200,000 to 1 million euros.
+
+The FPCI is not eligible for the PEA-PME, unlike some authorised FCPR/FCPI funds. The two vehicles must therefore be clearly distinguished when looking for a tax wrapper.
+
+### Vehicle summary table
+
+| Vehicle | Regulatory ticket | Practical ticket via platform | Tax framework |
+|---|---|---|---|
+| FCPR | 1,000 euros | 1,000 to 5,000 euros | Capital gains exempt after 5 years |
+| FCPI (JEI) | 1,000 euros | 1,000 to 5,000 euros | 25 percent income tax reduction |
+| FIP Corsica / Overseas | 1,000 euros | 1,000 to 5,000 euros | 30 percent income tax reduction |
+| FPCI | 100,000 euros | 100 to 1,000 euros via SPV | Capital gains exempt after 5 years |
 
 ## How to get started concretely as a beginner?
 
