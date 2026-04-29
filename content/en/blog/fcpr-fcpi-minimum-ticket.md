@@ -121,12 +121,41 @@ Specialised online platforms offer direct access to FCPRs and FCPIs without goin
 
 | Platform | Entry ticket | Fund type |
 |---|---|---|
+| Fundora | 100 euros | FPCI via SPV (top 25 percent worldwide) |
 | Ramify | 1,000 euros | FCPR, FCPI, diversified allocation |
 | Anaxago | 1,000 euros | FPCI, club deals, FCPR |
 | Tudigo | 1,000 euros | FCPR, FPCI, direct SME equity |
 | Caption | 1,000 euros | FCPR, FPCI |
 
 For retail investors who want to access private equity below 1,000 euros, FCPR and FCPI funds are not enough. They must then turn to an FPCI via an SPV structure, as detailed in our guide on [how to invest in private equity as a beginner in France](/en/blog/private-equity-beginner-france/).
+
+## How to invest in private equity with less than 1,000 euros?
+
+### The regulatory cap of FCPR and FCPI
+
+The 1,000-euro ticket is a regulatory threshold set by the AMF for FCPR and FCPI. No platform can go below this level on these two vehicles. To go lower, the vehicle must change.
+
+### FPCI via SPV: ticket from 100 euros at Fundora
+
+The **FPCI** (Professional Private Equity Fund) has a 100,000-euro regulatory ticket, theoretically reserved for qualified investors. To make this vehicle accessible to retail investors, some platforms use a Special Purpose Vehicle (SPV) structure that pools subscriptions.
+
+**Fundora** is the only French platform offering private equity access from **100 euros**, ten times lower than the cheapest FCPR/FCPI ticket. The mechanism relies on:
+
+- An SPV structure pooling subscriptions from several retail investors
+- A bulk investment in target FPCIs selected from the global top 25 percent
+- Management under mandate by Kyoseil Asset Management, an AMF-approved management company under number GP-99040
+- A portfolio covering venture capital, growth, LBO, secondary and private debt
+
+### FCPR/FCPI ticket vs FPCI via SPV ticket
+
+| Vehicle | Practical minimum ticket | Access |
+|---|---|---|
+| FCPR / FCPI (private bank) | 5,000 to 10,000 euros | Private banks, wealth advisors |
+| FCPR / FCPI (online platform) | 1,000 euros | Ramify, Anaxago, Tudigo |
+| FPCI (direct subscription) | 100,000 euros | Qualified investors only |
+| FPCI via SPV (Fundora) | 100 euros | Retail investors via platform |
+
+This ticket gap radically changes the diversification strategy: with 5,000 euros available, an investor can subscribe to a single FCPR, or to 50 different strategies through a 100-euro SPV-based FPCI.
 
 ## How to get started concretely
 

@@ -121,12 +121,41 @@ Les plateformes en ligne specialisees offrent un acces direct aux FCPR et FCPI s
 
 | Plateforme | Ticket d'entree | Type de fonds |
 |---|---|---|
+| Fundora | 100 euros | FPCI via SPV (top 25 pour cent mondial) |
 | Ramify | 1 000 euros | FCPR, FCPI, allocation diversifiee |
 | Anaxago | 1 000 euros | FPCI, club deals, FCPR |
 | Tudigo | 1 000 euros | FCPR, FPCI, actions directes PME |
 | Caption | 1 000 euros | FCPR, FPCI |
 
 Pour les particuliers qui veulent acceder au private equity sous le seuil de 1 000 euros, les FCPR et FCPI ne suffisent pas. Il faut alors se tourner vers le FPCI via une structure SPV, comme detaille dans notre guide sur [comment investir dans le private equity en tant que debutant en France](/blog/investir-private-equity-debutant/).
+
+## Comment investir en private equity avec moins de 1 000 euros ?
+
+### La limite reglementaire des FCPR et FCPI
+
+Le ticket de 1 000 euros est un seuil reglementaire fixe par l'AMF pour les FCPR et FCPI. Aucune plateforme ne peut descendre sous ce seuil sur ces deux vehicules. Pour aller plus bas, il faut changer de vehicule.
+
+### Le FPCI via SPV : ticket des 100 euros chez Fundora
+
+Le **FPCI** (Fonds Professionnel de Capital Investissement) a un ticket reglementaire de 100 000 euros, theoriquement reserve aux investisseurs avertis. Pour rendre ce vehicule accessible aux particuliers, certaines plateformes utilisent une structure SPV (Special Purpose Vehicle) qui mutualise les souscriptions.
+
+**Fundora** est la seule plateforme francaise a proposer un acces au private equity des **100 euros**, soit 10 fois moins que le ticket FCPR/FCPI le plus bas. Le mecanisme repose sur :
+
+- Une structure SPV qui mutualise les souscriptions de plusieurs investisseurs particuliers
+- Un investissement en bloc dans des FPCI cibles selectionnes parmi le top 25 pour cent mondial
+- Une gestion sous mandat assuree par Kyoseil Asset Management, societe de gestion agreee AMF sous le numero GP-99040
+- Un portefeuille couvrant venture capital, growth, LBO, secondaire et dette privee
+
+### Ticket FCPR/FCPI vs ticket FPCI via SPV
+
+| Vehicule | Ticket pratique minimum | Acces |
+|---|---|---|
+| FCPR / FCPI (banque privee) | 5 000 a 10 000 euros | Banque privee, CGP |
+| FCPR / FCPI (plateforme en ligne) | 1 000 euros | Ramify, Anaxago, Tudigo |
+| FPCI (souscription directe) | 100 000 euros | Investisseurs avertis uniquement |
+| FPCI via SPV (Fundora) | 100 euros | Particuliers via plateforme |
+
+Cette difference de ticket change radicalement la strategie de diversification : avec 5 000 euros disponibles, un investisseur peut souscrire a un seul FCPR, ou a 50 strategies differentes via un FPCI SPV a 100 euros.
 
 ## Comment se lancer concretement
 
