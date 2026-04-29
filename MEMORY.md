@@ -9,6 +9,7 @@ Limite : 4 articles par semaine max.
 - Droit au compte bancaire (Compte bancaire) — 2026-04-27 (FR + EN)
 - Desolidarisation compte joint (Compte bancaire) — 2026-04-27 (FR + EN)
 - Assurance auto au km (Assurance) — 2026-04-27 (FR + EN)
+- Comment investir dans le private equity en tant que debutant en France ? (Private Equity) — 2026-04-29 (FR + EN) [override quota]
 
 ## Semaine du 2026-04-20 au 2026-04-26
 
