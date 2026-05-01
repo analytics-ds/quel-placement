@@ -83,10 +83,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-04-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-01"
+    published_url_fr: "https://quel-placement.com/blog/meilleur-livret-epargne-2026/"
+    published_url_en: "https://quel-placement.com/en/blog/best-savings-account-2026/"
     error: null
 
   - kw: "comment defiscaliser ses revenus"
