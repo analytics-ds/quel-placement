@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-05-04 au 2026-05-10
+
+- 2026-05-05 | Comment défiscaliser ses revenus en 2026 (FR+EN) | Fiscalite | auto
+
 ## Semaine du 2026-04-27 au 2026-05-03
 
 - 2026-05-01 | Meilleur livret d'épargne 2026 : comparatif complet (FR+EN) | Epargne | auto

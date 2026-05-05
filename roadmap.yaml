@@ -94,10 +94,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-05"
+    published_url_fr: "https://quel-placement.com/blog/comment-defiscaliser-ses-revenus/"
+    published_url_en: "https://quel-placement.com/en/blog/how-to-reduce-your-taxes-france/"
     error: null
 
   - kw: "meilleure assurance vie 2026"
