@@ -76,3 +76,7 @@ Un bon contrat d'assurance vie doit cumuler frais faibles, large choix de suppor
 ## Liens utiles
 
 [PER vs assurance vie](/blog/per-vs-assurance-vie/), [Livret A vs LDDS](/blog/livret-a-vs-ldds/), [lexique](/lexique/).
+
+## Sources
+
+Pour aller plus loin sur les contrats et l'arbitrage des supports : [Meridien Finance, assurance vie](https://meridien-finance.com/assurance-vie).

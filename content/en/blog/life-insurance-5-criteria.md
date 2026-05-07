@@ -76,3 +76,7 @@ A good life insurance contract must combine low fees, wide underlying choice and
 ## Useful links
 
 [PER vs life insurance](/en/blog/per-vs-life-insurance/), [Livret A vs LDDS](/en/blog/livret-a-vs-ldds/), [glossary](/en/glossary/).
+
+## Sources
+
+For further reading on contracts and underlying arbitrage: [Meridien Finance, life insurance](https://meridien-finance.com/assurance-vie).
