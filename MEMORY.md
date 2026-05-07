@@ -5,6 +5,7 @@ Limite : 4 articles par semaine max.
 
 ## Semaine du 2026-05-04 au 2026-05-10
 
+- 2026-05-07 | Quelles plateformes pour investir en dette privee en France ? (FR+EN) | Private Equity | manuel
 - 2026-05-05 | Comment défiscaliser ses revenus en 2026 (FR+EN) | Fiscalite | auto
 
 ## Semaine du 2026-04-27 au 2026-05-03
