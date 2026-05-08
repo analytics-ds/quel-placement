@@ -105,10 +105,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-08"
+    published_url_fr: "https://quel-placement.com/blog/meilleure-assurance-vie-2026/"
+    published_url_en: "https://quel-placement.com/en/blog/best-life-insurance-2026/"
     error: null
 
   - kw: "comment ouvrir un compte bancaire en ligne"
