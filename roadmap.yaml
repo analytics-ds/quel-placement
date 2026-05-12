@@ -116,10 +116,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-08"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-12"
+    published_url_fr: "https://quel-placement.com/blog/ouvrir-compte-bancaire-en-ligne/"
+    published_url_en: "https://quel-placement.com/en/blog/open-bank-account-online/"
     error: null
 
   - kw: "taux credit immobilier 2026"

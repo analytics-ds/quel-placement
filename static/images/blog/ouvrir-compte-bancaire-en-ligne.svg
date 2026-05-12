@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E293B"/>
+      <stop offset="0.6" stop-color="#2D3A4F"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="100" r="180" fill="#8B5CF6" opacity="0.08"/>
+  <circle cx="150" cy="530" r="140" fill="#F59E0B" opacity="0.07"/>
+  <!-- Bank card illustration -->
+  <rect x="340" y="185" width="520" height="310" rx="20" fill="url(#card)" opacity="0.9"/>
+  <rect x="340" y="185" width="520" height="310" rx="20" fill="none" stroke="#A78BFA" stroke-width="2" opacity="0.4"/>
+  <!-- Card chip -->
+  <rect x="390" y="250" width="60" height="50" rx="8" fill="#F59E0B" opacity="0.9"/>
+  <!-- Card number dots -->
+  <circle cx="400" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="420" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="440" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="460" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="500" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="520" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="540" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="560" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="600" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="620" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="640" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="660" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="700" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="720" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="740" cy="355" r="6" fill="white" opacity="0.8"/>
+  <circle cx="760" cy="355" r="6" fill="white" opacity="0.8"/>
+  <!-- Cardholder name placeholder -->
+  <rect x="390" y="415" width="160" height="10" rx="5" fill="white" opacity="0.5"/>
+  <rect x="390" y="435" width="100" height="8" rx="4" fill="white" opacity="0.3"/>
+  <!-- WiFi/NFC icon -->
+  <path d="M790 250 Q810 240 830 250" stroke="white" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M785 263 Q810 248 835 263" stroke="white" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M780 276 Q810 256 840 276" stroke="white" stroke-width="3" fill="none" opacity="0.7"/>
+  <!-- Title text -->
+  <text x="600" y="560" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="white" opacity="0.9">Ouvrir un compte bancaire en ligne</text>
+  <text x="600" y="595" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#8B5CF6" opacity="0.9">quel-placement.fr</text>
+</svg>

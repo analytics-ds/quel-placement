@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-05-11 au 2026-05-17
+
+- 2026-05-12 | Ouvrir un compte bancaire en ligne : guide complet 2026 (FR+EN) | Compte bancaire | auto
+
 ## Semaine du 2026-05-04 au 2026-05-10
 
 - 2026-05-08 | Meilleure assurance vie 2026 : comparatif (FR+EN) | Assurance | auto
