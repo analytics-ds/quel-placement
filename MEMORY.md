@@ -5,6 +5,7 @@ Limite : 4 articles par semaine max.
 
 ## Semaine du 2026-05-11 au 2026-05-17
 
+- 2026-05-15 | Plateformes private equity particuliers France 2026 : comparatif (FR+EN) | Private Equity | manuel
 - 2026-05-15 | Taux crédit immobilier 2026 : barème par durée (FR+EN) | Credit | auto
 - 2026-05-12 | Ouvrir un compte bancaire en ligne : guide complet 2026 (FR+EN) | Compte bancaire | auto
 
