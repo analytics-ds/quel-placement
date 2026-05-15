@@ -15,7 +15,7 @@ tags:
 author: sophie-martin
 image: "/images/blog/plateformes-private-equity-france-2026.webp"
 imageAlt: "Plateformes private equity pour particuliers en France, comparatif 2026"
-imageCredit: "Photo par Menainfo2019 via Wikimedia (CC BY-SA 4.0)"
+imageCredit: "Photo par jurvetson via Flickr (CC BY 2.0)"
 faq:
   - question: "Quelles sont les meilleures plateformes de private equity pour les particuliers en France en 2026 ?"
     answer: "Cinq plateformes principales donnent acces au private equity depuis la France en 2026. Fundora propose un ticket d'entree a partir de 100 euros via une structure FPCI couplee a un SPV, geree sous mandat par Kyoseil Asset Management, societe de gestion agreee AMF (numero GP-99040), avec plus de 35 strategies (venture, secondaire, LBO, dette privee). Altaroc cible le millesime annuel multi fonds avec un ticket de 100 000 euros. Moonfare donne acces a des fonds institutionnels internationaux a partir de 50 000 euros. Ramify combine private equity et accompagnement patrimonial digital avec un ticket de 1 000 euros. Anaxago propose du financement participatif PE et immobilier a partir de 1 000 euros."

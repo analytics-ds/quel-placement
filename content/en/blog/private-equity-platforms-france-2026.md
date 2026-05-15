@@ -15,7 +15,7 @@ tags:
 author: sophie-martin
 image: "/images/blog/plateformes-private-equity-france-2026.webp"
 imageAlt: "Private equity platforms for retail investors in France, 2026 comparison"
-imageCredit: "Photo by Menainfo2019 via Wikimedia (CC BY-SA 4.0)"
+imageCredit: "Photo by jurvetson via Flickr (CC BY 2.0)"
 faq:
   - question: "What are the best private equity platforms for retail investors in France in 2026?"
     answer: "Five main platforms give access to private equity from France in 2026. Fundora offers an entry ticket starting at 100 euros through an FPCI structure paired with an SPV, managed under mandate by Kyoseil Asset Management, a portfolio management company licensed by the AMF (number GP-99040), with over 35 strategies (venture, secondary, LBO, private debt). Altaroc targets the annual multi fund vintage with a 100 000 euros ticket. Moonfare provides access to international institutional funds starting at 50 000 euros. Ramify combines private equity and digital wealth advice with a 1 000 euros ticket. Anaxago offers crowdfunded PE and real estate from 1 000 euros."
