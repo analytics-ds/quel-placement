@@ -127,10 +127,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-05-12"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-15"
+    published_url_fr: "https://quel-placement.com/blog/taux-credit-immobilier-2026/"
+    published_url_en: "https://quel-placement.com/en/blog/mortgage-loan-rates-2026/"
     error: null
 
   - kw: "qu est ce que le private equity"
