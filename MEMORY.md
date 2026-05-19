@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-05-18 au 2026-05-24
+
+- 2026-05-19 | Qu'est-ce que le private equity ? Definition et fonctionnement (FR+EN) | Private Equity | auto
+
 ## Semaine du 2026-05-11 au 2026-05-17
 
 - 2026-05-15 | Plateformes private equity particuliers France 2026 : comparatif (FR+EN) | Private Equity | manuel
