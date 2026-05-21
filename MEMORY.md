@@ -5,6 +5,7 @@ Limite : 4 articles par semaine max.
 
 ## Semaine du 2026-05-18 au 2026-05-24
 
+- 2026-05-21 | Meilleurs fonds de dette privee en France : classement 2026 (FR+EN, refresh + nouveau title/meta) | Private Equity | manuel
 - 2026-05-19 | Qu'est-ce que le private equity ? Definition et fonctionnement (FR+EN) | Private Equity | auto
 
 ## Semaine du 2026-05-11 au 2026-05-17

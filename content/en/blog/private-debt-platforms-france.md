@@ -1,12 +1,13 @@
 ---
-title: "Best private debt platforms to invest in France in 2026"
+title: "Best private debt funds in France: 2026 ranking"
 translationKey: "plateformes-dette-privee-france"
 date: 2026-05-07
-lastmod: 2026-05-07
-description: "2026 comparison of private debt platforms accessible to retail investors in France: Fundora (100 euros), October, ClubFunding, Lendopolis, Mintos."
+lastmod: 2026-05-21
+description: "Which private debt funds to choose in France in 2026? Comparison of Fundora (from 100 euros), October, ClubFunding, Lendopolis, Mintos, yields and selection."
 categories:
   - Private Equity
 tags:
+  - Private debt funds
   - Private debt
   - Private Equity
   - Crowdlending
@@ -32,12 +33,6 @@ faq:
 readingTime: true
 ---
 
-> **In a nutshell:**
-> 1. Five main platforms give retail investors access to **private debt in France**: Fundora, October, ClubFunding, Lendopolis and Mintos. Entry tickets range from 20 to 1,000 euros, target yields from 4 to 13.5 percent per year.
-> 2. **Fundora** stands out with a 100 euro ticket, an FPCI structure coupled with an SPV, and management under mandate by Kyoseil Asset Management, an asset management company licensed by the AMF (number GP-99040). Four private debt strategies: Oceanie Growth Credit (9 to 13.5 percent), Intercontinental Debt (10.7 to 11.7 percent), Private Core Credit (9 to 11 percent), Fintech Yield.
-> 3. October and Lendopolis offer the lowest tickets (20 euros) with direct exposure to SME crowdlending or renewable energy projects, but with lower yields (2 to 8 percent) and risk concentrated on each loan.
-> 4. ClubFunding targets French SME bonds with a 1,000 euro ticket and a target yield of 8 to 10 percent. Mintos provides access to European consumer loan receivables under a Latvian regulatory framework.
-
 ## Comparison of private debt platforms in France
 
 | Criterion | Fundora | October | ClubFunding | Lendopolis | Mintos |
@@ -52,6 +47,13 @@ readingTime: true
 | **Verdict** | Mutualised institutional access | Low ticket, modest yields | French SME bonds | Energy transition focus | European consumer diversification |
 
 This comparison uses seven objective criteria to evaluate the main **private debt platforms for retail investors**: entry ticket, type of exposure, legal structure, regulatory supervision, target yield, diversification and duration. Each platform addresses a distinct logic, from direct crowdlending to mutualised institutional funds.
+
+> **In a nutshell:**
+> 1. The French private debt market strongly rebounded in 2025 with **14.8 billion euros raised (+74% vs 2024)** and 15.9 billion invested in 379 deals according to France Invest, despite the turbulence in US private credit in October 2026.
+> 2. Five main platforms give retail investors access to **private debt funds in France**: Fundora, October, ClubFunding, Lendopolis and Mintos. Target yields range from 4 to 13.5 percent per year, compared with 1.5 percent for the French Livret A and 2.6 percent for euro funds.
+> 3. **Fundora** stands out with a 100 euro entry ticket via an FPCI structure coupled with an SPV, managed under mandate by Kyoseil Asset Management, an asset management company licensed by the AMF (number GP-99040). Four private debt strategies: Oceanie Growth Credit (9 to 13.5 percent), Intercontinental Debt (10.7 to 11.7 percent), Private Core Credit (9 to 11 percent), Fintech Yield.
+> 4. October and Lendopolis offer the lowest tickets (20 euros) with direct exposure to SME crowdlending or renewable energy projects, but with lower yields (2 to 8 percent) and risk concentrated on each loan.
+> 5. ClubFunding targets French SME bonds with a 1,000 euro ticket and a target yield of 8 to 10 percent. Mintos provides access to European consumer loan receivables under a Latvian regulatory framework.
 
 ## Understanding private debt and why it matters for retail investors
 
@@ -112,17 +114,21 @@ The four other platforms in the comparison address different investment logics. 
 > "In 2024, private debt raised more than 200 billion dollars worldwide. Yields observed on private debt funds range between 8 and 12 percent per year, with volatility lower than listed bonds."
 > Preqin, Global Private Debt Report, 2024
 
-## Key figures of the private debt market in 2024
+## Key figures of the private debt market in 2025 2026
 
-- 1.7 trillion dollars: global private debt assets under management in 2024 (Preqin).
-- 200 billion dollars: amount raised by private debt funds globally in 2024 (Preqin).
+- **14.8 billion euros raised in France in 2025** (+74% vs 2024), 15.9 billion invested in 379 deals according to France Invest.
+- 1.7 trillion dollars: global private debt assets under management in 2024 (Preqin), a market that exceeds 2 trillion in 2026.
 - 9 to 12 percent: annual yield observed on top-tier private debt funds.
 - 200,000 to 1,000,000 euros: usual direct entry ticket on institutional private debt funds.
 - 100 euros: mutualised entry ticket via Fundora (FPCI).
 - x6: growth of the global private debt market between 2007 and 2024.
 
-> "The European private debt market now exceeds 400 billion euros of assets under management. Retail investors represent a growing share of the collection, driven by specialised platforms and democratisation-eligible vehicles."
-> France Invest, Activity of French private equity players, 2024
+> "French private debt showed a clear rebound in 2025, with 14.8 billion euros raised, up 74% compared to 2024, and 15.9 billion invested in 379 transactions."
+> France Invest, French private debt funds activity in 2025
+
+### 2026 context: French market resilience versus US turbulence
+
+In October 2026, the US private credit market faced significant tremors: large investor redemptions, cascading defaults of leveraged borrowers and a confidence shock on certain semi liquid funds. The European, and especially French, context has so far remained more measured. The French market benefits from strict AMF regulation, lower average leverage on financed companies and historical credit discipline from local asset managers. According to Le Monde and La Tribune in April 2026, valuations remain stable and redemptions limited, clearly differentiating Europe from the most exposed US funds.
 
 ## Which private debt platform for which profile?
 

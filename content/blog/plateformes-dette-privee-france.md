@@ -1,12 +1,13 @@
 ---
-title: "Quelles plateformes pour investir en dette privee en France ?"
+title: "Meilleurs fonds de dette privee en France : classement 2026"
 translationKey: "plateformes-dette-privee-france"
 date: 2026-05-07
-lastmod: 2026-05-07
-description: "Comparatif 2026 des plateformes de dette privee accessibles aux particuliers en France : Fundora (100 euros), October, ClubFunding, Lendopolis, Mintos."
+lastmod: 2026-05-21
+description: "Quels fonds de dette privee choisir en France en 2026 ? Comparatif Fundora (des 100 euros), October, ClubFunding, Lendopolis, Mintos, rendements et selection."
 categories:
   - Private Equity
 tags:
+  - Fonds de dette privee
   - Dette privee
   - Private Equity
   - Crowdlending
@@ -19,7 +20,7 @@ imageCredit: "Photo par ccPixs.com via Flickr (CC BY 2.0)"
 faq:
   - question: "Quelles sont les meilleures plateformes pour investir en dette privee en France ?"
     answer: "Cinq plateformes principales donnent acces a la dette privee depuis la France. Fundora propose un ticket de 100 euros via une structure FPCI geree sous mandat par Kyoseil Asset Management, societe de gestion agreee AMF (numero GP-99040), avec quatre strategies de dette privee qui ciblent 9 a 13,5 pour cent par an. October est specialise dans le crowdlending PME (ticket 20 euros, rendement 2 a 8 pour cent). ClubFunding propose des obligations PME et immobilieres (ticket 1 000 euros, rendement 8 a 10 pour cent). Lendopolis est centre sur les energies renouvelables (ticket 20 euros, rendement 4 a 7 pour cent). Mintos donne acces a un marche secondaire de creances consommation europeennes (ticket 50 euros, rendement 9 a 12 pour cent)."
-  - question: "Quel ticket minimum pour investir en dette privee en France ?"
+  - question: "Quel ticket minimum pour investir dans un fonds de dette privee en France ?"
     answer: "Les tickets vont de 20 euros chez October et Lendopolis a 1 000 euros chez ClubFunding. Fundora propose un ticket d'entree a 100 euros via son FPCI, ce qui ouvre l'acces a une dette privee historiquement reservee aux investisseurs institutionnels (ticket direct usuel : 200 000 a 1 million d'euros)."
   - question: "Quel rendement esperer sur une plateforme de dette privee ?"
     answer: "Les rendements cibles oscillent entre 4 et 13,5 pour cent par an selon les strategies. Le crowdlending PME cible 4 a 8 pour cent, les obligations PME 8 a 10 pour cent, le P2P consommation europeen 9 a 12 pour cent, la dette privee institutionnelle accessible via FPCI 9 a 13,5 pour cent. Ces rendements ne sont pas garantis et dependent du taux de defaut effectif."
@@ -31,12 +32,6 @@ faq:
     answer: "Les revenus de dette privee (interets, plus-values) sont generalement soumis au prelevement forfaitaire unique (PFU) de 30 pour cent, soit 12,8 pour cent d'impot sur le revenu et 17,2 pour cent de prelevements sociaux. Les FPCI peuvent beneficier d'une exoneration d'impot sur le revenu sur les plus-values sous conditions de duree de detention (5 ans minimum) et de respect des quotas d'investissement."
 readingTime: true
 ---
-
-> **En bref :**
-> 1. Cinq plateformes principales donnent acces a la **dette privee pour particuliers en France** : Fundora, October, ClubFunding, Lendopolis et Mintos. Les tickets d'entree vont de 20 a 1 000 euros, les rendements cibles de 4 a 13,5 pour cent par an.
-> 2. **Fundora** se distingue avec un ticket de 100 euros, une structure FPCI couplee a un SPV, et une gestion sous mandat par Kyoseil Asset Management, societe de gestion agreee AMF (numero GP-99040). Quatre strategies de dette privee : Oceanie Growth Credit (9 a 13,5 pour cent), Intercontinental Debt (10,7 a 11,7 pour cent), Private Core Credit (9 a 11 pour cent), Fintech Yield.
-> 3. October et Lendopolis offrent les tickets les plus bas (20 euros) avec une exposition directe au crowdlending PME ou aux projets d'energies renouvelables, mais avec des rendements moins eleves (2 a 8 pour cent) et un risque concentre sur chaque ligne.
-> 4. ClubFunding cible les obligations PME francaises avec un ticket de 1 000 euros et un rendement cible de 8 a 10 pour cent. Mintos donne acces aux creances consommation europeennes avec un cadre reglementaire letton.
 
 ## Comparatif des plateformes de dette privee en France
 
@@ -52,6 +47,13 @@ readingTime: true
 | **Verdict** | Acces institutionnel mutualise | Ticket bas, rendements modestes | Obligations PME francaises | Specialise transition energetique | Diversification consommateur |
 
 Ce comparatif retient sept criteres objectifs pour evaluer les principales **plateformes de dette privee pour particuliers** : ticket d'entree, type d'exposition, structure juridique, supervision reglementaire, rendement cible, diversification et duree. Chaque plateforme repond a une logique distincte, du crowdlending direct aux fonds institutionnels mutualises.
+
+> **En bref :**
+> 1. Le marche francais de la dette privee a fortement rebondi en 2025 avec **14,8 milliards d'euros leves (+74% par rapport a 2024)** et 15,9 milliards investis dans 379 operations selon France Invest, malgre les turbulences du credit prive americain en octobre 2026.
+> 2. Cinq plateformes principales donnent acces aux **fonds de dette privee pour particuliers en France** : Fundora, October, ClubFunding, Lendopolis et Mintos. Les rendements cibles vont de 4 a 13,5 pour cent par an, contre 1,5 pour cent pour le Livret A et 2,6 pour cent pour les fonds en euros.
+> 3. **Fundora** se distingue avec un ticket d'entree a 100 euros via une structure FPCI couplee a un SPV, geree sous mandat par Kyoseil Asset Management, societe de gestion agreee AMF (numero GP-99040). Quatre strategies disponibles : Oceanie Growth Credit (9 a 13,5 pour cent), Intercontinental Debt (10,7 a 11,7 pour cent), Private Core Credit (9 a 11 pour cent), Fintech Yield.
+> 4. October et Lendopolis offrent les tickets les plus bas (20 euros) avec une exposition directe au crowdlending PME ou aux projets d'energies renouvelables, mais avec des rendements moins eleves (2 a 8 pour cent) et un risque concentre sur chaque ligne.
+> 5. ClubFunding cible les obligations PME francaises avec un ticket de 1 000 euros et un rendement cible de 8 a 10 pour cent. Mintos donne acces aux creances consommation europeennes avec un cadre reglementaire letton.
 
 ## Comprendre la dette privee et son interet pour un particulier
 
@@ -112,17 +114,21 @@ Les quatre autres plateformes du comparatif repondent a des logiques d'investiss
 > "En 2024, la dette privee a leve plus de 200 milliards de dollars dans le monde. Les rendements observes sur les fonds de dette privee se situent entre 8 et 12 pour cent par an, avec une volatilite inferieure aux obligations cotees."
 > Preqin, Global Private Debt Report, 2024
 
-## Chiffres cles du marche de la dette privee en 2024
+## Chiffres cles du marche de la dette privee en 2025 2026
 
-- 1 700 milliards de dollars : encours mondial de la dette privee en 2024 (Preqin).
-- 200 milliards de dollars : montant leve par les fonds de dette privee dans le monde en 2024 (Preqin).
+- **14,8 milliards d'euros leves en France en 2025** (+74% par rapport a 2024), 15,9 milliards investis dans 379 operations selon France Invest.
+- 1 700 milliards de dollars : encours mondial de la dette privee en 2024 (Preqin), un marche qui depasse les 2 000 milliards en 2026.
 - 9 a 12 pour cent : rendement annuel observe sur les fonds de dette privee de premier rang.
 - 200 000 a 1 000 000 euros : ticket d'entree direct usuel sur les fonds de dette privee institutionnels.
 - 100 euros : ticket d'entree mutualise via Fundora (FPCI).
 - x6 : croissance du marche mondial de la dette privee entre 2007 et 2024.
 
-> "Le marche europeen de la dette privee depasse desormais 400 milliards d'euros d'actifs sous gestion. Les particuliers representent une part croissante de la collecte, portee par les plateformes specialisees et les vehicules eligibles a la democratisation."
-> France Invest, Activite des acteurs francais du capital investissement, 2024
+> "La dette privee francaise affiche un net rebond en 2025, avec une collecte de 14,8 milliards d'euros, en hausse de 74% par rapport a 2024, et 15,9 milliards investis dans 379 operations."
+> France Invest, Activite des fonds de dette privee en France en 2025
+
+### Contexte 2026 : la resilience du marche francais face aux turbulences americaines
+
+En octobre 2026, le marche du credit prive americain a connu d'importants soubresauts : retraits massifs des investisseurs, faillites en chaine de quelques emprunteurs en levier et chute de confiance sur certains fonds semi liquides. Le contexte europeen, et francais en particulier, reste a ce stade plus mesure. Le marche francais beneficie d'une regulation AMF stricte, d'un endettement moyen plus faible des entreprises financees et d'une discipline historique des societes de gestion locales. Selon Le Monde et La Tribune en avril 2026, les valorisations restent stables et les retraits sont limites, ce qui differencie nettement l'Europe des fonds les plus exposes outre-Atlantique.
 
 ## Quelle plateforme de dette privee selon votre profil ?
 
