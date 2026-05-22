@@ -7,7 +7,7 @@
 
 {{ $authorData := dict }}
 {{ with .Params.author }}
-    {{ $authorData = index $.Site.Data.authors . }}
+    {{ $authorData = index hugo.Data.authors . }}
 {{ end }}
 
 <article class="single-article">
@@ -172,7 +172,7 @@
 
                 <!-- Derniers articles du blog -->
                 {{ $latestBlog := slice }}
-                {{ range where .Site.AllPages "Kind" "page" }}
+                {{ range where .Site.RegularPages "Kind" "page" }}
                   {{ $isEn := strings.Contains .RelPermalink "/en/" }}
                   {{ $isBlog := strings.Contains .RelPermalink "/blog/" }}
                   {{ $notCurrent := ne .RelPermalink $currentUrl }}

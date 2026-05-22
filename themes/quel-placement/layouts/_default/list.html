@@ -8,7 +8,7 @@
 {{ if eq .Kind "term" }}{{ $isBlogList = false }}{{ end }}
 {{ $sourcePages := .Pages }}
 {{ if $isBlogList }}
-  {{ $sourcePages = where .Site.AllPages "Kind" "page" }}
+  {{ $sourcePages = where .Site.RegularPages "Kind" "page" }}
 {{ end }}
 {{ range $sourcePages }}
   {{ $isEn := strings.Contains .RelPermalink "/en/" }}
@@ -59,7 +59,7 @@
                     <p>{{ .Description }}</p>
                     <div class="article-card-footer">
                         {{ $cardAuthor := dict }}
-                        {{ with .Params.author }}{{ $cardAuthor = index $.Site.Data.authors . }}{{ end }}
+                        {{ with .Params.author }}{{ $cardAuthor = index hugo.Data.authors . }}{{ end }}
                         {{ with $cardAuthor }}
                         <span class="article-card-author">
                             {{ with .avatar }}<img src="{{ . | relURL }}" alt="{{ $cardAuthor.name }}" width="28" height="28" loading="lazy">{{ end }}

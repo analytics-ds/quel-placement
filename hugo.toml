@@ -11,8 +11,8 @@ buildFuture = true
 
 [languages]
   [languages.fr]
-    languageCode = "fr-FR"
-    languageName = "Francais"
+    locale = "fr-FR"
+    label = "Francais"
     weight = 1
     contentDir = "content"
     title = "Quel Placement"
@@ -20,8 +20,8 @@ buildFuture = true
       description = "Le blog reference pour comprendre la finance, l'investissement et choisir les meilleurs placements."
 
   [languages.en]
-    languageCode = "en-US"
-    languageName = "English"
+    locale = "en-US"
+    label = "English"
     weight = 2
     contentDir = "content/en"
     title = "Quel Placement"

@@ -284,7 +284,7 @@
         <div class="grid-articles">
             {{ $latestLang := $lang }}
             {{ $latest := slice }}
-            {{ range where .Site.AllPages "Kind" "page" }}
+            {{ range where .Site.RegularPages "Kind" "page" }}
               {{ $isEn := strings.Contains .RelPermalink "/en/" }}
               {{ $isBlog := strings.Contains .RelPermalink "/blog/" }}
               {{ if and $isBlog (or (and (eq $latestLang "en") $isEn) (and (eq $latestLang "fr") (not $isEn))) }}{{ $latest = $latest | append . }}{{ end }}
@@ -309,7 +309,7 @@
                     <p>{{ .Description }}</p>
                     <div class="article-card-footer">
                         {{ $cardAuthor := dict }}
-                        {{ with .Params.author }}{{ $cardAuthor = index $.Site.Data.authors . }}{{ end }}
+                        {{ with .Params.author }}{{ $cardAuthor = index hugo.Data.authors . }}{{ end }}
                         {{ with $cardAuthor }}
                         <span class="article-card-author">
                             {{ with .avatar }}<img src="{{ . | relURL }}" alt="{{ $cardAuthor.name }}" width="28" height="28" loading="lazy">{{ end }}

@@ -24,7 +24,7 @@
         </nav>
 
         <!-- Language switcher -->
-        {{ if gt (len .Site.Languages) 1 }}
+        {{ if gt (len hugo.Sites) 1 }}
 {{- /* Build translations-by-lang map using URL prefix (reliable in multi-contentDir setups) */ -}}
 {{- $currentLang := .Lang | default "fr" -}}
 {{- $defaultLang := "fr" -}}
@@ -44,8 +44,8 @@
         <svg width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true"><path d="M2 3.5L5 6.5L8 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
     </button>
     <ul class="lang-switcher-menu" role="listbox">
-        {{ range .Site.Languages }}
-        {{ $targetLang := .Lang }}
+        {{ range hugo.Sites }}
+        {{ $targetLang := .Language.Lang }}
         {{ $flagData := index $flags $targetLang }}
         {{ $isCurrent := eq $targetLang $currentLang }}
         {{ $target := index $translationsByLang $targetLang }}
@@ -71,7 +71,7 @@
         {{ range .Site.Menus.main }}
         <a href="{{ .URL | relURL }}" class="nav-link-mobile">{{ .Name }}</a>
         {{ end }}
-        {{ if gt (len .Site.Languages) 1 }}
+        {{ if gt (len hugo.Sites) 1 }}
 {{- $cLM := .Lang | default "fr" -}}
 {{- $dL := "fr" -}}
 {{- $trByL := dict $cLM .RelPermalink -}}
@@ -82,8 +82,8 @@
 {{- end -}}
 {{- $flagsM := dict "fr" (dict "name" "Francais" "flag" "/images/flags/fr.svg") "en" (dict "name" "English" "flag" "/images/flags/en.svg") -}}
 <div class="lang-switcher-mobile">
-    {{ range .Site.Languages }}
-    {{ $tL := .Lang }}
+    {{ range hugo.Sites }}
+    {{ $tL := .Language.Lang }}
     {{ $fD := index $flagsM $tL }}
     {{ $iC := eq $tL $cLM }}
     {{ $t := index $trByL $tL }}
