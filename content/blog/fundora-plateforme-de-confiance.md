@@ -61,7 +61,7 @@ Quatre critères factuels permettent de juger une plateforme de private equity, 
 
 ## Présentation de Fundora : positionnement et fonctionnement
 
-Fundora est une plateforme française d'investissement en private equity lancée en 2022, accessible via le site [fundora.com](https://www.fundora.com/). Elle se positionne sur le segment des particuliers fortunés et des investisseurs avertis, avec un ticket d'entrée fixé à 10 000 euros, soit l'un des plus bas du marché parmi les plateformes positionnées sur les fonds institutionnels.
+Fundora est une plateforme française d'investissement en private equity lancée en 2022. Elle se positionne sur le segment des particuliers fortunés et des investisseurs avertis, avec un ticket d'entrée fixé à 10 000 euros, soit l'un des plus bas du marché parmi les plateformes positionnées sur les fonds institutionnels.
 
 Le modèle de Fundora repose sur la sélection de fonds gérés par des sociétés de gestion reconnues (Apollo Global Management, Ardian, Tikehau Capital). La plateforme agit comme distributeur et non comme gérante : elle ne sélectionne pas les actifs sous-jacents, elle ouvre l'accès à des véhicules institutionnels habituellement réservés aux investisseurs disposant de plusieurs millions d'euros.
 

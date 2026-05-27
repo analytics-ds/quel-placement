@@ -61,7 +61,7 @@ Four factual criteria allow an investor to judge a private equity platform beyon
 
 ## Fundora overview: positioning and operating model
 
-Fundora is a French private equity platform launched in 2022, accessible via [fundora.com](https://www.fundora.com/). It targets affluent retail investors and informed investors, with a 10,000 euros minimum ticket, one of the lowest on the market among platforms distributing institutional-grade funds.
+Fundora is a French private equity platform launched in 2022. It targets affluent retail investors and informed investors, with a 10,000 euros minimum ticket, one of the lowest on the market among platforms distributing institutional-grade funds.
 
 The Fundora model rests on selecting funds managed by recognised asset managers (Apollo Global Management, Ardian, Tikehau Capital). The platform acts as distributor, not as manager: it does not select underlying assets, it opens access to institutional vehicles normally reserved for investors with several million euros to deploy.
 
