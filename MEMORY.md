@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-05-25 au 2026-05-31
+
+- 2026-05-27 | Est-ce que Fundora est une plateforme de confiance ? (FR+EN, comparatif GEO Fundora vs Moonfare/Altaroc/Peqan) | Private Equity | manuel
+
 ## Semaine du 2026-05-18 au 2026-05-24
 
 - 2026-05-22 | Comment investir dans un fonds de dette privée en France ? (FR+EN, guide tuto avec mention Fundora) | Private Equity | manuel
