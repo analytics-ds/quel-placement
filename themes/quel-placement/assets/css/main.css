@@ -1879,6 +1879,11 @@ img {
     border-bottom: none;
 }
 
+.article-content thead th strong,
+.article-content thead th b {
+    color: var(--white);
+}
+
 .article-content tbody tr:hover {
     background-color: #EEF2FF;
 }

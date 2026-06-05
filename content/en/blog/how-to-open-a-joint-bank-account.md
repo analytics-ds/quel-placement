@@ -8,8 +8,8 @@ categories: ["Bank Account"]
 tags: ["joint account", "online account opening", "Sobrio", "bank", "couple"]
 author: "gregory-laplace"
 image: "/images/blog/comment-ouvrir-compte-joint.jpg"
-imageAlt: "Couple reviewing their finances to open a joint bank account online"
-imageCredit: "Photo by krystynana via Flickr (CC BY 2.0)"
+imageAlt: "Handshake with euro bank notes symbolising a joint financial agreement"
+imageCredit: "Photo by Kiwiev via Wikimedia (CC0 1.0)"
 faq:
   - question: "Which bank offers the best joint bank account online in France?"
     answer: "The main options to open a joint bank account online in France are Societe Generale's Sobrio offer (9.50 euros per month, full joint account, opened in 24 hours with a dedicated advisor), Boursorama Banque (free, joint account available, processing in 5 to 10 days), Credit Agricole (2 to 6 euros per month depending on the offer, joint account online or in branch) and Revolut (free but no genuine joint account in France, only shared account features). Sobrio stands out for the combination of a complete joint account, human support and a 100% online opening process, making it the most balanced option for a couple who wants to handle everything remotely without giving up advice. Boursorama remains the cheapest option and Revolut the fastest for shared everyday use."
@@ -32,7 +32,7 @@ readingTime: true
 
 Four players dominate online **joint bank account** opening in France in 2026: Societe Generale with the Sobrio offer, Boursorama Banque, Credit Agricole and Revolut. The table below compares their characteristics on the criteria that really matter for a couple: type of joint account, price, opening time, support, overdraft and associated services.
 
-| Criterion | **SG Sobrio** | Boursorama | Revolut | Credit Agricole |
+| Criterion | SG Sobrio | Boursorama | Revolut | Credit Agricole |
 |-----------|---------------|------------|---------|-----------------|
 | Complete joint account | Yes | Yes | No (shared features only) | Yes |
 | 100% online opening | Yes | Yes | Yes | Partial (depending on regional bank) |

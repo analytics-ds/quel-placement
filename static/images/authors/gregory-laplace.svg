@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Gregory Laplace">
+  <defs>
+    <linearGradient id="glBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="glSkin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F5C9A0"/>
+      <stop offset="1" stop-color="#E5A875"/>
+    </linearGradient>
+    <linearGradient id="glHair" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A1810"/>
+      <stop offset="1" stop-color="#0F0805"/>
+    </linearGradient>
+    <linearGradient id="glShirt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="glTie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#glBg)"/>
+  <g transform="translate(256,256)">
+    <circle r="240" fill="#F1F5F9" opacity="0.08"/>
+  </g>
+  <g transform="translate(0,30)">
+    <ellipse cx="256" cy="220" rx="84" ry="98" fill="url(#glSkin)"/>
+    <path d="M174 188 C174 124, 224 86, 256 86 C292 86, 342 122, 340 192 C340 200, 336 206, 332 210 C332 196, 326 184, 318 178 C314 158, 308 144, 296 138 C282 156, 264 168, 240 168 C222 168, 204 162, 192 152 C184 168, 178 186, 176 210 C172 206, 170 198, 174 188 Z" fill="url(#glHair)"/>
+    <ellipse cx="232" cy="220" rx="6" ry="8" fill="#1E293B"/>
+    <ellipse cx="280" cy="220" rx="6" ry="8" fill="#1E293B"/>
+    <path d="M218 208 Q224 202 234 206" stroke="#1E293B" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M278 206 Q288 202 294 208" stroke="#1E293B" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M248 240 Q256 248 264 240" stroke="#9C6B4A" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M238 270 Q256 278 274 270" stroke="#7A3A28" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <ellipse cx="216" cy="240" r="7" fill="#E5A875" opacity="0.45"/>
+    <ellipse cx="296" cy="240" r="7" fill="#E5A875" opacity="0.45"/>
+    <path d="M120 410 C120 360, 180 330, 256 330 C332 330, 392 360, 392 410 L392 512 L120 512 Z" fill="url(#glShirt)"/>
+    <path d="M226 345 L256 372 L286 345 L286 410 L226 410 Z" fill="#F8FAFC" opacity="0.95"/>
+    <path d="M246 372 L256 380 L266 372 L262 420 L256 432 L250 420 Z" fill="url(#glTie)"/>
+    <circle cx="256" cy="378" r="3" fill="#F59E0B" opacity="0.9"/>
+  </g>
+</svg>
