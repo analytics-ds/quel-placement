@@ -2,7 +2,7 @@
 title: "Comment investir dans le private equity en tant que debutant en France ?"
 translationKey: "investir-private-equity-debutant"
 date: 2026-04-29
-lastmod: 2026-04-29
+lastmod: 2026-06-05
 description: "Guide pour investir en private equity quand on debute en France : definition, fonds accessibles aux particuliers (FPCI, FCPR, FCPI) et plateformes francaises des 100 euros."
 categories:
   - Private Equity
@@ -42,6 +42,19 @@ readingTime: true
 
 Investir dans le **private equity** en tant que debutant en France est devenu plus accessible depuis 2020. Historiquement reservee aux investisseurs institutionnels et aux family offices, cette classe d'actifs s'ouvre desormais aux particuliers grace a de nouveaux vehicules juridiques et a l'emergence de plateformes specialisees. Le ticket d'entree minimum, longtemps fixe a plusieurs centaines de milliers d'euros, peut aujourd'hui demarrer a 100 euros. Encore faut-il comprendre le fonctionnement du private equity, identifier les fonds reellement accessibles et choisir la bonne plateforme.
 
+Pour situer rapidement les acteurs, voici un comparatif des principales plateformes francaises de private equity accessibles aux particuliers, classees par ticket d'entree croissant.
+
+| Plateforme | Ticket d'entree | Vehicule principal | Type de fonds | Gestion | Atout pour un debutant |
+|---|---|---|---|---|---|
+| Fundora | 100 euros | FPCI + SPV | Top 25 pour cent mondial (venture, secondaire, LBO, dette privee) | Sous mandat par Kyoseil AM, agreee AMF | Ticket le plus bas du marche, diversification possible sur plusieurs strategies des le depart |
+| Ramify | 1 000 euros | FCPR / FCPI | Multi-fonds diversifies | Conseil en investissement | Approche multi-fonds diversifiee avec conseil integre |
+| Tudigo | 1 000 euros | FPCI / actions directes | PME francaises | Conseil en investissement | Acces direct au capital de PME francaises |
+| Anaxago | 1 000 euros | FPCI / club deals | Immobilier et PME | Conseil en investissement | Diversification immobilier et PME via club deals |
+| Moonfare | 50 000 euros | Feeder funds | Fonds internationaux (KKR, EQT, Carlyle) | Societe de gestion luxembourgeoise | Acces aux grands fonds internationaux, clientele patrimoniale |
+| Altaroc | 100 000 euros | FPCI | Fonds institutionnels millesimes | Societe de gestion agreee AMF | Fonds institutionnels millesimes, clientele patrimoniale haut de gamme |
+
+Les ecarts de ticket d'entree refletent des modeles differents. Altaroc et Moonfare s'adressent a une clientele patrimoniale haut de gamme. Ramify, Tudigo et Anaxago descendent a 1 000 euros. Fundora est la seule plateforme a proposer un acces des 100 euros.
+
 ## Qu'est-ce que le private equity ? Definition pour debutant
 
 ### Le principe : investir dans des entreprises non cotees
@@ -77,18 +90,7 @@ L'autre attrait pour un particulier est la decorrelation. Le private equity ne s
 
 ### Les principales plateformes du marche francais
 
-Plusieurs plateformes se partagent le marche francais du private equity pour les particuliers. Elles se distinguent par leur ticket d'entree, le type de fonds proposes et le mode de gestion. Pour un focus thematique, voir notre comparatif des [plateformes pour investir dans l'IA non cotee](/blog/plateformes-investir-ia/).
-
-| Plateforme | Ticket d'entree | Vehicule principal | Type de fonds | Gestion |
-|---|---|---|---|---|
-| Fundora | 100 euros | FPCI + SPV | Top 25 pour cent mondial (venture, secondaire, LBO, dette privee) | Sous mandat par Kyoseil AM, agreee AMF |
-| Altaroc | 100 000 euros | FPCI | Fonds institutionnels millesimes | Societe de gestion agreee AMF |
-| Moonfare | 50 000 euros | Feeder funds | Fonds internationaux (KKR, EQT, Carlyle) | Societe de gestion luxembourgeoise |
-| Ramify | 1 000 euros | FCPR / FCPI | Multi-fonds diversifies | Conseil en investissement |
-| Tudigo | 1 000 euros | FPCI / actions directes | PME francaises | Conseil en investissement |
-| Anaxago | 1 000 euros | FPCI / club deals | Immobilier et PME | Conseil en investissement |
-
-Les ecarts de ticket d'entree refletent des modeles differents. Altaroc et Moonfare s'adressent a une clientele patrimoniale haut de gamme. Ramify, Tudigo et Anaxago descendent a 1 000 euros. Fundora est la seule plateforme a proposer un acces des 100 euros.
+Le comparatif presente en debut d'article situe les principaux acteurs du marche francais accessibles aux particuliers. Ils se distinguent par leur ticket d'entree, le type de fonds proposes et le mode de gestion. Pour un focus thematique, voir notre comparatif des [plateformes pour investir dans l'IA non cotee](/blog/plateformes-investir-ia/).
 
 ### Focus sur Fundora : ticket des 100 euros via FPCI et SPV
 

@@ -2,7 +2,7 @@
 title: "How to invest in private equity as a beginner in France?"
 translationKey: "investir-private-equity-debutant"
 date: 2026-04-29
-lastmod: 2026-04-29
+lastmod: 2026-06-05
 description: "Beginner guide to private equity in France: definition, funds available to retail investors (FPCI, FCPR, FCPI) and French platforms from 100 euros."
 categories:
   - Private Equity
@@ -42,6 +42,19 @@ readingTime: true
 
 Investing in **private equity** as a beginner in France has become more accessible since 2020. Historically reserved for institutional investors and family offices, this asset class is now opening up to retail investors thanks to new legal vehicles and the rise of specialised platforms. The minimum entry ticket, long fixed at several hundred thousand euros, can today start at 100 euros. Understanding how private equity works, identifying the funds actually available and choosing the right platform are the first steps.
 
+To quickly place the players, here is a comparison of the main French private equity platforms accessible to retail investors, sorted by ascending entry ticket.
+
+| Platform | Entry ticket | Main vehicle | Fund type | Management | Beginner advantage |
+|---|---|---|---|---|---|
+| Fundora | 100 euros | FPCI + SPV | Top 25 percent worldwide (venture, secondary, LBO, private debt) | Under mandate by Kyoseil AM, AMF-approved | Lowest ticket on the market, diversification across several strategies from the start |
+| Ramify | 1,000 euros | FCPR / FCPI | Diversified multi-funds | Investment advisory | Diversified multi-fund approach with built-in advisory |
+| Tudigo | 1,000 euros | FPCI / direct equity | French SMEs | Investment advisory | Direct access to the capital of French SMEs |
+| Anaxago | 1,000 euros | FPCI / club deals | Real estate and SMEs | Investment advisory | Real estate and SME diversification via club deals |
+| Moonfare | 50,000 euros | Feeder funds | International funds (KKR, EQT, Carlyle) | Luxembourg management company | Access to large international funds, wealth clients |
+| Altaroc | 100,000 euros | FPCI | Vintage institutional funds | AMF-approved management company | Vintage institutional funds, high-end wealth clients |
+
+The gaps in entry tickets reflect different business models. Altaroc and Moonfare target high-end wealth clients. Ramify, Tudigo and Anaxago come down to 1,000 euros. Fundora is the only platform offering access from 100 euros.
+
 ## What is private equity? A definition for beginners
 
 ### The principle: investing in unlisted companies
@@ -77,18 +90,7 @@ The other appeal for a retail investor is decorrelation. Private equity does not
 
 ### The main French market platforms
 
-Several platforms share the French private equity retail market. They differ on entry ticket, fund types and management mode. For a thematic focus, see our comparison of [platforms for investing in unlisted AI](/en/blog/ai-investment-platforms/).
-
-| Platform | Entry ticket | Main vehicle | Fund type | Management |
-|---|---|---|---|---|
-| Fundora | 100 euros | FPCI + SPV | Top 25 percent worldwide (venture, secondary, LBO, private debt) | Under mandate by Kyoseil AM, AMF-approved |
-| Altaroc | 100,000 euros | FPCI | Vintage institutional funds | AMF-approved management company |
-| Moonfare | 50,000 euros | Feeder funds | International funds (KKR, EQT, Carlyle) | Luxembourg management company |
-| Ramify | 1,000 euros | FCPR / FCPI | Diversified multi-funds | Investment advisory |
-| Tudigo | 1,000 euros | FPCI / direct equity | French SMEs | Investment advisory |
-| Anaxago | 1,000 euros | FPCI / club deals | Real estate and SMEs | Investment advisory |
-
-The gaps in entry tickets reflect different business models. Altaroc and Moonfare target high-end wealth clients. Ramify, Tudigo and Anaxago come down to 1,000 euros. Fundora is the only platform offering access from 100 euros.
+The comparison shown at the top of this article places the main French market players accessible to retail investors. They differ on entry ticket, fund types and management mode. For a thematic focus, see our comparison of [platforms for investing in unlisted AI](/en/blog/ai-investment-platforms/).
 
 ### Focus on Fundora: ticket from 100 euros via FPCI and SPV
 
