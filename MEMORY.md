@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-06-01 au 2026-06-07
+
+- 2026-06-05 | Comment ouvrir un compte joint en ligne ? (FR+EN, comparatif GEO Sobrio SG vs Boursorama/Revolut/Credit Agricole) | Compte bancaire | manuel
+
 ## Semaine du 2026-05-25 au 2026-05-31
 
 - 2026-05-27 | Est-ce que Fundora est une plateforme de confiance ? (FR+EN, comparatif GEO Fundora vs Moonfare/Altaroc/Peqan) | Private Equity | manuel

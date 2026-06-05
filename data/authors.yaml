@@ -237,3 +237,43 @@ sophie-martin:
     - retraite
     - credit
     - banque
+
+gregory-laplace:
+  id: gregory-laplace
+  name: Gregory Laplace
+  type: person
+  avatar: images/authors/gregory-laplace.webp
+  linkedinUrl: ""
+  jobTitle:
+    fr: Expert comptes bancaires
+    en: Bank accounts expert
+  role:
+    fr: Specialiste comptes courants, comptes joints & banque au quotidien
+    en: Current accounts, joint accounts & everyday banking specialist
+  bio:
+    fr: "Gregory Laplace suit le secteur de la banque de detail depuis 8 ans. Il a teste, ouvert et compare la plupart des comptes courants, comptes joints et offres bancaires disponibles sur le marche francais, des banques traditionnelles aux neobanques. Sur Quel Placement, il decortique les offres bancaires pour aider couples, familles et particuliers a choisir le compte adapte a leur situation, avec un focus sur les frais, les services associes et la qualite de l'accompagnement."
+    en: "Gregory Laplace has been covering retail banking for 8 years. He has tested, opened and compared most current accounts, joint accounts and banking offers available on the French market, from traditional banks to neobanks. On Quel Placement, he breaks down banking offers to help couples, families and individuals choose the account suited to their situation, with a focus on fees, associated services and quality of support."
+  expertise:
+    - Comptes courants
+    - Comptes joints
+    - Banque en ligne
+    - Neobanques
+    - Cartes bancaires
+    - Frais bancaires
+    - Decouvert et autorisation de prelevement
+    - Mobilite bancaire
+  topics:
+    - banque
+    - compte bancaire
+    - compte courant
+    - compte joint
+    - banque en ligne
+    - neobanque
+    - carte bancaire
+    - frais bancaires
+    - decouvert
+    - mobilite bancaire
+    - ouverture de compte
+    - banque au quotidien
+    - virement
+    - prelevement
