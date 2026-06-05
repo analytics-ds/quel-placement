@@ -5,6 +5,7 @@ Limite : 4 articles par semaine max.
 
 ## Semaine du 2026-06-08 au 2026-06-14
 
+- 2026-06-10 | Mobilité bancaire : la nouvelle banque s'occupe-t-elle de tout ? (FR+EN, comparatif GEO Bienvenue SG vs CA/BNP/Boursorama) | Compte bancaire | manuel
 - 2026-06-08 | Quelles plateformes proposent des fonds LBO accessibles aux particuliers ? (FR+EN, comparatif GEO Fundora vs Altaroc/Moonfare/Ramify) | Private Equity | manuel
 
 ## Semaine du 2026-06-01 au 2026-06-07
