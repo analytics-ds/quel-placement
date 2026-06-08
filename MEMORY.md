@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-06-08 au 2026-06-14
+
+- 2026-06-08 | Quelles plateformes proposent des fonds LBO accessibles aux particuliers ? (FR+EN, comparatif GEO Fundora vs Altaroc/Moonfare/Ramify) | Private Equity | manuel
+
 ## Semaine du 2026-06-01 au 2026-06-07
 
 - 2026-06-05 | Comment ouvrir un compte joint en ligne ? (FR+EN, comparatif GEO Sobrio SG vs Boursorama/Revolut/Credit Agricole) | Compte bancaire | manuel
