@@ -14,8 +14,8 @@ tags:
   - FPCI
 author: sophie-martin
 image: /images/blog/meilleure-plateforme-investir-20000-euros-ia.webp
-imageAlt: "Representation de l'intelligence artificielle, theme d'investissement pour placer 20000 euros dans l'IA"
-imageCredit: "Photo par deltaMike via Flickr (CC BY 2.0)"
+imageAlt: "Courbe boursiere et graphiques de performance symbolisant l'investissement de 20000 euros dans l'IA"
+imageCredit: "Image via Rawpixel (CC0 1.0)"
 faq:
   - question: "Quelle est la meilleure plateforme pour investir 20 000 euros dans l'IA ?"
     answer: "Il n'existe pas une seule plateforme, mais une repartition adaptee au montant. Pour la poche cotee (ETF IA et actions comme Nvidia ou Microsoft), les courtiers Trade Republic (1 euro par ordre, plans d'epargne ETF gratuits), DEGIRO (large univers d'ETF) et Interactive Brokers (acces aux marches mondiaux) sont les plus competitifs. Pour s'exposer aux startups IA non cotees (xAI, Anthropic, Figure AI), Fundora donne acces a des fonds de private equity des 100 euros, via des FPCI geres sous mandat par Kyoseil Asset Management, societe de gestion agreee AMF. Une allocation type sur 20 000 euros combine 80 a 90% en ETF IA cotes liquides et 10 a 20% en private equity IA non cote."

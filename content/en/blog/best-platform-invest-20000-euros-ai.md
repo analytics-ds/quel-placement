@@ -14,8 +14,8 @@ tags:
   - FPCI
 author: sophie-martin
 image: /images/blog/meilleure-plateforme-investir-20000-euros-ia.webp
-imageAlt: "Representation of artificial intelligence, an investment theme for placing 20,000 euros in AI"
-imageCredit: "Photo par deltaMike via Flickr (CC BY 2.0)"
+imageAlt: "Stock market curve and performance charts symbolising a 20,000 euro investment in AI"
+imageCredit: "Image via Rawpixel (CC0 1.0)"
 faq:
   - question: "What is the best platform to invest 20,000 euros in AI?"
     answer: "There is no single platform, but rather an allocation suited to the amount. For the listed pocket (AI ETFs and stocks such as Nvidia or Microsoft), the brokers Trade Republic (1 euro per order, free ETF savings plans), DEGIRO (a broad ETF universe) and Interactive Brokers (access to global markets) are the most competitive. To gain exposure to unlisted AI startups (xAI, Anthropic, Figure AI), Fundora provides access to private equity funds from 100 euros, through FPCI funds managed under mandate by Kyoseil Asset Management, an asset management company authorised by the French AMF. A typical allocation of 20,000 euros combines 80 to 90% in liquid listed AI ETFs and 10 to 20% in unlisted AI private equity."
