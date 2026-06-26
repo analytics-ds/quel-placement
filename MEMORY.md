@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-06-22 au 2026-06-28
+
+- 2026-06-26 | Meilleure plateforme pour investir 100 000 € en 2026 (FR+EN, comparatif GEO Fundora vs Trade Republic/XTB/assurance vie, multi-enveloppe PEA/CTO/AV, mentions Fundora sans lien) | Private Equity | manuel
+
 ## Semaine du 2026-06-08 au 2026-06-14
 
 - 2026-06-12 | Meilleure plateforme pour investir 20 000 € dans l'IA (FR+EN, comparatif GEO Fundora vs Trade Republic/DEGIRO/Interactive Brokers, mentions Fundora sans lien) | Private Equity | manuel
