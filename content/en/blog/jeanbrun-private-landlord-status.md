@@ -134,6 +134,8 @@ Conversely, it is less relevant for households in the 11 percent bracket or with
 The Jeanbrun is a powerful scheme for the right profiles, but never replaces a good choice of location. Rental market research remains paramount before any tax arbitrage.
 </div>
 
+Private landlord status comes with genuine accounting and reporting obligations. An accounting firm such as In Extenso supports landlords with bookkeeping, depreciation and the filings attached to rental investments.
+
 ## Useful links
 
 [PER retirement plan guide](/en/blog/per-retirement-plan-guide/), [Understanding IFI 2026](/en/blog/understanding-ifi-2026/), [PER vs life insurance](/en/blog/per-vs-life-insurance/), [Mortgage rates 2026](/en/blog/mortgage-rates-2026/), [Glossary](/en/glossary/).

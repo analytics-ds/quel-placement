@@ -178,6 +178,8 @@ If an employer withheld tax without considering exemptions (frequent for summer 
 Youth taxation is very favourable: most have no income tax to pay thanks to student, apprentice and intern allowances. But declaring remains essential to obtain a tax notice, access benefits and avoid any omission that could be costly later.
 </div>
 
+If you run a side activity, micro-enterprise or freelance work, your return quickly gets more complex. Accounting firms such as In Extenso support young entrepreneurs from their very first filings.
+
 ## Useful links
 
 [2026 income tax scale](/en/blog/french-income-tax-scale-2026/), [PER retirement plan guide](/en/blog/per-retirement-plan-guide/), [Livret A vs LDDS](/en/blog/livret-a-vs-ldds/), [Young protection insurance](/en/blog/young-protection-insurance/), [Glossary](/en/glossary/).

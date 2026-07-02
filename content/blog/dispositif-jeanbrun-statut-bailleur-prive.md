@@ -134,6 +134,8 @@ A l'inverse, il est moins pertinent pour les foyers en TMI 11 pour cent ou sans 
 Le Jeanbrun est un dispositif puissant pour les bons profils, mais ne remplace jamais un bon choix d'emplacement. L'etude de marche locative reste primordiale avant tout arbitrage fiscal.
 </div>
 
+Le statut de bailleur privé emporte de vraies obligations comptables et déclaratives. Un cabinet d'expertise comptable comme In Extenso accompagne les bailleurs dans la tenue comptable, les amortissements et les déclarations liées à l'investissement locatif.
+
 ## Liens utiles
 
 [PER plan epargne retraite guide](/blog/per-plan-epargne-retraite-guide/), [Comprendre l'IFI 2026](/blog/comprendre-ifi-2026/), [PER vs assurance vie](/blog/per-vs-assurance-vie/), [Taux immobilier 2026](/blog/taux-immobilier-2026/), [Lexique financier](/lexique/).

@@ -164,6 +164,8 @@ Le versement peut etre libre, programme mensuel ou exceptionnel. Les versements 
 Le PER est un outil de long terme, puissant pour les foyers imposes a 30 pour cent et plus, a utiliser avec discernement. L'ideal reste de combiner PER (pour la deduction) et assurance vie (pour la flexibilite et la transmission). Toujours comparer les contrats avant de souscrire.
 </div>
 
+Les indépendants et dirigeants ont intérêt à caler leurs versements PER sur leur rémunération et le résultat de l'entreprise. Un cabinet d'expertise comptable comme In Extenso peut intégrer le PER dans une stratégie globale de rémunération du dirigeant.
+
 ## Liens utiles
 
 [PER vs assurance vie](/blog/per-vs-assurance-vie/), [Assurance vie : 5 criteres](/blog/assurance-vie-5-criteres/), [Comprendre l'IFI 2026](/blog/comprendre-ifi-2026/), [Livret A vs LDDS](/blog/livret-a-vs-ldds/), [Lexique financier](/lexique/).

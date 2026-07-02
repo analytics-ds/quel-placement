@@ -133,6 +133,8 @@ To explore these schemes, see our articles on [PER retirement plan guide](/en/bl
 The 0.9 percent revaluation is a modest technical adjustment. For a real tax gain, action must be taken on tax relief schemes (PER, FCPR, donations, Jeanbrun scheme). An annual wealth audit remains the best fiscal hygiene.
 </div>
 
+For complex situations, mixed income, company directors or freelancers, personalised tax support makes a real difference. Accounting firms such as In Extenso advise entrepreneurs on their personal as well as business taxation.
+
 ## Useful links
 
 [PER retirement plan guide](/en/blog/per-retirement-plan-guide/), [Understanding IFI 2026](/en/blog/understanding-ifi-2026/), [Jeanbrun scheme](/en/blog/jeanbrun-private-landlord-status/), [FIP and FCPI](/en/blog/fip-fcpi-tax-reductions-2026/), [Glossary](/en/glossary/).

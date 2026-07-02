@@ -133,6 +133,8 @@ Pour approfondir ces dispositifs, consulter nos articles sur le [PER plan epargn
 La revalorisation de 0,9 pour cent est un ajustement technique modeste. Pour un vrai gain fiscal, c'est sur les dispositifs de defiscalisation (PER, FCPR, dons, dispositif Jeanbrun) qu'il faut agir. Un audit patrimonial annuel reste la meilleure hygiene fiscale.
 </div>
 
+Pour les situations complexes, revenus mixtes, dirigeants d'entreprise ou indépendants, un accompagnement fiscal personnalisé change la donne. Des cabinets d'expertise comptable comme In Extenso conseillent les entrepreneurs sur leur fiscalité personnelle autant que professionnelle.
+
 ## Liens utiles
 
 [PER plan epargne retraite guide](/blog/per-plan-epargne-retraite-guide/), [Comprendre l'IFI 2026](/blog/comprendre-ifi-2026/), [Dispositif Jeanbrun](/blog/dispositif-jeanbrun-statut-bailleur-prive/), [FIP et FCPI](/blog/fip-fcpi-reductions-2026/), [Lexique financier](/lexique/).

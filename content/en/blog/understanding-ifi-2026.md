@@ -71,6 +71,8 @@ Several levers allow the IFI to be reduced:
 The IFI is declared at the same time as income tax. The valuation of assets on January 1st binds the taxpayer, underestimation can trigger a reassessment. For optimisation, see our articles on the [PER](/en/blog/per-vs-life-insurance/) and [FCPR](/en/blog/fcpr-investing-unlisted/) which fall outside the scope of IFI.
 </div>
 
+Property valuation and deductible liabilities account for most errors and reassessments. Wealth advisory support, as offered by firms such as In Extenso, secures the declaration of larger property portfolios.
+
 ## Useful links
 
 To understand other tax planning mechanisms, browse our [glossary](/en/glossary/). For more on wealth optimisation, see our article on [life insurance](/en/blog/life-insurance-5-criteria/) and our analyses on [FIP and FCPI](/en/blog/fip-fcpi-tax-reductions-2026/).

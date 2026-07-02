@@ -178,6 +178,8 @@ Si un employeur a prelevé a la source sans prendre en compte les exonerations (
 La fiscalite des jeunes est tres favorable : la plupart n'ont pas d'IR a payer grace aux abattements etudiant, apprenti et stagiaire. Mais declarer reste indispensable pour obtenir un avis d'imposition, acceder aux aides et eviter tout oubli qui pourrait couter plus tard.
 </div>
 
+Si vous lancez une activité en parallèle, micro-entreprise ou freelance, votre déclaration se complique vite. Les cabinets d'expertise comptable comme In Extenso accompagnent les jeunes entrepreneurs dès leurs premières déclarations.
+
 ## Liens utiles
 
 [Bareme impot 2026](/blog/bareme-impot-revenu-2026/), [PER plan epargne retraite guide](/blog/per-plan-epargne-retraite-guide/), [Livret A vs LDDS](/blog/livret-a-vs-ldds/), [Prevoyance pour jeune](/blog/prevoyance-jeune/), [Lexique financier](/lexique/).

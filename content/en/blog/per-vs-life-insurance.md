@@ -70,6 +70,8 @@ Many portfolios combine both wrappers. The PER captures the immediate tax reduct
 The PER defers tax rather than eliminating it. The real gain depends on the gap between your rate during working life and at retirement. For transmission, life insurance retains a structural advantage.
 </div>
 
+For the director of a small company, the choice between a PER and life insurance also depends on remuneration and corporate taxation. This is exactly the kind of question a firm such as In Extenso handles in its wealth advisory for entrepreneurs.
+
 ## Useful links
 
 See also: [IFI 2026](/en/blog/understanding-ifi-2026/), [Livret A vs LDDS](/en/blog/livret-a-vs-ldds/), [glossary](/en/glossary/).

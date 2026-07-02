@@ -102,6 +102,8 @@ La date de reference est le 1er janvier. La declaration se fait avec l'impot sur
 
 L'ISF, supprime en 2017, taxait l'ensemble du patrimoine. L'IFI ne concerne que l'immobilier. Un patrimoine de 2 M€ compose de 800 k€ d'immobilier et 1,2 M€ d'actions n'est plus taxe.
 
+L'évaluation des biens et le passif déductible concentrent l'essentiel des erreurs et des redressements. Un accompagnement patrimonial, comme celui que proposent des cabinets tels qu'In Extenso, sécurise la déclaration des patrimoines immobiliers importants.
+
 ## Liens utiles
 
 Pour comprendre les autres dispositifs de défiscalisation, consultez notre [lexique financier](/lexique/). Pour aller plus loin sur l'optimisation patrimoniale, voir notre article sur [l'assurance vie](/blog/assurance-vie-5-criteres/) et nos analyses dedies aux [FIP et FCPI](/blog/fip-fcpi-reductions-2026/).

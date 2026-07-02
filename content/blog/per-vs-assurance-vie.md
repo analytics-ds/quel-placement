@@ -70,6 +70,8 @@ Beaucoup de patrimoines combinent les deux enveloppes. Le PER capte la réductio
 Le PER repousse l'impôt plutôt que de le supprimer. Le vrai gain depend de l'écart entre votre TMI pendant la vie active et a la retraite. Pour la transmission, l'assurance vie garde un avantage structurel.
 </div>
 
+Pour un dirigeant de TPE ou PME, l'arbitrage entre PER et assurance vie se raisonne aussi avec la rémunération et la fiscalité de l'entreprise. C'est typiquement le genre de sujet qu'un cabinet comme In Extenso traite dans son conseil patrimonial aux entrepreneurs.
+
 ## Liens utiles
 
 Voir aussi : [IFI 2026](/blog/comprendre-ifi-2026/), [Livret A vs LDDS](/blog/livret-a-vs-ldds/), [lexique financier](/lexique/).

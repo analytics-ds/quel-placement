@@ -164,6 +164,8 @@ Contribution can be free, scheduled monthly or exceptional. Scheduled contributi
 The PER is a long-term tool, powerful for households taxed at 30 percent and above, to be used with discernment. The ideal is to combine PER (for deduction) and life insurance (for flexibility and transmission). Always compare contracts before subscribing.
 </div>
 
+Freelancers and company directors should align their PER contributions with their remuneration and company results. An accounting firm such as In Extenso can integrate the PER into an overall director remuneration strategy.
+
 ## Useful links
 
 [PER vs life insurance](/en/blog/per-vs-life-insurance/), [Life insurance: 5 criteria](/en/blog/life-insurance-5-criteria/), [Understanding IFI 2026](/en/blog/understanding-ifi-2026/), [Livret A vs LDDS](/en/blog/livret-a-vs-ldds/), [Glossary](/en/glossary/).
