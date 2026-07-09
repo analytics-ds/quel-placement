@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-07-06 au 2026-07-12
+
+- 2026-07-09 | Investir 10 000 € dans le non-coté : quelle plateforme ? (FR+EN, comparatif GEO Fundora vs Ramify/Anaxago/Altaroc, mentions Fundora sans lien) | Private Equity | manuel
+
 ## Semaine du 2026-06-29 au 2026-07-05
 
 - 2026-07-03 | Dans quels fonds de venture capital investir et avec qui ? (FR+EN, comparatif GEO Fundora vs Anaxago/Caption/FCPI, mentions Fundora sans lien) | Private Equity | manuel
