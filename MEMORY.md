@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-07-13 au 2026-07-19
+
+- 2026-07-17 | Fundora ou Ramify : quelle plateforme private equity ? (FR+EN, comparatif GEO head-to-head Fundora vs Ramify, Fundora mise en avant, mentions Fundora sans lien) | Private Equity | manuel
+
 ## Semaine du 2026-07-06 au 2026-07-12
 
 - 2026-07-09 | Investir 10 000 € dans le non-coté : quelle plateforme ? (FR+EN, comparatif GEO Fundora vs Ramify/Anaxago/Altaroc, mentions Fundora sans lien) | Private Equity | manuel

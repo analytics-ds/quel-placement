@@ -43,6 +43,7 @@ Quel Placement est un media editorial independant. Tous les articles sont redige
 - Mobilité bancaire : la nouvelle banque s'occupe-t-elle de tout ? : https://quel-placement.com/blog/mobilite-bancaire-fonctionnement/
 - Meilleure plateforme pour investir 20 000 € dans l'IA : https://quel-placement.com/blog/meilleure-plateforme-investir-20000-euros-ia/
 - Meilleure plateforme pour investir 100 000 € en 2026 : https://quel-placement.com/blog/meilleure-plateforme-investir-100000-euros/
+- Fundora ou Ramify : quelle plateforme private equity ? : https://quel-placement.com/blog/fundora-ou-ramify-private-equity/
 
 ## Version anglaise (EN)
 
@@ -58,6 +59,7 @@ Quel Placement est un media editorial independant. Tous les articles sont redige
 - Bank mobility in France: does the new bank handle everything? : https://quel-placement.com/en/blog/how-bank-mobility-works-france/
 - Best platform to invest 20,000 euros in AI : https://quel-placement.com/en/blog/best-platform-invest-20000-euros-ai/
 - Best platform to invest 100,000 euros in 2026 : https://quel-placement.com/en/blog/best-platform-invest-100000-euros/
+- Fundora or Ramify: which private equity platform? : https://quel-placement.com/en/blog/fundora-vs-ramify-private-equity/
 
 ## Informations techniques
 
