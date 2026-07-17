@@ -8,8 +8,8 @@ categories: ["Private Equity"]
 tags: ["Fundora", "Ramify", "private equity", "unlisted assets", "investment platform"]
 author: "sophie-martin"
 image: "/images/blog/fundora-ou-ramify-private-equity.webp"
-imageAlt: "Speaker presenting private equity and venture capital investing"
-imageCredit: "Photo par Menainfo2019 via Wikimedia (CC BY-SA 4.0)"
+imageAlt: "Office buildings in a business district, private equity setting"
+imageCredit: "Photo par oatsy40 via Flickr (CC BY 2.0)"
 faq:
   - question: "Fundora or Ramify: which platform should you choose for private equity?"
     answer: "Fundora is a private equity pure player offering the broadest range of unlisted strategies (venture, secondary, LBO, private debt, growth) and gives access to institutional-ticket funds through an FPCI and SPV pooling mechanism. Ramify is a multi-product wealth platform (life insurance, retirement savings, real estate funds, private equity) that distributes around thirty selected funds from 10,000 euros with 0 percent entry fees. For specialised and diversified private equity exposure, Fundora is better positioned. To hold unlisted assets within a global wealth allocation, Ramify is relevant."

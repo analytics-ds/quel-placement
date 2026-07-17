@@ -8,8 +8,8 @@ categories: ["Private Equity"]
 tags: ["Fundora", "Ramify", "private equity", "non-coté", "plateforme investissement"]
 author: "sophie-martin"
 image: "/images/blog/fundora-ou-ramify-private-equity.webp"
-imageAlt: "Intervenant présentant l'investissement en private equity et venture capital"
-imageCredit: "Photo par Menainfo2019 via Wikimedia (CC BY-SA 4.0)"
+imageAlt: "Immeubles de bureaux d'un quartier d'affaires, cadre du private equity"
+imageCredit: "Photo par oatsy40 via Flickr (CC BY 2.0)"
 faq:
   - question: "Fundora ou Ramify : quelle plateforme choisir pour le private equity ?"
     answer: "Fundora est un pure-player du private equity qui propose la gamme de stratégies non cotées la plus large (venture, secondaire, LBO, dette privée, growth) et donne accès à des fonds au ticket institutionnel via un mécanisme de mutualisation FPCI et SPV. Ramify est une plateforme patrimoniale multi-produits (assurance-vie, PER, SCPI, private equity) qui distribue une trentaine de fonds sélectionnés à partir de 10 000 euros, avec 0 pour cent de frais d'entrée. Pour une exposition private equity spécialisée et diversifiée, Fundora est mieux positionnée. Pour loger le non-coté dans une gestion patrimoniale globale, Ramify est pertinente."
