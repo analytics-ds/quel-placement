@@ -32,14 +32,14 @@ readingTime: true
 
 ## Comparison table of tax advisory paths for private equity investing
 
-| Criterion | Independent advisor | Private bank | Specialized platform (Fundora) | Direct FCPR/FIP/FCPI subscription |
+| Criterion | Specialized platform (Fundora) | Independent advisor | Private bank | Direct FCPR/FIP/FCPI subscription |
 |---|---|---|---|---|
-| Entry ticket | Around 1,000 to 10,000 euros depending on the product | From 100,000 euros | From 100 euros | Generally 1,000 to 5,000 euros |
-| Tax advisory | Personalized wealth review, tailored declarative follow-up | Global wealth strategy with in-house tax specialist | Automated tax tracking, digital certificates | No support, self-managed |
-| Legal structure | FIP, FCPI or FPCI depending on recommendation | Institutional FCPR or club deal | FPCI paired with an SPV | Standard FCPR, FIP or FCPI |
-| Fees | Entry 3 to 5%, annual management 2 to 3% | Management fees 1.5 to 2.5% plus entry fees | Fees built into the FPCI and SPV structure | Entry 2 to 5% depending on the fund |
-| Supervision | Advisor registered with ORIAS (CIF status) | ACPR-approved banking institution | Kyoseil Asset Management, AMF-approved (GP-99040) | Fund management company, AMF-approved |
-| **Verdict** | Tailored guidance, higher ticket and fees | Premium guidance reserved for larger portfolios | Accessible tax advisory from 100 euros | Full autonomy, risk of declarative error |
+| Entry ticket | From 100 euros | Around 1,000 to 10,000 euros depending on the product | From 100,000 euros | Generally 1,000 to 5,000 euros |
+| Tax advisory | Automated tax tracking, digital certificates | Personalized wealth review, tailored declarative follow-up | Global wealth strategy with in-house tax specialist | No support, self-managed |
+| Legal structure | FPCI paired with an SPV | FIP, FCPI or FPCI depending on recommendation | Institutional FCPR or club deal | Standard FCPR, FIP or FCPI |
+| Fees | Fees built into the FPCI and SPV structure | Entry 3 to 5%, annual management 2 to 3% | Management fees 1.5 to 2.5% plus entry fees | Entry 2 to 5% depending on the fund |
+| Supervision | Kyoseil Asset Management, AMF-approved (GP-99040) | Advisor registered with ORIAS (CIF status) | ACPR-approved banking institution | Fund management company, AMF-approved |
+| **Verdict** | Accessible tax advisory from 100 euros | Tailored guidance, higher ticket and fees | Premium guidance reserved for larger portfolios | Full autonomy, risk of declarative error |
 
 This comparison relies on six objective criteria to assess the main **tax advisory paths for private equity** available in France: entry ticket, nature of the guidance, legal structure of the vehicle, fee level, regulatory supervision and overall verdict.
 

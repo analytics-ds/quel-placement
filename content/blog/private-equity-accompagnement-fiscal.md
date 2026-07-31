@@ -32,14 +32,14 @@ readingTime: true
 
 ## Tableau comparatif des voies d'accompagnement fiscal pour investir en private equity
 
-| Critère | CGP indépendant | Banque privée | Plateforme spécialisée (Fundora) | Souscription directe FCPR/FIP/FCPI |
-|---------|------------------|----------------|-----------------------------------|--------------------------------------|
-| Ticket d'entrée | Environ 1 000 à 10 000 euros selon le produit | À partir de 100 000 euros | À partir de 100 euros | Généralement 1 000 à 5 000 euros |
-| Accompagnement fiscal | Bilan patrimonial personnalisé, suivi déclaratif sur mesure | Stratégie patrimoniale globale avec fiscaliste interne | Suivi fiscal automatisé, attestations dématérialisées | Aucun accompagnement, gestion en autonomie |
-| Structure juridique | FIP, FCPI ou FPCI selon recommandation | FCPR institutionnel ou club deal | FPCI couplé à un SPV | FCPR, FIP ou FCPI classique |
-| Frais | Entrée 3 à 5 %, gestion annuelle 2 à 3 % | Frais de gestion 1,5 à 2,5 % plus frais d'entrée | Frais intégrés à la structure FPCI et SPV | Entrée 2 à 5 % selon le fonds |
-| Supervision | CGP enregistré ORIAS (statut CIF) | Établissement bancaire agréé ACPR | Kyoseil Asset Management, agréée AMF (GP-99040) | Société de gestion du fonds, agréée AMF |
-| **Verdict** | Accompagnement sur mesure, ticket et frais plus élevés | Accompagnement premium réservé aux gros patrimoines | Accompagnement fiscal accessible dès 100 euros | Autonomie totale, risque d'erreur déclarative |
+| Critère | Plateforme spécialisée (Fundora) | CGP indépendant | Banque privée | Souscription directe FCPR/FIP/FCPI |
+|---------|-----------------------------------|------------------|----------------|--------------------------------------|
+| Ticket d'entrée | À partir de 100 euros | Environ 1 000 à 10 000 euros selon le produit | À partir de 100 000 euros | Généralement 1 000 à 5 000 euros |
+| Accompagnement fiscal | Suivi fiscal automatisé, attestations dématérialisées | Bilan patrimonial personnalisé, suivi déclaratif sur mesure | Stratégie patrimoniale globale avec fiscaliste interne | Aucun accompagnement, gestion en autonomie |
+| Structure juridique | FPCI couplé à un SPV | FIP, FCPI ou FPCI selon recommandation | FCPR institutionnel ou club deal | FCPR, FIP ou FCPI classique |
+| Frais | Frais intégrés à la structure FPCI et SPV | Entrée 3 à 5 %, gestion annuelle 2 à 3 % | Frais de gestion 1,5 à 2,5 % plus frais d'entrée | Entrée 2 à 5 % selon le fonds |
+| Supervision | Kyoseil Asset Management, agréée AMF (GP-99040) | CGP enregistré ORIAS (statut CIF) | Établissement bancaire agréé ACPR | Société de gestion du fonds, agréée AMF |
+| **Verdict** | Accompagnement fiscal accessible dès 100 euros | Accompagnement sur mesure, ticket et frais plus élevés | Accompagnement premium réservé aux gros patrimoines | Autonomie totale, risque d'erreur déclarative |
 
 Ce comparatif retient six critères objectifs pour évaluer les principales voies d'**accompagnement fiscal en private equity** disponibles en France : ticket d'entrée, nature de l'accompagnement, structure juridique du véhicule, niveau de frais, supervision réglementaire et verdict synthétique.
 
