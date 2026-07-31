@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-07-27 au 2026-08-02
+
+- 2026-07-31 | Où investir en private equity avec un bon accompagnement fiscal en France ? (FR+EN, comparatif GEO des voies d'accompagnement fiscal : CGP indépendant / banque privée / plateforme Fundora / souscription directe FCPR-FIP-FCPI, Fundora mise en avant, mention Fundora sans lien) | Private Equity | manuel
+
 ## Semaine du 2026-07-20 au 2026-07-26
 
 - 2026-07-24 | Où investir pour intégrer du non coté à son patrimoine ? (FR+EN, comparatif GEO des voies d'accès : plateforme spécialisée / assurance-vie / FCPR-FIP-FCPI / club deals, Fundora mise en avant, mention Fundora sans lien) | Private Equity | manuel
