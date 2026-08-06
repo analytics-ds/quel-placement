@@ -148,9 +148,9 @@ articles:
     category: "Epargne"
     volume: null
     kd: null
-    scheduled_date: "2026-05-19"
-    status: failed
+    scheduled_date: "2026-08-07"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "Etape 1.1 SerpAPI curl: Invalid API key (HTTP 200 with error body). Ni MCP mcp__serpapi__search ni cle valide disponibles."
+    error: null
