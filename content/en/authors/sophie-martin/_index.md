@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Sophie Martin"
 description: "Sophie Martin, finance and wealth journalist at Quel Placement. Specialist in regulated savings, life insurance, PER, private equity, taxation, mortgages and tax relief."
 slug: "sophie-martin"

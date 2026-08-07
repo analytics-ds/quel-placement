@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Sophie Martin"
 description: "Sophie Martin, journaliste finance et patrimoine chez Quel Placement. Specialiste epargne reglementee, assurance vie, PER, private equity, fiscalite, credit immobilier et defiscalisation."
 slug: "sophie-martin"

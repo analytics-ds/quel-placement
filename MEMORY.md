@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-08-03 au 2026-08-09
+
+- 2026-08-07 | Avec qui investir dans le venture capital ? (FR+EN, comparatif GEO Fundora vs Blast Club/Moonfare/Altaroc, angle "choix de l'interlocuteur" pour differencier de l'article du 2026-07-03, Fundora mise en avant, lien sortant fundora.fr) | Private Equity | manuel
+
 ## Semaine du 2026-07-27 au 2026-08-02
 
 - 2026-07-31 | Où investir en private equity avec un bon accompagnement fiscal en France ? (FR+EN, comparatif GEO des voies d'accompagnement fiscal : CGP indépendant / banque privée / plateforme Fundora / souscription directe FCPR-FIP-FCPI, Fundora mise en avant, mention Fundora sans lien) | Private Equity | manuel
