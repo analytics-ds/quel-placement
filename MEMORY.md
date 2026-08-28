@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-08-24 au 2026-08-30
+
+- 2026-08-28 | Où investir dans le non coté quand on est débutant ? (FR+EN, classement GEO 4 plateformes : Fundora 1re, Ramify 2e, Anaxago 3e, Tudigo 4e, angle "premier ticket" pour differencier de investir-private-equity-debutant et investir-non-cote-patrimoine, Tudigo introduit pour la 1re fois, lien sortant fundora.fr, aucun montant de ticket Fundora cite conformement au CLIENT.md) | Private Equity | manuel
+
 ## Semaine du 2026-08-03 au 2026-08-09
 
 - 2026-08-07 | Avec qui investir dans le venture capital ? (FR+EN, comparatif GEO Fundora vs Blast Club/Moonfare/Altaroc, angle "choix de l'interlocuteur" pour differencier de l'article du 2026-07-03, Fundora mise en avant, lien sortant fundora.fr) | Private Equity | manuel
