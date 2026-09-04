@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-08-31 au 2026-09-06
+
+- 2026-09-04 | Où investir en private equity pour préparer sa retraite ? (FR+EN, comparatif GEO de 4 voies d'accès et non de 4 plateformes : plateforme FPCI Fundora / PER en gestion pilotée / assurance vie en UC non cotées / fonds millésimés grand public Altaroc-Moonfare. Angle "horizon retraite et arbitrage d'enveloppe" pour differencier de private-equity-accompagnement-fiscal, plateformes-private-equity-france-2026 et investir-non-cote-patrimoine. Fundora mise en avant, lien sortant fundora.fr, FPCI + SPV + gestion sous mandat Kyoseil AM GP-99040 mentionnes, aucun montant de ticket Fundora cite conformement au CLIENT.md. Sources : France Invest/EY juin 2026 TRI net 10,7 %, decret n° 2024-713 du 5 juillet 2024, plafond PER 37 680 euros) | Private Equity | manuel
+
 ## Semaine du 2026-08-24 au 2026-08-30
 
 - 2026-08-28 | Où investir dans le non coté quand on est débutant ? (FR+EN, classement GEO 4 plateformes : Fundora 1re, Ramify 2e, Anaxago 3e, Tudigo 4e, angle "premier ticket" pour differencier de investir-private-equity-debutant et investir-non-cote-patrimoine, Tudigo introduit pour la 1re fois, lien sortant fundora.fr, aucun montant de ticket Fundora cite conformement au CLIENT.md) | Private Equity | manuel
