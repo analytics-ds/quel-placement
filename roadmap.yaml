@@ -154,3 +154,591 @@ articles:
     published_url_fr: null
     published_url_en: null
     error: null
+
+  # --- Roadmap semestrielle ajoutee le 2026-09-10 (52 articles, 6 mois, 2/semaine) ---
+  # Revue KW du 2026-09-14 : volumes et difficulte mesures sur Haloscan (Google FR).
+  #   volume = volume de recherche mensuel FR
+  #   kd     = KGR Haloscan (allintitle / volume). < 0,25 = facile, > 1 = dur.
+  # Inspiration concurrentielle (top pages Haloscan) : selexium.com pour la
+  # fiscalite, cafedupatrimoine.com pour les livrets et l'assurance,
+  # finary.com pour la bourse, le PEA et les simulateurs.
+  # Toutes les entrees todo a date future portent un volume et un KGR mesures.
+  # Les volume: null restants sont les 6 entrees deja done et l'entree en
+  # retard "PEA ou assurance vie" (2026-08-07), jamais passees en revue KW.
+  # Epargne
+  - kw: "meilleur pea"
+    category: "Epargne"
+    volume: 2700
+    kd: 0.22
+    scheduled_date: "2026-09-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "pea plafond"
+    category: "Epargne"
+    volume: 314
+    kd: 0.36
+    scheduled_date: "2026-10-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "pea pme"
+    category: "Epargne"
+    volume: 3700
+    kd: 1.64
+    scheduled_date: "2026-10-27"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "compte titres"
+    category: "Epargne"
+    volume: 4900
+    kd: 0.61
+    scheduled_date: "2026-11-17"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "lep plafond"
+    category: "Epargne"
+    volume: 3700
+    kd: 0.12
+    scheduled_date: "2026-12-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "livret a plafond"
+    category: "Epargne"
+    volume: 23600
+    kd: 0.05
+    scheduled_date: "2026-12-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "compte a terme"
+    category: "Epargne"
+    volume: 11900
+    kd: 0.42
+    scheduled_date: "2027-01-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "livret booste"
+    category: "Epargne"
+    volume: 2200
+    kd: 0.05
+    scheduled_date: "2027-01-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "pea jeune"
+    category: "Epargne"
+    volume: 2800
+    kd: 0.12
+    scheduled_date: "2027-02-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "plafond ldds"
+    category: "Epargne"
+    volume: 500
+    kd: 1.41
+    scheduled_date: "2027-02-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "livret jeune"
+    category: "Epargne"
+    volume: 800
+    kd: 0.31
+    scheduled_date: "2027-03-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cloturer un livret a"
+    category: "Epargne"
+    volume: 655
+    kd: 0.01
+    scheduled_date: "2027-03-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Fiscalite
+  - kw: "taux marginal d imposition"
+    category: "Fiscalite"
+    volume: 6000
+    kd: 0.17
+    scheduled_date: "2026-09-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "frais reels impots"
+    category: "Fiscalite"
+    volume: 1057
+    kd: 0.23
+    scheduled_date: "2026-10-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "quotient familial"
+    category: "Fiscalite"
+    volume: 30200
+    kd: 0.36
+    scheduled_date: "2026-10-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "declarer revenus fonciers"
+    category: "Fiscalite"
+    volume: 2417
+    kd: 0.002
+    scheduled_date: "2026-11-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "prelevement a la source"
+    category: "Fiscalite"
+    volume: 4000
+    kd: 0.47
+    scheduled_date: "2026-12-11"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "flat tax"
+    category: "Fiscalite"
+    volume: 24600
+    kd: 0.19
+    scheduled_date: "2026-12-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "donation abattement"
+    category: "Fiscalite"
+    volume: 1727
+    kd: 0.3
+    scheduled_date: "2027-01-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "droits de succession"
+    category: "Fiscalite"
+    volume: 16500
+    kd: 1.09
+    scheduled_date: "2027-02-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "deficit foncier"
+    category: "Fiscalite"
+    volume: 2700
+    kd: 0.64
+    scheduled_date: "2027-02-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "tableau plus value immobiliere"
+    category: "Fiscalite"
+    volume: 3273
+    kd: 0.04
+    scheduled_date: "2027-03-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Assurance
+  - kw: "assurance vie succession"
+    category: "Assurance"
+    volume: 700
+    kd: 3.36
+    scheduled_date: "2026-09-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "retrait assurance vie"
+    category: "Assurance"
+    volume: 1200
+    kd: 0.23
+    scheduled_date: "2026-10-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "assurance vie fonctionnement"
+    category: "Assurance"
+    volume: 800
+    kd: 0.79
+    scheduled_date: "2026-11-03"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "attestation responsabilite civile"
+    category: "Assurance"
+    volume: 9900
+    kd: 0.1
+    scheduled_date: "2026-11-24"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "assurance deces"
+    category: "Assurance"
+    volume: 900
+    kd: 9.83
+    scheduled_date: "2026-12-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "assurance habitation"
+    category: "Assurance"
+    volume: 68800
+    kd: 0.84
+    scheduled_date: "2026-12-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comparateur assurance auto"
+    category: "Assurance"
+    volume: 50300
+    kd: 0.07
+    scheduled_date: "2027-01-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "assurance scolaire"
+    category: "Assurance"
+    volume: 1800
+    kd: 0.74
+    scheduled_date: "2027-02-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "resilier assurance auto"
+    category: "Assurance"
+    volume: 4500
+    kd: 0.09
+    scheduled_date: "2027-02-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "resiliation assurance habitation"
+    category: "Assurance"
+    volume: 360
+    kd: 3.81
+    scheduled_date: "2027-03-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Compte bancaire
+  - kw: "virement instantane"
+    category: "Compte bancaire"
+    volume: 22900
+    kd: 0.12
+    scheduled_date: "2026-09-25"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "interdit bancaire"
+    category: "Compte bancaire"
+    volume: 5500
+    kd: 0.71
+    scheduled_date: "2026-10-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "consultation ficp en ligne"
+    category: "Compte bancaire"
+    volume: 2700
+    kd: 0.001
+    scheduled_date: "2026-11-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "procuration bancaire"
+    category: "Compte bancaire"
+    volume: 2700
+    kd: 0.39
+    scheduled_date: "2026-11-27"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "virement d une banque a une autre"
+    category: "Compte bancaire"
+    volume: 1900
+    kd: 0.01
+    scheduled_date: "2026-12-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "decouvert bancaire"
+    category: "Compte bancaire"
+    volume: 1727
+    kd: 0.2
+    scheduled_date: "2027-01-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "opposition carte bancaire"
+    category: "Compte bancaire"
+    volume: 2200
+    kd: 0.39
+    scheduled_date: "2027-01-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "compte joint"
+    category: "Compte bancaire"
+    volume: 4000
+    kd: 0.89
+    scheduled_date: "2027-02-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Credit
+  - kw: "pret a taux zero"
+    category: "Credit"
+    volume: 24600
+    kd: 0.01
+    scheduled_date: "2026-09-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "credit conso"
+    category: "Credit"
+    volume: 1800
+    kd: 0.23
+    scheduled_date: "2026-10-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "credit renouvelable"
+    category: "Credit"
+    volume: 15100
+    kd: null
+    scheduled_date: "2026-11-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "capacite d emprunt"
+    category: "Credit"
+    volume: 15083
+    kd: 0.07
+    scheduled_date: "2026-12-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "simulation credit immobilier"
+    category: "Credit"
+    volume: 3100
+    kd: 0.08
+    scheduled_date: "2026-12-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "simulation credit auto"
+    category: "Credit"
+    volume: 3009
+    kd: 0.14
+    scheduled_date: "2027-01-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "regroupement de credits"
+    category: "Credit"
+    volume: 1138
+    kd: null
+    scheduled_date: "2027-01-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "taux d endettement calcul"
+    category: "Credit"
+    volume: 173
+    kd: 2.33
+    scheduled_date: "2027-02-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # Private Equity
+  - kw: "scpi"
+    category: "Private Equity"
+    volume: 44300
+    kd: 0.01
+    scheduled_date: "2026-10-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "placement financier"
+    category: "Epargne"
+    volume: 5600
+    kd: 0.7
+    scheduled_date: "2026-10-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "investir dans une start up"
+    category: "Private Equity"
+    volume: 1100
+    kd: 0.14
+    scheduled_date: "2026-11-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sofica"
+    category: "Private Equity"
+    volume: 2000
+    kd: 6.9
+    scheduled_date: "2026-12-04"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
