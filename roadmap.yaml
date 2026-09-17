@@ -149,10 +149,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-08-07"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-17"
+    published_url_fr: "https://quel-placement.com/blog/pea-ou-assurance-vie/"
+    published_url_en: "https://quel-placement.com/en/blog/pea-vs-life-insurance/"
     error: null
 
   # --- Roadmap semestrielle ajoutee le 2026-09-10 (52 articles, 6 mois, 2/semaine) ---

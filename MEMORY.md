@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-09-14 au 2026-09-20
+
+- 2026-09-17 | PEA ou assurance vie : comment choisir (FR+EN) | Epargne | auto | mode: datafer | image: pexels | score: 65/52
+
 ## Semaine du 2026-08-31 au 2026-09-06
 
 - 2026-09-04 | Où investir en private equity pour préparer sa retraite ? (FR+EN, comparatif GEO de 4 voies d'accès et non de 4 plateformes : plateforme FPCI Fundora / PER en gestion pilotée / assurance vie en UC non cotées / fonds millésimés grand public Altaroc-Moonfare. Angle "horizon retraite et arbitrage d'enveloppe" pour differencier de private-equity-accompagnement-fiscal, plateformes-private-equity-france-2026 et investir-non-cote-patrimoine. Fundora mise en avant, lien sortant fundora.fr, FPCI + SPV + gestion sous mandat Kyoseil AM GP-99040 mentionnes, aucun montant de ticket Fundora cite conformement au CLIENT.md. Sources : France Invest/EY juin 2026 TRI net 10,7 %, decret n° 2024-713 du 5 juillet 2024, plafond PER 37 680 euros) | Private Equity | manuel
