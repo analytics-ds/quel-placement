@@ -171,10 +171,10 @@ articles:
     volume: 2700
     kd: 0.22
     scheduled_date: "2026-09-15"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-18"
+    published_url_fr: "https://quel-placement.com/blog/meilleur-pea/"
+    published_url_en: "https://quel-placement.com/en/blog/best-pea/"
     error: null
 
   - kw: "pea plafond"

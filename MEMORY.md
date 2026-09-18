@@ -6,6 +6,7 @@ Limite : 4 articles par semaine max.
 ## Semaine du 2026-09-14 au 2026-09-20
 
 - 2026-09-17 | PEA ou assurance vie : comment choisir (FR+EN) | Epargne | auto | mode: datafer | image: pexels | score: 65/52
+- 2026-09-18 | Meilleur PEA : comment bien choisir (FR+EN, angle criteres de choix sans classement de courtiers ni chiffres de frais non sources, AIO non verifiee : CrazySERP indisponible) | Epargne | auto | mode: datafer | image: pexels | score: 53/68
 
 ## Semaine du 2026-08-31 au 2026-09-06
 
