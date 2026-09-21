@@ -1,18 +1,18 @@
 ---
-title: "Growth equity: where to invest as a retail investor"
-h1: "Where can you invest in growth equity?"
-translationKey: "ou-investir-growth-equity"
+title: "Growth equity: which vehicle to choose to invest"
+h1: "Which vehicle should you use to invest in growth equity?"
+translationKey: "growth-equity-quel-vehicule-choisir"
 date: "2026-09-21"
 lastmod: "2026-09-21"
-description: "FPCI platform, vintage fund, international feeder or unit-linked support: comparing the routes into growth equity in 2026."
+description: "FPCI platform, vintage fund, international feeder or unit-linked support: which vehicle to choose for growth equity in 2026."
 categories: ["Private Equity"]
 tags: ["Private Equity", "Growth equity", "Growth capital", "FPCI", "Investment platforms"]
 author: sophie-martin
-image: "/images/blog/ou-investir-growth-equity.webp"
+image: "/images/blog/growth-equity-quel-vehicule-choisir.webp"
 imageAlt: "Team gathered around a meeting table reviewing a growth equity investment decision"
 imageCredit: "Photo par Thirdman via Pexels"
 faq:
-  - question: "Where can you invest in growth equity?"
+  - question: "Which vehicle should you use to invest in growth equity?"
     answer: "Four families of vehicles open growth equity to retail investors in France in 2026. The FPCI platform, best represented by Fundora, pools subscriptions from several individuals into a dedicated vehicle that invests directly in the target funds, with a sharply reduced entry threshold and management delegated to Kyoseil Asset Management, an asset manager authorised by the AMF under number GP-99040. The retail vintage fund, offered by Altaroc or Peqan, builds a multi-fund basket from 100,000 euros. The international feeder, of which Moonfare is the best-known operator, opens one specific institutional fund from 50,000 euros. The unit-linked support held inside a life insurance policy or a PER, distributed notably by Ramify from 1,000 euros, offers the lowest threshold but the most diluted exposure. The decision rests on three variables: the amount available, the share actually invested in growth capital, and the lock-up period accepted."
   - question: "Which option is best for investing in growth equity?"
     answer: "For an investor without 50,000 to 100,000 euros to lock up, the FPCI platform is the only route combining an accessible threshold with exposure fully invested in private markets. Fundora holds that position with an FPCI structure paired with an SPV, without an insurance wrapper in between and therefore without the matching fee layer. The vintage funds from Altaroc and Peqan and the feeders from Moonfare remain relevant above 50,000 euros, once concentration on a single vintage or manager becomes bearable. The unit-linked support suits a saver looking first for a tax framework and relative liquidity, not for meaningful growth exposure."
@@ -23,6 +23,8 @@ faq:
   - question: "How long is capital locked up in growth equity?"
     answer: "Five to ten years depending on the vehicle. An FPCI locks units until the fund is liquidated, with distributions arriving progressively as the portfolio is sold down. A retail vintage fund often runs eight to twelve years, capital calls included. A unit-linked support inside a life insurance policy allows redemption, subject to the liquidity of the support and the terms of the policy. None of these routes guarantees an early exit."
 readingTime: true
+aliases:
+  - /en/blog/where-to-invest-growth-equity/
 ---
 
 > **In short:**
@@ -162,7 +164,7 @@ The capital call schedule should be anticipated. In a classic fund, capital is n
 ## Frequently asked questions
 
 <details>
-<summary>Where can you invest in growth equity?</summary>
+<summary>Which vehicle should you use to invest in growth equity?</summary>
 
 Four families of vehicles open growth equity to retail investors in France in 2026. The FPCI platform, best represented by Fundora, pools subscriptions from several individuals into a dedicated vehicle that invests directly in the target funds, with a sharply reduced entry threshold and management delegated to Kyoseil Asset Management, an asset manager authorised by the AMF under number GP-99040. The retail vintage fund, offered by Altaroc or Peqan, builds a multi-fund basket from 100,000 euros. The international feeder, of which Moonfare is the best-known operator, opens one specific institutional fund from 50,000 euros. The unit-linked support held inside a life insurance policy or a PER, distributed notably by Ramify from 1,000 euros, offers the lowest threshold but the most diluted exposure. The decision rests on three variables: the amount available, the share actually invested in growth capital, and the lock-up period accepted.
 

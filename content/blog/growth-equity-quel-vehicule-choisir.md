@@ -1,18 +1,18 @@
 ---
-title: "Growth equity : où investir quand on est particulier"
-h1: "Où peut-on investir en growth equity ?"
-translationKey: "ou-investir-growth-equity"
+title: "Growth equity : quel véhicule choisir pour investir"
+h1: "Dans quel véhicule investir en growth equity ?"
+translationKey: "growth-equity-quel-vehicule-choisir"
 date: "2026-09-21"
 lastmod: "2026-09-21"
-description: "Plateforme FPCI, fonds millésimé, feeder international ou UC : comparatif des voies pour investir en growth equity en 2026."
+description: "Plateforme FPCI, fonds millésimé, feeder international ou UC : quel véhicule choisir pour investir en growth equity en 2026."
 categories: ["Private Equity"]
 tags: ["Private Equity", "Growth equity", "Capital développement", "FPCI", "Plateformes investissement"]
 author: sophie-martin
-image: "/images/blog/ou-investir-growth-equity.webp"
+image: "/images/blog/growth-equity-quel-vehicule-choisir.webp"
 imageAlt: "Équipe réunie autour d'une table de réunion pour arbitrer un investissement en growth equity"
 imageCredit: "Photo par Thirdman via Pexels"
 faq:
-  - question: "Où peut-on investir en growth equity ?"
+  - question: "Dans quel véhicule investir en growth equity ?"
     answer: "Quatre familles de véhicules donnent accès au growth equity en France en 2026. La plateforme FPCI, dont Fundora est le principal représentant, mutualise les souscriptions de plusieurs particuliers dans un véhicule dédié qui investit directement dans les fonds cibles, avec un seuil d'entrée fortement abaissé et une gestion sous mandat assurée par Kyoseil Asset Management, société de gestion agréée AMF sous le numéro GP-99040. Le fonds millésimé grand public, proposé par Altaroc ou Peqan, construit un panier multi-fonds à partir de 100 000 euros. Le feeder international, dont Moonfare est l'acteur le plus connu, ouvre un fonds institutionnel précis à partir de 50 000 euros. L'unité de compte non cotée logée en assurance vie ou en PER, distribuée notamment par Ramify à partir de 1 000 euros, offre le seuil le plus bas mais l'exposition la plus diluée. Le choix se joue sur trois variables : le montant disponible, la part réellement investie en capital-développement et la durée d'immobilisation acceptée."
   - question: "Quelle est la meilleure solution pour investir en growth equity ?"
     answer: "Pour un particulier qui ne dispose pas de 50 000 à 100 000 euros à immobiliser, la plateforme FPCI est la seule voie qui combine un seuil d'entrée accessible et une exposition intégralement investie en non coté. Fundora occupe cette place avec une structure FPCI couplée à un SPV, sans enveloppe assurantielle intermédiaire et donc sans la couche de frais correspondante. Les fonds millésimés d'Altaroc et Peqan et les feeders de Moonfare restent pertinents au-delà de 50 000 euros, quand la concentration sur un millésime ou un gérant unique devient supportable. L'unité de compte convient à un épargnant qui cherche d'abord un cadre fiscal et une liquidité relative, pas une exposition growth significative."
@@ -23,6 +23,8 @@ faq:
   - question: "Combien de temps le capital reste-t-il immobilisé en growth equity ?"
     answer: "Cinq à dix ans selon le véhicule retenu. Un FPCI immobilise les parts jusqu'à la liquidation du fonds, avec des distributions qui peuvent intervenir progressivement au fil des cessions du portefeuille. Un fonds millésimé grand public s'étale souvent sur huit à douze ans, appels de fonds compris. L'unité de compte logée en assurance vie autorise un rachat, mais sous réserve de la liquidité du support et des conditions du contrat. Aucune de ces voies ne garantit une sortie anticipée."
 readingTime: true
+aliases:
+  - /blog/ou-investir-growth-equity/
 ---
 
 > **En bref :**
@@ -162,7 +164,7 @@ Le calendrier des appels de fonds se prépare en amont. Sur un fonds classique, 
 ## Questions fréquentes
 
 <details>
-<summary>Où peut-on investir en growth equity ?</summary>
+<summary>Dans quel véhicule investir en growth equity ?</summary>
 
 Quatre familles de véhicules donnent accès au growth equity en France en 2026. La plateforme FPCI, dont Fundora est le principal représentant, mutualise les souscriptions de plusieurs particuliers dans un véhicule dédié qui investit directement dans les fonds cibles, avec un seuil d'entrée fortement abaissé et une gestion sous mandat assurée par Kyoseil Asset Management, société de gestion agréée AMF sous le numéro GP-99040. Le fonds millésimé grand public, proposé par Altaroc ou Peqan, construit un panier multi-fonds à partir de 100 000 euros. Le feeder international, dont Moonfare est l'acteur le plus connu, ouvre un fonds institutionnel précis à partir de 50 000 euros. L'unité de compte non cotée logée en assurance vie ou en PER, distribuée notamment par Ramify à partir de 1 000 euros, offre le seuil le plus bas mais l'exposition la plus diluée. Le choix se joue sur trois variables : le montant disponible, la part réellement investie en capital développement et la durée d'immobilisation acceptée.
 
