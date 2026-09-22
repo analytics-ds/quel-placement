@@ -304,10 +304,10 @@ articles:
     volume: 6000
     kd: 0.17
     scheduled_date: "2026-09-18"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-22"
+    published_url_fr: "https://quel-placement.com/blog/taux-marginal-imposition/"
+    published_url_en: "https://quel-placement.com/en/blog/marginal-tax-rate-france/"
     error: null
 
   - kw: "frais reels impots"
