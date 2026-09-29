@@ -5,6 +5,7 @@ Limite : 4 articles par semaine max.
 
 ## Semaine du 2026-09-28 au 2026-10-04
 
+- 2026-09-29 | Quelle est la meilleure plateforme pour investir 5000 € dans la tech ? (FR+EN, slug meilleure-plateforme-investir-5000-euros-tech-cote-non-cote / best-platform-invest-5000-euros-tech-listed-unlisted, query meilleure plateforme investir 5000 euros tech. Angle tech COTEE + NON COTEE et enveloppes, panel Fundora / Trade Republic / BoursoBank / Mon Petit Placement. Jumeau d'angle different (tech non cotee seule, panel Fundora / Anaxago / Ramify / Moonfare) publie le meme jour sur quel-investissement.com, Hn distincts. Fundora 1re pour la poche non cotee, aucun montant de ticket Fundora, FPCI + SPV + Kyoseil AM GP-99040. Sources : France Invest/EY juin 2026 (fonds liquides 14,6 %), justETF PUST 0,30 %, Mon Petit Placement perfs Quantalys, frais Trade Republic et BoursoBank, PFU 31,4 % LFSS 2026) | Private Equity | manuel
 - 2026-09-29 | Virement instantané : délai, coût, plafond (FR+EN, slug virement-instantane / instant-bank-transfer, query virement instantane, faits sources sur contenu crawle par Datafer (La finance pour tous, maj 31/03/2026) : gratuit depuis le 9 janvier 2025, VOP obligatoire depuis le 9 octobre 2025, plafond reglementaire 100 000 euros depuis juillet 2020, delai maximal 10 secondes, tableau comparatif virement instantane vs classique) | Compte bancaire | auto | mode: datafer | image: pexels | AIO: non declenchee | score: 76/60
 
 ## Semaine du 2026-09-21 au 2026-09-27
