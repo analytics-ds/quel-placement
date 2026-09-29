@@ -54,6 +54,7 @@ Quel Placement est un media editorial independant. Tous les articles sont redige
 - Dans quel véhicule investir en growth equity ? : https://quel-placement.com/blog/growth-equity-quel-vehicule-choisir/
 - Taux marginal d'imposition (TMI) : calcul : https://quel-placement.com/blog/taux-marginal-imposition/
 - Assurance vie succession : règles fiscales : https://quel-placement.com/blog/assurance-vie-succession/
+- Virement instantané : délai, coût, plafond : https://quel-placement.com/blog/virement-instantane/
 
 ## Version anglaise (EN)
 
@@ -80,6 +81,7 @@ Quel Placement est un media editorial independant. Tous les articles sont redige
 - Best PEA: How to Choose Wisely : https://quel-placement.com/en/blog/best-pea/
 - French marginal tax rate (TMI): calculation : https://quel-placement.com/en/blog/marginal-tax-rate-france/
 - Life insurance inheritance: tax rules : https://quel-placement.com/en/blog/life-insurance-inheritance/
+- Instant bank transfer: delay, cost, cap : https://quel-placement.com/en/blog/instant-bank-transfer/
 
 ## Informations techniques
 

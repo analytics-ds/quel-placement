@@ -526,10 +526,10 @@ articles:
     volume: 22900
     kd: 0.12
     scheduled_date: "2026-09-25"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-29"
+    published_url_fr: "https://quel-placement.com/blog/virement-instantane/"
+    published_url_en: "https://quel-placement.com/en/blog/instant-bank-transfer/"
     error: null
 
   - kw: "interdit bancaire"

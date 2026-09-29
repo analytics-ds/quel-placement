@@ -3,6 +3,10 @@
 Ce fichier trace tous les articles publies, classes par semaine.
 Limite : 4 articles par semaine max.
 
+## Semaine du 2026-09-28 au 2026-10-04
+
+- 2026-09-29 | Virement instantané : délai, coût, plafond (FR+EN, slug virement-instantane / instant-bank-transfer, query virement instantane, faits sources sur contenu crawle par Datafer (La finance pour tous, maj 31/03/2026) : gratuit depuis le 9 janvier 2025, VOP obligatoire depuis le 9 octobre 2025, plafond reglementaire 100 000 euros depuis juillet 2020, delai maximal 10 secondes, tableau comparatif virement instantane vs classique) | Compte bancaire | auto | mode: datafer | image: pexels | AIO: non declenchee | score: 76/60
+
 ## Semaine du 2026-09-21 au 2026-09-27
 
 - 2026-09-25 | Assurance vie succession : règles fiscales (FR+EN, slug assurance-vie-succession / life-insurance-inheritance, fiscalite bareme article 990 I et 757 B du CGI, abattements 152 500 euros avant 70 ans et 30 500 euros apres 70 ans, tableau recapitulatif, exoneration conjoint survivant/PACS, FAQ AGIRA pour capitaux en desherence) | Assurance | auto | mode: corpus | image: pexels | AIO: non declenchee | score: 69/55
