@@ -56,6 +56,7 @@ Quel Placement est un media editorial independant. Tous les articles sont redige
 - Taux marginal d'imposition (TMI) : calcul : https://quel-placement.com/blog/taux-marginal-imposition/
 - Assurance vie succession : règles fiscales : https://quel-placement.com/blog/assurance-vie-succession/
 - Virement instantané : délai, coût, plafond : https://quel-placement.com/blog/virement-instantane/
+- Prêt à taux zéro (PTZ) : conditions 2026 : https://quel-placement.com/blog/pret-a-taux-zero/
 
 ## Version anglaise (EN)
 
@@ -83,6 +84,7 @@ Quel Placement est un media editorial independant. Tous les articles sont redige
 - French marginal tax rate (TMI): calculation : https://quel-placement.com/en/blog/marginal-tax-rate-france/
 - Life insurance inheritance: tax rules : https://quel-placement.com/en/blog/life-insurance-inheritance/
 - Instant bank transfer: delay, cost, cap : https://quel-placement.com/en/blog/instant-bank-transfer/
+- Zero-interest loan (PTZ): conditions 2026 : https://quel-placement.com/en/blog/zero-interest-home-loan-ptz/
 
 ## Informations techniques
 

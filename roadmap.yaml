@@ -615,10 +615,10 @@ articles:
     volume: 24600
     kd: 0.01
     scheduled_date: "2026-09-29"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-10-02"
+    published_url_fr: "https://quel-placement.com/blog/pret-a-taux-zero/"
+    published_url_en: "https://quel-placement.com/en/blog/zero-interest-home-loan-ptz/"
     error: null
 
   - kw: "credit conso"
